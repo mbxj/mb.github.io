@@ -1,0 +1,41 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-4.m3u8
+#EXTINF:-1,广东体育
+http://171.38.25.112:8181/tsfile/live/1041_1.m3u8
+#EXTINF:-1,广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-10.m3u8
+#EXTINF:-1,广东体育
+http://113.102.83.24:4022/udp/239.77.0.112:5146
+#EXTINF:-1,纬来体育
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
+#EXTINF:-1,纬来体育
+http://8.137.59.151:3000/laoshu.php?key=66&id=47
+#EXTINF:-1,纬来体育
+http://211.72.65.236:8585/.m3u8
+#EXTINF:-1,纬来体育
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1,纬来体育
+rtmp://f13h.mine.nu:1935/sat/tv721
+#EXTINF:-1,纬来体育
+https://stream1.freetv.fun/293ffc7d611ff105b214c4988db64f399b5ab87a1b5395ca4ff735e98645e854.ctv
+#EXTINF:-1,纬来体育
+https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1,纬来体育
+https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
+#EXTINF:-1,纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1,风云足球
+http://112.234.23.81:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/魅力足球" tvg-id="魅力足球" tvg-name="魅力足球" group-title="体育频道",魅力足球
+http://dd.ddzb.fun/php/migu.php?id=mlzq
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/魅力足球" tvg-id="魅力足球" tvg-name="魅力足球" group-title="体育频道",魅力足球
+https://stream1.freetv.fun/mei-li-zu-qiu-3.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/魅力足球" tvg-id="魅力足球" tvg-name="魅力足球" group-title="体育频道",魅力足球
+http://110.177.146.152:888/udp/239.1.1.75:8075
+#EXTINF:-1,ELEVEN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1,快乐垂钓
+http://110.177.146.152:888/udp/239.1.1.86:8086
+#EXTINF:-1,Trace_Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
