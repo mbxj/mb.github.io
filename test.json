@@ -3,6 +3,20 @@
     "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
     "logo": "https://like.xn--z7x900a.com/panda/0262.png",
     "sites": [{
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
+    },{
       "key": "繁荣",
       "name": "🥝凡人┃1080P",
       "type": 3,
@@ -51,21 +65,7 @@
         "type": 3,
         "api": "csp_Qiyou"
       },
-    {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
-    },
+    
       {
         "key": "豆瓣",
         "name": "🐼┃豆瓣┃预告",
