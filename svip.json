@@ -1,7 +1,23 @@
 {
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731126610038/fan.txt;md5;118bca13418f13c45c5c237ac93c2f07",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "sites": [{
+    "sites": [
+      {
+        "key": "蜡笔弹幕",
+        "name": "👠蜡笔┃弹幕",
+        "type": 3,
+        "api": "csp_Wobg",
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "ext": {
+          "token": "file://TV/ali_token.txt",
+          "cookie": "file://TV/quark_cookie.txt",
+          "site": "http://labipan.com",
+          "danmu": true
+        },
+        "timeout": 25
+      },{
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
