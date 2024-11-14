@@ -1,73 +1,162 @@
-#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
-#EXTINF:-1,TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1,TVB星河
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1,亚洲卫视
-https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0$IPV4
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视" group-title="💓港澳台📶",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视" group-title="💓港澳台📶",香港卫视
-http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视" group-title="💓港澳台📶",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8$LR•IPV4『线路2』
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视" group-title="💓港澳台📶",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$LR•IPV4『线路5』
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视" group-title="💓港澳台📶",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路11』
-#EXTINF:-1,粤语星爷电影
-http://159.75.85.63:35455/huya/1133658
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/大爱二台" tvg-id="大爱二台" tvg-name="大爱二台" group-title="💓台湾台📶",大爱二台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/魅力足球" tvg-id="魅力足球" tvg-name="魅力足球" group-title="体育频道",魅力足球
-http://110.177.146.152:888/udp/239.1.1.75:8075
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/魅力足球" tvg-id="魅力足球" tvg-name="魅力足球" group-title="体育频道",魅力足球
-http://110.177.146.152:888/rtp/239.1.1.75:8075
-#EXTINF:-1,凤凰中文
-http://122.224.232.218:8888/rtp/233.50.200.191:5140
-#EXTINF:-1,凤凰资讯
-http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1,凤凰资讯
-http://211.72.65.236:8576/.m3u8
-#EXTINF:-1,凤凰资讯
-http://8.137.59.151:3000/laoshu.php?key=66&id=2
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台" group-title="港澳台",翡翠台
-http://beishan008.asuscomm.com:8889/bysid/1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台" group-title="港澳台",翡翠台
-http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
-#EXTINF:-1,无线新闻
-http://cdn.iptv8k.top/dl/jspd.php?id=2
-#EXTINF:-1,无线新闻
-http://8.137.59.151:3000/laoshu.php?key=66&id=7
-#EXTINF:-1,无线新闻
-https://nothingbe.serv00.net/tvb.php?id=C&type=hd
-#EXTINF:-1,无线星河
-http://8.137.59.151:3000/laoshu.php?key=66&id=13
-#EXTINF:-1,香港佛陀
-https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1,香港佛陀
-http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-#EXTINF:-1,八大戏剧
-http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-#EXTINF:-1,八大综合
-http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
-#EXTINF:-1,台视新闻
-http://8.137.59.151:3000/laoshu.php?key=66&id=26
-#EXTINF:-1,中视新闻
-http://8.137.59.151:3000/laoshu.php?key=66&id=27
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/民视" tvg-id="民视" tvg-name="民视" group-title="港澳台",民视
-http://37.27.111.214:8080/live/6/hls.m3u8
-#EXTINF:-1,民视新闻
-http://8.137.59.151:3000/laoshu.php?key=66&id=34
-#EXTINF:-1,有线新闻
-http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
-#EXTINF:-1,有线新闻
-http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1,有线新闻
-http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
-#EXTINF:-1,GOODTV经典音乐河
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-#EXTINF:-1,法·时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-#EXTINF:-1,三立戏剧
-http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/28ai" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+
+#EXTINF:2 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/channel5hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+
+#EXTINF:3 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/channel8hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+
+#EXTINF:4 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+
+#EXTINF:5 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/hoy78" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Hoy 78
+http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+
+#EXTINF:6 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/mytvsuper18" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+
+#EXTINF:7 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/popc" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+
+#EXTINF:8 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/rockaction" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+
+#EXTINF:9 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbplus" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+
+#EXTINF:10 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbs" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+
+#EXTINF:11 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbs-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+
+#EXTINF:12 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvn" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+
+#EXTINF:13 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-12" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+
+#EXTINF:14 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-8" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+
+#EXTINF:15 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-10" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+
+#EXTINF:16 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-15" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 千禧經典台
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+
+#EXTINF:17 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/hk" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 娛樂新聞台(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+
+#EXTINF:18 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-9" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+
+#EXTINF:19 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-13" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 日本全天新聞
+http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+
+#EXTINF:20 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-19" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+
+#EXTINF:21 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-2" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+
+#EXTINF:22 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+
+#EXTINF:23 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/hk-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 美亞電影台(HK)
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+
+#EXTINF:24 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-18" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+
+#EXTINF:25 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+
+#EXTINF:26 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-17" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+
+#EXTINF:27 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-11" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+
+#EXTINF:28 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-6" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 靖天電影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+
+#EXTINF:29 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-3" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+
+#EXTINF:30 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-4" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+
+#EXTINF:31 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-5" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+
+#EXTINF:32 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-21" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+
+#EXTINF:33 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-22" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 龍華日韓台
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+
+#EXTINF:34 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-7" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 龍華經典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+
+#EXTINF:35 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-23" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 龍華電影台
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+
+
+#EXTINF:38 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/viutv99" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", viutv 99
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+
+#EXTINF:39 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/viutv696" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", viutv6 96
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+
+#EXTINF:40 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/null-1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", 无线新闻台(北美)	
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+
+
+#EXTINF:42 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/animaxhk" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Animax-HK
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+
+#EXTINF:43 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/c" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", C+台
+http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+
+#EXTINF:44 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/dw" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+
+#EXTINF:45 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/france24" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+
+#EXTINF:46 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/kix" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+
+#EXTINF:47 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/lovenaturehd" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+
+#EXTINF:48 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/nhkworldjapan" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+
+#EXTINF:49 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/nickjr" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+
+#EXTINF:50 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/nickelodeon" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+
+#EXTINF:51 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/rockaction" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", ROCK Action
+http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+
+#EXTINF:52 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/thrill" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+
+#EXTINF:53 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/zoomoo" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+
+#EXTINF:54 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null-3" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+
+#EXTINF:55 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 東方衛視國際頻道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+
+#EXTINF:56 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null-2" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
