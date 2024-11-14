@@ -4,6 +4,19 @@
   "warningText": "老板欢迎你的到来",
   "sites": [
     {
+      "key": "310js",
+      "name": "⚽ 310┃看球",
+      "type": 3,
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+      "ext": "https://notabug.org/fantaiying/ext/raw/main/310直播.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "豆豆",
       "name": "备用公众号【叨观荐影】",
       "type": 3,
