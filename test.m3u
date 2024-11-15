@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:22 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 無線新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:25 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
