@@ -1,3 +1,2 @@
 #EXTM3U x-tvg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:25 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+
