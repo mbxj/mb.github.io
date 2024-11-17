@@ -9,9 +9,6 @@ http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:4 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel U HD
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 
-#EXTINF:5 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/hoy78" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Hoy 78
-http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
-
 #EXTINF:6 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/mytvsuper18" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 
