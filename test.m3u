@@ -18,3 +18,9 @@ http://218.80.115.127:8880/rtp/239.45.3.209:5140
 
 #EXTINF:-1,tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://epg.v1.mk/logo/新闻综合.png" group-title="星期三_上海_20241120_1651",新闻综合
 http://218.80.115.127:8880/rtp/239.45.3.209:5140
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="星期三_浙江_20241120_1653",CCTV1
+http://60.186.12.96:8888/rtp/233.50.201.118:5140
+
+#EXTINF:-1,tvg-id="CQTV1" tvg-name="CQTV1" tvg-logo="https://epg.v1.mk/logo/CQTV1.png" group-title="星期三_山东_20241120_1723",QTV1(720P)
+http://39.65.206.12:1026/rtp/239.253.254.249:8000
