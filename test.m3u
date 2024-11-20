@@ -45,3 +45,6 @@ http://113.85.22.167:4022/rtp/239.77.0.2:5146
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="星期三_浙江_20241120_2228",CCTV1
 http://60.186.12.96:8888/rtp/233.50.201.118:5140
+
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="星期三_广东1_20241120_2311",广东卫视
+http://113.85.22.167:4022/rtp/239.77.0.2:5146
