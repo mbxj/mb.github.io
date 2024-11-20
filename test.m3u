@@ -39,6 +39,3 @@ http://60.186.12.96:8888/rtp/233.50.201.118:5140
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
 http://118.251.60.185:8888/rtp/239.76.253.151:9000
-
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="星期三_广东1_20241120_2211",广东卫视
-http://113.85.22.167:4022/rtp/239.77.0.2:5146
