@@ -33,3 +33,9 @@ http://60.186.12.96:8888/rtp/233.50.201.118:5140
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="星期三_浙江_20241120_2030",CCTV1
 http://183.158.148.104:6666/rtp/233.50.201.118:5140
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="星期三_浙江_20241120_2118",CCTV1
+http://60.186.12.96:8888/rtp/233.50.201.118:5140
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+http://118.251.60.185:8888/rtp/239.76.253.151:9000
