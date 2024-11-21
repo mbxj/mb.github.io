@@ -1,6 +1,4 @@
-#EXTM3U
-#EXTINF:-1,tvg-id="全国共享系统" tvg-name="全国共享系统" tvg-logo="https://epg.112114.xyz/logo/全国共享系统.png" group-title="其他",全国共享系统
-https://gyssi.link/viedo/gg.m3u8
+#EXTM3U x-tvg-url="https://live.kilvn.com/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",BRTV北京卫视[高清]
 http://123.116.114.19:8012/rtp/239.3.1.241:8000
 #EXTINF:-1,tvg-id="BRTV新闻[高清]" tvg-name="BRTV新闻[高清]" tvg-logo="https://epg.112114.xyz/logo/BRTV新闻.png" group-title="其他",BRTV新闻[高清]
