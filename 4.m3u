@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1 综合" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视",CCTV1 综合
 https://api.livednow.org/migu/608807420?sign=gAAAAABnRDVUy2YDewcWLaMgbbqOG6OKhTOPdYEaGOvW6GqJW0FNqOGXDG-hU9A_2aM5AgbUMCWWgArw88oLsbHiLx7o2lEtQc7iDxfkUE0R2H4khWH0WXb-YRsNGhyrCerFtE5JNumTfYxV4g-XLCP4SaR1BFsrSwVFgpbh6gZGQAyJHGusmVRgm1rGo5lFEje9gdwxgdBCP7aw2wt8kKrtsvvtSYMRmw%3D%3D
