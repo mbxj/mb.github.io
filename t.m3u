@@ -159,7 +159,12 @@ https://api.livednow.org/migu/713600957?sign=gAAAAABnRmdKvn-KEDEjZ6X-fhYQd82xWDF
 
 #EXTINF:-1 tvg-id="金色剧场" tvg-name="金色剧场" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/525/202406092239_1717943712461_H169_1080.jpg" group-title="影视",金色剧场
 https://api.livednow.org/migu/713591450?sign=gAAAAABnRmdKBraxl9W4O3bLvY4n8nT4_QxzlfgNmm2zujL-n0YqvdLXrJVdDROWVQZyvuQD2Yvxh2G0DsgUadZctrmGG744QEWDG_2MPNborGj8lAg428LeDkKDupgSP-gPx2K2Zuf4uNrrRFq_Q_uxetCyOhJC8dBELRGF0rw-w3ZvNifC-aUumTbJ4gC57m6nzu9LdxpFtJbynJe35QSizKkx9LXfxA%3D%3D
-
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="秒看线路",湖南卫视
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="秒看线路",浙江卫视
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000305/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="秒看线路",吉林卫视
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000363/index.m3u8?IASHttpSessionId=
 
 #EXTINF:-1,崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
