@@ -1,161 +1,155 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1 综合" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视",CCTV1 综合
-https://api.livednow.org/migu/608807420?sign=gAAAAABnSUIN5pNRUcL3Sl9PN9_iuldrcHQPtkD1TXjP7aGtHHoz1psHU94pz71JbcEQ8VjS05Er6wqBDQTfrdXSUFX21wd80QrDYUisz-hmJ0CFGEVg0ECNYBs2naneq63q4UxND4so84VhxMd5tGFCql3xhXuQ3Y1CLEwKobFMvSN9sIDxuAwKhBCHquAyOAmEeUF48SP6YAjJ0Fa1I-8aYleN2KH6Xw%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2 财经" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视",CCTV2 财经
-https://api.livednow.org/migu/631780532?sign=gAAAAABnSUINdziRP1xNZOYncPLRFhSXpGClk_Xq-iSRxTD3fRlcI_Y95K8-0IQJuOMhVhIj39G1iLR6jz8mGKsVDR0XyQGPpedi-wfVZX3p_rNNVnZdMMZHfQOgtqcbK0IXATMSKgXMnOuM8xFqTAywn84d-7hcTjOj--DNiF0NK_lkYxW4YZAF1SAWpJudtQuq3b7-oVE9dbU-nD4nLr0mBg1eaqd8aQ%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3 综艺" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视",CCTV3 综艺
-https://api.livednow.org/migu/624878271?sign=gAAAAABnSUINUDQ4A6EElkTgAvVNEuj_2ZLfGI2g6ClCvM0gm8iBHWss7pJl8irZxnGXZFPrvEEpuXdjQPRpn0BEI5wSHoJ_InMs11o76FpHcLdKiqT4moGFI7NHGfiYmZok3eYyFgsHn77EcP_nmbXURWlM3WDYV6G5DamY8zbB7DFMdqlDV2D_fJjISI_yxbyBQlfpQEItLgZTlzwiKrQtr5MNB3mt6A%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4 中文国际" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视",CCTV4 中文国际
-https://api.livednow.org/migu/631780421?sign=gAAAAABnSUINB0R21G8-z0Nh4rbVU1G1gHKV9fXMp_tOB-o4d5KTDPtmYJrbCBIIE5mwj_kuWpJojOUdE_i8sHHl3c8oocuXyZweW2xCghB1MTI1tOFOY5LC8rT9m1ViQ1ijH99ZKKlm3C91Xpnxcjz0mwJ5MsoAS7NIApPZ-nUTwVyxfc2cqOtaxTJOCF7vkgko290CewkiPcVhXuDt2zQuk-crvvXVZw%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5 体育" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视",CCTV5 体育
-https://api.livednow.org/migu/641886683?sign=gAAAAABnSUINSi0-Lm7qOfdKP1Dc8jdArTC_7l9Pj986vUKcZ3m31dV4388NY5TDa2jI1ZL-oXLBmJoUO5A0SGCM5dKFKnLKqWiL9RlMGUorJ3Pp5TF3Wr_dWRXbOx9X8WfHpthsOwow98Wi_n6nYuuvmr3s9UTQHYuHaQ9hIaxHrJAvYy5uFLaAXsDfk0mr1njUOaCgVnwICo2HCBYgsDZNpqQ1mMMTrg%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+ 体育赛事" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视",CCTV5+ 体育赛事
-https://api.livednow.org/migu/641886773?sign=gAAAAABnSUINLsJ1oIE87K6sF00831FfuEFjDXjCZZV7KUnI0F10OzHFVctpFu89202M37TZv89Sg5iliDhQ3UyM_NwiHv8q69stMIGpi6cUuIIZgQyXeLi3TSsNNkeueHvdeeJQska963xvYgbRr2gRQ_0GKTQ3UDtn4zu7itMHaxLVCm6t4SZphEb6ll9XY3yTXXE9x_nzwxZQQ7o0HpNrr39Dp0Z5zQ%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6 电影" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视",CCTV6 电影
-https://api.livednow.org/migu/624878396?sign=gAAAAABnSUINjaQjEq-tJEuE0rvjpLEid2eYw5gEC8h6K-8XnoEXmpC49O0VqYWCrTDyschsP13RU1pDTy5_p_IUhdiZYXBU0LYlqY9x87TWD30xqNMxbr-lzsWGVaGlnnuY2-BsumyPSRF1qxzDj-b_z3FQvYlWDVCjxCotCQkr04br-DoEDR3gotUvUNtNBdAft9Y5yyqMG2MIN7t9AgS5JbTo1sow-w%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7 国防军事" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视",CCTV7 国防军事
-https://api.livednow.org/migu/673168121?sign=gAAAAABnSUINp16i5KooCVBtae-6Exnq65ku0ASQWeo8oKoYYky7g8dQOZcbHmegb1D774s5zSxdKxouHURukNrtRTjPT8r6TLMG8guCsWT-rjVeIbeZzzt1jrSHW0lr7Hds1zxX2SkZ_I9hGyxJUtHvxAZFrnzBU8JDO9UI1BLgg_G1knghWuIUG_Wq-Zx4lLN6A9QAhHOPlxvMfm0H1Jt8jbgcY3hGUw%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8 电视剧" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视",CCTV8 电视剧
-https://api.livednow.org/migu/624878356?sign=gAAAAABnSUINhx1DYw75Gzgeikv75rRFOMdNsvli3d4SXg0YB3k-jshxro0nyIA6W3Cb_aoh_MV5dEbD0kgaZ21h90OZOVpMJgu-rrXX8_hG2UzOmZXyn1s21-3ErMIa8oxisXqVG-SAy_nzST_Nm-akaJ6IpaRRBi0LKLWR1gAbDFxo8S8nw_TRiws5A_uU5Oap0igGT6-FJAunkNSTNPWBSOvPoYGIfQ%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9 纪录" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视",CCTV9 纪录
-https://api.livednow.org/migu/673168140?sign=gAAAAABnSUINistm1CCpy7e3eEgO4NDRQGN77PLdw-PIN_0wDoidm2y50RaGwaMwaWwJFJBjHTePm2gYM2djfVZxgRgBzbNBJba7Zkr8QhNIOJfKHtklHgojjbb_5r2DQLwmZM4bDxecjakiQ8slTVikrWMy8pXAUuttDCzCGpN68u2I4xpT4U2nlSaGMtP9vO_H6dLagCvWy2_SWU3pCxHOd8WiORDzRA%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10 科教" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视",CCTV10 科教
-https://api.livednow.org/migu/624878405?sign=gAAAAABnSUINJtNHYlb5Vix-Xy0kbn4TC7B-NYDYe8_XnXz-yEhZJwToN2BK5KeM9rVu9Ye_NGD0TAkxRr2RVeJGNeMuZ4QeNhO0KXJcXa47hRXxPAUJJ0G4v5t4PfT8-k2TLAIQxLe7Kt90XobKabrexELXtdEmqy0GlBB_mQ-Y8BGyyjE03W8LCIUySJpNw_ngisSqTQAJPP7uFpcfzGWr1TJt7hg-EA%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11 戏曲" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视",CCTV11 戏曲
-https://api.livednow.org/migu/667987558?sign=gAAAAABnSUINoBszS78zJmG2f7fIixNq_QjD8wvit8QcIkgQ6UYtbatx8divpoLzQE_Z4q8QEnKcS_GP7tYcf4NrzIJplBHvgUGYLViAuqQqXDob6CM8QNsXDU7WFCZ2v92KkVuaNHsn0Ebmye23Ofr92-AVt9pisB3c0iF81mS2rDx7MgdNUMfZ0yXRCzfaCTbFPiNPSoRBBOfoBvm_Sgw2wI2S37n1SQ%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12 社会与法" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视",CCTV12 社会与法
-https://api.livednow.org/migu/673168185?sign=gAAAAABnSUINjWa018buB52PzEAGyJd-vI5Ja5ijh3clV8sswNQUoe90uu8TKb_lDMA59_Al8vMLrO28G7edLFVDPjvsZ_1yFoT52kRLse4o_aMsmlZlWabLR7ff7cfUZZW_Du2UyfIuXIo29kJ9hS2vYjTURxHZmsEQrmp59kBz8VMoCDjvJQvBiSEQEOgYenGbHBYxZciTOnjArui3Drn3fIRiQ-OjzA%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13 新闻" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV13 新闻
-https://api.livednow.org/migu/608807423?sign=gAAAAABnSUINDCwus3Fuv4uASFhZ0lCPBWkrk-1aMlWC3YAAQynkDHaPGsX7DuEy62SG3j4sNSYc2XZZdJApBSVKzt2UBu1HssnZ4vAbP-qq_M_evhd0LqoEJGnYec7QvyPOSXmDW1kBWDDzI_2a7rzYkN4Zu96gDwZ_-XxaP80Ra837VriGzP90r_0qnIerqsWt3WhwD7p3cYeMPFkAJRBzzdG2KOiQsA%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14 少儿" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视",CCTV14 少儿
-https://api.livednow.org/migu/624878440?sign=gAAAAABnSUINM006_iN8iSxpDRVNPwQRbL1_EiizV1gA0vqvMzJHkaPJsm-H5HedZeIc9gP2B2you9NrMVfA-vl3w1fG_AlUGJBnY-mTkJquW4nGiU13lh_X4PdzI3ZhjnLlLF_z5821-IhlK2z0JbCm6WY5fCDqzsReHaHAaT4ilt0lJJ4WHTPUO-ZWSjAj_yuYc4mTn4EG-beVTPgmQf_ftYud4qmh-w%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15 音乐" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视",CCTV15 音乐
-https://api.livednow.org/migu/673168223?sign=gAAAAABnSUIN2Yz2hTdWiFWwE5RlD7Jag19ws8HPD7ds1CM2c9fqjZV4GmGIzl8fsNfjodVd6O18uhwp1vcAIGOyFLj2b3LhAKDroLbtetBwQk3Wl5IhriidHLyZUuYkrUeONqan3aydO-aP776JkKN4TPzypCJktkdKkf5XYO6Heol0aCDzVRFdpjZhWdSbjKxlbzHuKKzhc781SU8JY1ZDmY5dHmkFUw%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17 农业农村" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视",CCTV17 农业农村
-https://api.livednow.org/migu/673168256?sign=gAAAAABnSUIN8o-82MocAAyZSwv54C16hl4eMUIubm3gKWEcQGsANZWeULMwB-EfwxbtH3nQlPF8BXSmrP__NI2BqcsuPvhA59o7TtGDNKtKlO7Cb9vGjDiVpCwVz2qeOWdE4iwH4YR_7DErePnC5hTFpoLBq0Yvrs0-M2HdUTbpGTt2bafr63yFs0eKVTqAwg_g6LeGQKqMcexZWpA4v0DlOGbirc1Qkw%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV4-欧洲" tvg-name="CCTV4 欧洲" tvg-logo="https://assets.livednow.com/logo/CCTV4-欧洲.png" group-title="央视",CCTV4 欧洲
-https://api.livednow.org/migu/608807419?sign=gAAAAABnSUIN8Cm7HnTi9jIlt5ViUrRv0pzMaAy4qyriwYqdNy5-cmiH77JuuHSjxGm4puDuroVF1_DdTUhUdrOsqY-PQtFZ1Gm8Yrbq_4xDPXIRPDWaRgLYRKxNmm34um5GjoNvr4H4BcCCB24brjJQTxPppIOKQ7N-GwQt-D8u__8wMZjVa6tB4E-ju6u7bIyRLgGKSCavEdwybCUHbQF2yv-N1pExyQ%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV4-美洲" tvg-name="CCTV4 美洲" tvg-logo="https://assets.livednow.com/logo/CCTV4-美洲.png" group-title="央视",CCTV4 美洲
-https://api.livednow.org/migu/608807416?sign=gAAAAABnSUINZ2F7C416BpunxkpWVbLuS1wH6H9M4zuADOqIGwP8KM_ofC0x7SqhCtLgqGmluEJbbNu5iG9ykRw5bcat0VzKmfDdViFonTzh3jE2VQJwEf9O0pRJ9xTrjskmnDwK2WIZNuyJ3PAJH8MvVlA4nrpruqj8OlDCq3pGp9fPRfio8zWBKfw1oAP9CIO15ZkK4Lq65lzRacNOF6Nr1AYndwwwog%3D%3D
-
-#EXTINF:-1 tvg-id="中国教育电视台-1" tvg-name="中国教育电视台 1" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-1.png" group-title="央视",中国教育电视台 1
-https://api.livednow.org/migu/923287154?sign=gAAAAABnSUINeXR2rKHQBcJlliKGo7SwmY2LJMcB8DzzhSMuDzOmCkJ70px9NzglJlk-yGj5bc6-rmjD0IkhR7laRtGcjqx2MUefCoBpHomxEuzJjz4DlxZCJ8VIDvcc2P7Phij1F3onE-vY7mpedaa8-r35OtzBBZ7NWNp6Lb5ubI4hP9s5XRL7pyqglhicWbxobxSxLGThOpd_DDQitxsNRq0uYlz7bw%3D%3D
-
-#EXTINF:-1 tvg-id="中国教育电视台-2" tvg-name="中国教育电视台 2" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-2.png" group-title="央视",中国教育电视台 2
-https://api.livednow.org/migu/923287211?sign=gAAAAABnSUINLRsppxmAe3-vfxXi_GkXnijlw8n_bFmb4Cbz84YwgLYG_5u9cWeFdXVMtDe9fF0n7rq_S3lr6n_4BYdFvuH_QNv3ZN1iDlUENWZobj43KDHJxm7Z8AfS9fIfSt1v5QSWpsHLPm42k1zdaH3a6VmEmd4T2sO85MrJC4FGIUDKpMh50fXj-Vk0ap9wa8EUlQssy0z-OY0B_BzTWlDRUsCJ0Q%3D%3D
-
-#EXTINF:-1 tvg-id="中国教育电视台-4" tvg-name="中国教育电视台 4" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-4.png" group-title="央视",中国教育电视台 4
-https://api.livednow.org/migu/923287339?sign=gAAAAABnSUINFAvdeSlKMY8dsWVB4ElFS6l6umgkalMvhUCp__WZKzJzs0KTOK8NCYtFDZB5k3YZ-5ab3ELoBazehAgh7hjhQ-Y5nzO7mUQMSwnjy6Qv3cmFpS-W6W1ZSfdLoquC1a_NStRH1Av2gU-up27iyfYBe3OgjptuZyCiI7zlKP6iR7c8Lho0C6cDo6ZgaiZxReKcjBppJFvvRDV5EY8zNRbGdQ%3D%3D
-
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" group-title="卫视",东方卫视
-https://api.livednow.org/migu/651632648?sign=gAAAAABnSUINTMBtk3u-Q7w63h7312UWZSjVmpwQNlx-nMljONYk4-e_GPhzhGnaFIRBt6_5wcLe3-OxPngNtc5oQ9zImFMrs_KdBhj4RP8dT-vz2tHXrUCSFF0MsBUutZ3NYTPYfDD6Kr2oht0VqVETUbHbuVhL4R66aXZkvQD0Rrk93WoSuQiascH4gU3KJZvvQZ8DIf4VhCZfjIptRdl9t6ILmGXZzw%3D%3D
-
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视",江苏卫视
-https://api.livednow.org/migu/623899368?sign=gAAAAABnSUINYBFAHcIdRHbOjE1utxVbdDMiG5K59IwMjQVKEsQre2PLB2PYR1ouHSsqACtnAvfjSErzBa-ZUppApBb81g1WgOGPXxRp991Yv_w2sORUJFMDh2zzC7jfVsaGr2v8xRmjzqGn0vywpUBw4I9xmFKTxPuVpSRO7WbpkCDUZYrr3vrG14RErkStFQahLk-8CfKTpNBC0OISN8eUQQUaValWmA%3D%3D
-
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title="卫视",广东卫视
-https://api.livednow.org/migu/608831231?sign=gAAAAABnSUINMZCmG0dqHDJCSR8n_Le1TCAO6prHQMNqCLvY-OlZVAqlkalxT2amqBnQnkjHtUKYvWFLxxM266TSiMtf_CISHKzQuiV1q58s8rVXc5YBCWzI6xo-ViiswyQOri8SOfZ-52GvlQzOzwsPQvIISIgUKIr1_x1MFeeDS0SiygwINhqc_NrOLUeFONLUxn1-eyXb43YCq2g1XmoG2GslZ3bNQA%3D%3D
-
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://assets.livednow.com/logo/江西卫视.png" group-title="卫视",江西卫视
-https://api.livednow.org/migu/783847495?sign=gAAAAABnSUIN3g9DB9L7r4U9r0tWiLSLu76mJqu9kt11l3JsBk746oyGgAdJ1A5iNNH5dRnah4YvxM9gY2hy3L7HPxBsnWuV7z77BVYTaWrzcJLbDUFEGG5hWi4McDTeipGg3hlqIUd8mEj2klh9EWGBCV4HgkRH7HvwO_Bz_3ZFyYeR04M3Us91TADZj6Ot20zbq6Km0p8nc1rw81AGneY7AbOLXliekQ%3D%3D
-
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://assets.livednow.com/logo/陕西卫视.png" group-title="卫视",陕西卫视
-https://api.livednow.org/migu/738910838?sign=gAAAAABnSUINN9CetlXfUpbem-D9GY8CfMP5gbQWZKx8Jl5r6irQThUSKUrKkvgFwaRr1QscJZdiGQCGUDVfMw588Bs5gqiWliSIy8bW3pVlyDuWZA8KfdnnozWYBVMy-gNo4Pe9pHLA9UhsRX9ZFc-zY18Qh32kn2NipCJDz-UEBw4Z0z1soUqBeABCD5W-tEtdy-EO36-YEkU7dZvuwcGc713btCvDrA%3D%3D
-
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://assets.livednow.com/logo/湖北卫视.png" group-title="卫视",湖北卫视
-https://api.livednow.org/migu/738906825?sign=gAAAAABnSUINIsnM4RQft1MMSmOJqcSsCq6uIopPrlcUiqwHBq7o6E6tQzAeYnHEaa8YckOzQtTWQFaRQfEtgsyTZwsbFDJRW4Pacquwp26dU2kxHFZmNA6-6O3iniJxOw3ShjbAUByiRbrUUXCS117jOLVBX0hFvDuQfd0CxRlW2r2ZO9q0HoSoR5SI3l6CAlAeNzTBEatQ8r1aLChC5UIvjlssMGYxIw%3D%3D
-
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://assets.livednow.com/logo/上海新闻综合.png" group-title="地方",上海新闻综合
-https://api.livednow.org/migu/651632657?sign=gAAAAABnSUINQhPbD12Ge2wub-rd0rpiU0J9x_9LStESToEiQiS53efSTbfvZ64OvAM-181mLfaMY8MYR6-Uk5XecPzfqzG2-UsCjxBNTvKwdhDgnFJXQtSQDXru73501W2wISY-BafM8PP3hE9qUu1zNlBicEncJ6xf6_D3rJlfWBpf5RRXESvKQaTU4XWLnhmOB3JD9goG0Uub-l-0vUP5WczXanumLw%3D%3D
-
-#EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://assets.livednow.com/logo/上海东方影视.png" group-title="地方",上海东方影视
-https://api.livednow.org/migu/617290047?sign=gAAAAABnSUINNfZNJo9xMVAHvJMqsYC4Z40Sq0MUbkhpnB3Y1eZ_-fcikiJt7S76etDm7O8FZbUe9dfeeJub2YAX0O9uHGh9BXExt1P1rc22MBEpdPmvol2Xud7-aU2I1iA3jcPZqXLs6ByOlzU0K6ikhPFzHeKmonHiOebXaZ30dJH_0pvG8yIimxc5I-bFCZ-7e-89oi_T5BIVbLLXx5Kt7WOttJOJvQ%3D%3D
-
-#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://assets.livednow.com/logo/上海纪实人文.png" group-title="地方",上海纪实人文
-https://api.livednow.org/migu/617289997?sign=gAAAAABnSUINpdYH9UElPZW2ySgfw30r_I3siSv4e5PBRAclozPwLyWCeHdocZh3nRGsldekiDDR1fV15foQZVLBSLsLpx5za6yring_IHHlkfmOZvigLZDllmrCS-DwiPXz7HQOWQi7cA-CJqw_AdqK2Hb0yK1tjvjnhc9jEDL_migVQePKnssQbLnbTkBuikGAQ-KO274O6IFxjYny3zEPoS9KZFtrcg%3D%3D
-
-#EXTINF:-1 tvg-id="SiTV-七彩戏剧" tvg-name="SiTV 七彩戏剧" tvg-logo="https://assets.livednow.com/logo/SiTV-七彩戏剧.png" group-title="SiTV",SiTV 七彩戏剧
-https://api.livednow.org/migu/796071456?sign=gAAAAABnSUINjmi09rAfdtRBojedwe7hD7aKXM4t4sK3fDbotuE2sRbqkHN8W0x0pWwCPJIa5dj7yIECq8JQlW2TSNJhzlA8cYkzmwsYnNFOvZbf6oQqHMHVyaxsG6Nbt7kQoXOsDbnk60Je3WXTNmNb7gVi1DOqLTXyKn_Vx8Oa349cysxLl07d0uDvnzzEJ6Da0YQXenZR3nhpYTZW8xXoXuNI_-JAPA%3D%3D
-
-#EXTINF:-1 tvg-id="SiTV-劲爆体育" tvg-name="SiTV 劲爆体育" tvg-logo="https://assets.livednow.com/logo/SiTV-劲爆体育.png" group-title="SiTV",SiTV 劲爆体育
-https://api.livednow.org/migu/796071336?sign=gAAAAABnSUINJuMypeRQtCxMvNfF_JbvkRzreADuSl9ycjqQwLLoj_BkYBJLqIb2y0bqamGM_sgNrUxTuaaMkAmvHYXseuPl4toJwVBDlWV2iXg3zwsCuikp7j1cLtWk2Tp-zkQ3OBzLxVj4PQrCSzjwoP_bScBxSp7ba4kER4_rDRJB7zGdTXe2WtQA-LjtWi0uwQBA23aHTKYifsZQ0ewzUy9kkgr1KQ%3D%3D
-
-#EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://assets.livednow.com/logo/SiTV-魅力足球.png" group-title="SiTV",SiTV 魅力足球
-https://api.livednow.org/migu/796070308?sign=gAAAAABnSUINx2f1vn5rPUWX5MCT7cta0SSvrXLRf06xMLVrw8Qqcn4_VebOYcNbbUhvzcN_6Wl61ijYsEH3w34FzUdZTcd_flW4VCW8kW-SzPRIhmbQfwEjzHRMlK_V2YuBzZTT5uBNZfeSWhYRhSm6EG9jPcyY9VnyFhIhR28KyLK-KMZD3apimLrMHLy20vkXzVv_bcAgvvjFG6YqItVFcCZXbLflnw%3D%3D
-
-#EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://assets.livednow.com/logo/SiTV-法治天地.png" group-title="SiTV",SiTV 法治天地
-https://api.livednow.org/migu/790188943?sign=gAAAAABnSUINbEKZnWxA-Wdb1sz5PQxJsrDwwBLce2eiOEzy3qs13VrQ-K9r9rBdLzvfX5N4XTQG0PDryVrx369W-gOWnXyo2mHc4PBIQTtQj_jG5fgc26E1EuJMVkDvKsSJN_sonT3IfZFhHMOlbTFIMxKkVRuhcSQyckhgjqkdgn6-TeY-6FchjlGHhsgnPaDvV4REFRza_fvKCVWmEpNG35vsxWMdTw%3D%3D
-
-#EXTINF:-1 tvg-id="SiTV-乐游" tvg-name="SiTV 乐游" tvg-logo="https://assets.livednow.com/logo/SiTV-乐游.png" group-title="SiTV",SiTV 乐游
-https://api.livednow.org/migu/796070452?sign=gAAAAABnSUIN7REv_qCMGJSFTxWRNABCa7J4yzcIqqNkBU31VJgxP-xSsQdyx-da8VsmdPBlNeilo27VUoclrKrqGGFKKcVt9KyoTrfRO4HaRkjEgz-t2KTSJDMSjqNSIn8vbGs_YWKFNGUk7yVbcg20SRm9_SQGRZWudWpQPAZ_Ozk917iQ6GDmJCCAfwWzUDQto36W12piuBoxseOpAsRT-NugvdYERw%3D%3D
-
-#EXTINF:-1 tvg-id="SiTV-游戏风云" tvg-name="SiTV 游戏风云" tvg-logo="https://assets.livednow.com/logo/SiTV-游戏风云.png" group-title="SiTV",SiTV 游戏风云
-https://api.livednow.org/migu/790188417?sign=gAAAAABnSUIN586RtIWi6JXbRtx79gXvSZUxD-RmI8L8QJpCO0wDxQyA5wqNcdp3G0Kh4PKQt97yLXC4Ng2uWtqJ-EmkS9KxSXJghV6YGtd61NCegiuIAplqgw_2wYoIE1pZCtwlDJbZQ8H2sWoBhvFztf-RKuSpi5QvSox3I13WLdw0lJcHyq7-BjIGMtXga3cRHAsUOeGp0tWVWKJgPan9c8oc_IdWrA%3D%3D
-
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://assets.livednow.com/logo/四海钓鱼.png" group-title="体育",四海钓鱼
-https://api.livednow.org/migu/895358641?sign=gAAAAABnSUING2DU11WPDjP9vanFDR02r_Qpid9gbFVhka9FpNG0alUNBueIwBLzxczEEaLo5b-Az2Pz6srD28qo2vc3vq3AFQQoG7nMc-PXVbeM6uyT8nip6wztDb9Q-ne8YnwJ97t_K4AOpjV4zURnnAXq8JYQevYVYl7NEhj0hn1w-ItRyLRB72ULy_4vryxlrC1Q4KW5sYC8hv8ObCBLx-rquhfymQ%3D%3D
-
-#EXTINF:-1 tvg-id="CHC-家庭影院" tvg-name="CHC 家庭影院" tvg-logo="https://assets.livednow.com/logo/CHC-家庭影院.png" group-title="影视",CHC 家庭影院
-https://api.livednow.org/migu/644368373?sign=gAAAAABnSUINZ0dF78ym9K7CuI0OS_C0HCthq2M7JNZyJzGMkupHRh7QlWTrScRdARqHxEEk8O5gX18ZNeoLpRyqwCHsv_hv5eFOO8F6NNVlt5OTotYjbt_hbMacKxf-d14ngHqPbRXKn32xZAu3RdT7u2oWyY4C83cyDfmQbhKL2ywUECfZZEkUqTiPTuL9F9TJq1EQCWLrVA4Ix0e9LhsLPZIPPk-zIw%3D%3D
-
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://assets.livednow.com/logo/欢笑剧场.png" group-title="影视",欢笑剧场
-https://api.livednow.org/migu/790187880?sign=gAAAAABnSUINtM8ahdv6Zkj9hmTqGwxeWA-RwguWg4UPHjwDl5Tgl74jUtX7mHWRSFCd78ABJghL48DlAmcmvmzVwlxYsEkAnCHFcRWJl2ckQm6EyRkXJ0_-5cMjw9Vk98p6Na1CkNc4UK485mVVHu4JVUbVrRSm1BENNhsVauF_y_-LMaSKpmux12AfpH7H4tDH6kMJJRGbTzkHPSL3OWa2bfzcOjVBwA%3D%3D
-
-#EXTINF:-1 tvg-id="NBA经典" tvg-name="NBA 经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="体育",NBA 经典
-https://api.livednow.org/migu/788815380?sign=gAAAAABnSUINAHkYpNf9rdp7Eii5CsCeA-BkwLoabo9uI_UFeNAnADnHjaP86uKCPKDj3V_bP9mG2B-p_Gl-8UNDdC0oIMgrhHFnMcN5TIAALwItgSGrT15A6dG6_VBZH-9dCQLU5wAiV9tyHwnKgNNCaTqo4x64YpCXzCagiX1CC-u1DDq4JsASi5vCGA13XVlbXe1qk2aU1lPJehk80bqdxXcOpuZ09Q%3D%3D
-
-#EXTINF:-1 tvg-id="五大联赛经典" tvg-name="五大联赛经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/338/202304201403_1681970538994_H169_1080.jpg" group-title="体育",五大联赛经典
-https://api.livednow.org/migu/780288994?sign=gAAAAABnSUINOFQhF4OQr-RDsMlwF0_TfrAkDT6jlAr6BH8uUEgzqsJWE98sw98jSYlx43Ax6f6_OE7K2oA0kZmGxkWqF2fw-n6JakekFUbEJpCIDBXahmpw84MDpkSrBcEa8t4siatUngwyoKsn1oHSRe3jgKAG3HHBM6ENHUpsLoqTb_jDniiNAFuTZDXogRPXs4AWOgNRJ4us4l21Ajo_rQxJDix3bw%3D%3D
-
-#EXTINF:-1 tvg-id="CBA经典" tvg-name="CBA 经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/526/202304201400_1681962688794_H169_1080.jpg" group-title="体育",CBA 经典
-https://api.livednow.org/migu/788813182?sign=gAAAAABnSUINP1nAP7-iNsS4nHpXW5caoC98UeFym_P5Ni8WORsYibr8y0YUn2IRaOQocZ4JiZdqY1_q_4kKWDugOJ1nuV5IvzaBs4NNlv8u5A8ma9bkgB1FBfqRTZcOGTxw6Ek5gPT541X8BQT__AmH8stEih-2M3LIvdQN038wbzukpHe8qZd5OssMTRaVHGWSDiEi54A-_JUAaNZQHXbRYS-7b73w8Q%3D%3D
-
-#EXTINF:-1 tvg-id="中国足球风云" tvg-name="中国足球风云" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/530/202404091152_1712634646523_H169_1080.jpg" group-title="体育",中国足球风云
-https://api.livednow.org/migu/788816794?sign=gAAAAABnSUINzHo2tCajpC-aagHtC1OrMizg9Gkg_d1ak-tSGxScuV3wB4s7rqiVE0pXCgMwdNoGH6B_58jf0zsvvpS0qceGnlP-Q2YMOImpiBzxP7nSdQ_Ceo-nyViJk7hscklZAmRsGlusChjnfCDyOKRKDu0e-I5-GI_upBmW3yZIBZVb03bEy99wt1IliqbICPhFty91IK9g6JKDFXl1QKoOXO-SvQ%3D%3D
-
-#EXTINF:-1 tvg-id="UFC格斗精选" tvg-name="UFC 格斗精选" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/534/202304201406_1681970735785_H169_1080.jpg" group-title="体育",UFC 格斗精选
-https://api.livednow.org/migu/788818804?sign=gAAAAABnSUINHIIcJbX8a5VhZrJQxlWxIPce_fVgUDVRt4tBoxDFMceM3HkcJ7zjXaWTbeedf4K6Lze32Pi5W5-8Cw6dxTMYQFfuozkXcPvCoUHP1963A74J97v8DBxZ4KNaPS6WgDST4v4bh2DAn-_sbdYJE330Zw9KbAQwQgisxiSApSv-8vJ_aV97lSjWCkmBspVLbADq699mctuId5ZaSRWaS5WGog%3D%3D
-
-#EXTINF:-1 tvg-id="掼蛋精英赛" tvg-name="掼蛋精英赛" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="体育",掼蛋精英赛
-https://api.livednow.org/migu/631354620?sign=gAAAAABnSUINXS6IE9XLgCkzTjI93xROrb8zx5oAAdl59__Vm3X4dlHXZMx24AMi9vqqMJIh1JccQ1DSVyc-K_raRByCyyTmw3Rh9Xeqz86zZf9NqmmOYIgYVw6srUVSsLbYF8eHq5_WyegSEx0OLKJbkkpB6GnycOvKOjX1i6RcxMdOxoEyFKdkA8fZ73FuVawqlnaLs_L5ZrZcX9IdxeF3JCxoVT5BLw%3D%3D
-
-#EXTINF:-1 tvg-id="全民乒乓" tvg-name="全民乒乓" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/532/202304201408_1681970854549_H169_1080.jpg" group-title="体育",全民乒乓
-https://api.livednow.org/migu/788818045?sign=gAAAAABnSUINLBU959h6OQhg14fBTW8OcHaq6hHd5oPe8KpnPLX9RksIWuLT35XMgxYB91RmlNHE9RX9FUMFko19UoZK4mn-_DsFk4foWru38so9bBvsnR0EI1H6B2BR3dPzyAdoHLKrVUhLSYVl968aJaA6GsOFCUOcUrENyixeCskTzMzqqOaNR-n98oZL525NAAFkQQo5lsT2EXoVdlUfroMcnhcSgQ%3D%3D
-
-#EXTINF:-1 tvg-id="咪咕24小时体育台" tvg-name="咪咕24小时体育台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/751/211/202106111236_5102223687_201903181136295010914_HSJ720H.jpg" group-title="体育",咪咕24小时体育台
-https://api.livednow.org/migu/654102378?sign=gAAAAABnSUINYuV7JuXbFr8V3Lp7_VrG3aFbeUekaFgd6NJDCubRScbxZ1iPT0fONkSqaFHu9vYCIZyPyYyzWs-ddW7cnBSXFjzrXk__zAKx9T9YfPoTIN9Ug6yfWn3FSxzjvHxiB-e_8wt90-VuoGqvxG2ib7-ku3uJ3n3V3V2iShlnS_iZSUlOu53aB8V2jcvVczsKacwDI1lwqwinyLSuI0vF4_W7Hw%3D%3D
-
-#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/242/089/202308221005_1692669894186_H169_1080.jpg" group-title="影视",经典香港电影
-https://api.livednow.org/migu/625703337?sign=gAAAAABnSUINgUfEsikcYokhFbvONp-aUtIPH19Hr5B3PqYLDFqwU5mlV06zPN2QBhhWPjhZjTt7wWEEuXa8jv1SHm--PhHx8BedQhPgRhw7CrJXrYMQx6h4oh981Ha5Yxr3jWa3oSucx2gSZrK_4UeHYnHKzBol27uyz36NVdfhKnlsj67H7jfxV5oKim6lPQ0ysrJqgOuLnblgTytlF6YchZyuC2n0tQ%3D%3D
-
-#EXTINF:-1 tvg-id="军事迷必看大片" tvg-name="军事迷必看大片" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/717/202406101432_1718000751139_H169_1080.jpg" group-title="影视",军事迷必看大片
-https://api.livednow.org/migu/617432318?sign=gAAAAABnSUINSSH7JZ5B-RHyH776M2xeIyyeOrEqDsR0msV52Qk6r-gPsZ4NLAYS2bxWaIWxjA03dmr6ppIIAyYqSP_-hEpCBYqRKYFiIK3DPxV7xHJ0gj_h2muo1DqRm-uYiwzUDMyBk3NLbhMMzop2xKbBg7WkdD4WHtOOeycZESx4dluBt1vILgyWodXYFbfIJelevNR1HwzZ-a47XX0C7DN8h9QS2w%3D%3D
-
-#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202308220954_1692669269895_H169_1080.jpg" group-title="影视",新片放映厅
-https://api.livednow.org/migu/619495952?sign=gAAAAABnSUINox0NOwYQVYPnaQW9bcZVXM-bDmdJQqYhDcBtssTjA4I3O-X-8GjPCWKrcpfxQVCfY0mqWMv_uWR3701D8VTjUEI2gnL-o0bz2RIP3C8EQTc89QKMwECDGgSMMt0hmVDoYqRT9s9smfJvS2X5mEkG_UhmzJYXBCHvrEqzqsryzEL0LSdevOzdx6Zpg65kUDB-mAmcRvYiM1VvzCPEHnZFpA%3D%3D
-
-#EXTINF:-1 tvg-id="红色轮播台" tvg-name="红色轮播台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/527/202407181250_1721278183765_H169_1080.jpg" group-title="影视",红色轮播台
-https://api.livednow.org/migu/713600957?sign=gAAAAABnSUINemssDwcBKO_EGJraeKFwp4sBWap7fTVXwdCB4vvJQAxOqfrZCB42IO_VKzwIwjgNdTYozQunOT0KtCAfb4lIJYFZWwJQ-Y8UzgViGBCKjIrPPENKLFs4HILVgPNvlG4JEedvpt9OSqtI40ft3ytysQlu36Z_AqQQuAmn8ym1L4GN-kM2ivtKP4GX2XZRGH-OQp7qivYYwfl-G3scmLf0ew%3D%3D
-
-#EXTINF:-1 tvg-id="金色剧场" tvg-name="金色剧场" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/525/202406092239_1717943712461_H169_1080.jpg" group-title="影视",金色剧场
-https://api.livednow.org/migu/713591450?sign=gAAAAABnSUINnCupkr7ZubUfSHhWx1hTDCmyP_oodXM_lb1b57ihVjQG9hNOJ2viEq683R7HxEcix_bDi_siXHV5rfwNv8fr6nPBI9_ZocF8rzU6XT3tc23mYNu-ZQH8H_4-Bokl0Ngc94w6QnIG6ZtU0CBAJgAFEhy0DVu0NPDthS4E_IVoA5t3y90DxSc91d7x5tC1vp784iCMw9fi9ZZ-z0OqZ5Y4kA%3D%3D
-
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 18:09 CBA常规赛第14轮 北京控股 vs 北京北汽 杨健 霍楠
+https://api.livednow.org/migu/942913668?sign=gAAAAABnVF9EonO6olenT-oJSQNSd_IxsjVXYsc9WfXIRQOSaefPnr3Ip5A-K8HIYs-Txu6mIlCgREDFB6LzMkIY-wxAxQsyNUbG8HoI8DIwrBJVr_xYVKM4ywiDIe8n_FM-GGwa0rdMegLD4E5F0Wd0ZtYTGO-mY1kxH1ZNBO84QmLHvgUdk0xGbtsL_wWtq-aTZ_SZBZIDd9abNGyaWglhY2iOoShX7g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 18:09 CBA常规赛第14轮 北京控股 vs 北京北汽 上海vs浙江
+https://api.livednow.org/migu/943198004?sign=gAAAAABnVF9Eq4fO8IvmGtRq38qPbIly6xyo5rsB5Q2QYSswmqouAEE3_e3eCeAZA4R_vphgmAhjcaChkNZciIb0wQR_Wr8dN-YPMYQEaYVzqG78yfP7hrx5XexglIG0LPHfKU_bxr6_aU25AKdrULjzH1qVyPArDglBjuLebI2fdEnJWQOEsrfuDjyaVjcZPAMnQMx2QrR0ARrWw8N2VdTKDvmPP8hePw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 18:09 CBA常规赛第14轮 北京控股 vs 北京北汽 周赫
+https://api.livednow.org/migu/942914055?sign=gAAAAABnVF9E_eOCAtRUwl-2GQAvFlArwuTlqHLUInezBI4IwTB-dOFfcPJElo3yzrsx4ZSSU7KmG7loFGN3N35ArmdUmVA4wI-iCT_IQkoppRasAZ8NzceY8l_eaCcKYczxmsEdMGYOIjpILAdvL-NtO4xb4Y6i6A1HZecZjZxlZklM2tcLEOZHqgTDWBy-DXEaiEXSg_ON4kSnpcIyYAMacESxj2StTw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 18:09 CBA常规赛第14轮 北京控股 vs 北京北汽 谭成国
+https://api.livednow.org/migu/942914137?sign=gAAAAABnVF9EEQkfGJsxLM0YWMiYKaBNPJOUNPPmeEPwZyeXZCqqc9BI4lHdqMgW7rGq1j0XnN8_v3-EvED8-hwxp_SK8CCwBhTaps4DArmsm-R0NZpNkwP7x3zMcMan_tg2jjuSYNOPKvEkh-VracilObGr6sRPeU3ttYovyfrrjEYEAzNsFROXveSzsBOG7Dwnxp45K0j1axwqMsZojBNF-kXDg5wdAw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 18:09 CBA常规赛第14轮 北京控股 vs 北京北汽 清流播出1
+https://api.livednow.org/migu/942914338?sign=gAAAAABnVF9Eb8qcskc5ijLjgJpDYKD1k7PeswUopOhBP6hCt5SZfbYx6hc9nXiKvWlRSOsN_mOYkfv1yiI0bSj76DiTtjQGFL8stcAiv0uc9154ImHaTmjhB7VmaMshQrFkWKneEqah2btc6fCtzT-UMRGrp2AUoJAFNmeoNTttIUnl7h8ag-JXszKs8VSfzp-9CBg7Y0TwuUkzo2Oxn2qHn1pJiHoPdA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:00 CBA常规赛第14轮 宁波町渥 vs 九台农商银行 吴博文
+https://api.livednow.org/migu/942914491?sign=gAAAAABnVF9EV-EWGRJWTblSXJb0oKMr8Asv1Cmim6Bkkh55BP64WIr4cmsD_40GGyfINLHB1OqPqD8nnGKaEYqvwiIeNvCokBqRIx1ueMcwqJgzstJshBT8xRY8va01LoeQrpH1Qt4t2hk3-zT2VQjtuJmngpbxPTaFDrcPkavZ4DcIpJGnkROEeeGC-QHEAIiIAUGm1Ex6NgKNaFSYEojmHL_Pa6qYpA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:00 CBA常规赛第14轮 宁波町渥 vs 九台农商银行 清流播出2
+https://api.livednow.org/migu/942914610?sign=gAAAAABnVF9EJBsR4747HzH66f_-PR5k91NiqtguRCUNnauKdthI2w_YWaXVmEQb4iX9GoKwg4Yb3nq_7ayAtR4vF4KFVBKMCpr-mxzP3-lO6eMvMMGbcO6QHIZrs9Hsb3kLBYjo9IN2pGEB7m3JHLtdaojF5KdgzNJ1hTHh-8owKJMLvuNaEUyL0pAHmFuM14Hxtq7W_-ykyrpftus5bb92UGbPi-QVjw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:00 CBA常规赛第14轮 福建晋江文旅 vs 浙江方兴渡 张浩岳
+https://api.livednow.org/migu/942914751?sign=gAAAAABnVF9EW5L1qrKUFjpKL_NIYVCEUHJ_XKnLAOq3tc_L0v9sJB1jfoFQOiEPgAnHwWJErZFRedfYHN7FQldewZv0PGYfuvSo-EKAa6D9wvMBeo2sQZTJpgVIfoz5amvUKK8_zgYfQA28mkqKpuI_c27FQ5pZjQgVpEI6lDFTcNE-DSFAXHj0wfD8MrgPPSMlHHK06geg_rAnLrg5J4PGDu5UPY-GCg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:00 CBA常规赛第14轮 福建晋江文旅 vs 浙江方兴渡 宁波vs吉林
+https://api.livednow.org/migu/942914491?sign=gAAAAABnVF9Euq9ZVV6cHSsdt7d5A2RoGunQkXQ4PQ29InjwvCcQLnc5k9FwpGy5khb8nRa3qZZ7WoFwnBhNiXSrCZ7lSi51oLGT2d_ZKTpF4oFd4pc_y-MhIAgiXUpNyJ3zsGVe78tJaZfo3VAJSwjvyNQH3jJtvyVwhZznoMMuLuPPB16n4jHxJohd7tTCuafITeoS3TwMcVKhe8Zrr0A4ACWiGsjSuA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:00 CBA常规赛第14轮 福建晋江文旅 vs 浙江方兴渡 3D全真视频
+https://api.livednow.org/migu/943197758?sign=gAAAAABnVF9EQbm2u_hR0ZpmM-coHMQ_5OiqszO4INcWKnbiuhI0t5EeK2ROiEpzf-2UYyXym89MSzA0eFdT7A2nFg-95adA0-xq6WV5gUUQMRI59SWBZZ9KOVCaI9HR8EetbczMkE-bqCtn94yeJwm5TkO2FnXPpCp2hJXMKoQ2kHsP4RkUzISGU-KZVJzMCiOAn5VEM2mm0GS--on1fBcZ3aFJ75L2SQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:00 CBA常规赛第14轮 福建晋江文旅 vs 浙江方兴渡 清流播出3
+https://api.livednow.org/migu/942915008?sign=gAAAAABnVF9ES9Yp-ehZlssQlAMjULaHseN_LULQqWI7fK1xOF7V_2LYoEVV_bnYPvSpxl2xNtnU0NuyrEAwgU-_hrot3XP7_zmPOgXNeLDGIxl-UiKOZgJ4TmzvmZGHFh266wMAjgP7Ho9wisfXKBhgqb3y_azoaByhuJMzpaVoEhs3hMkv86VW2tRaPyiusHYS-kL2oorRDv-FrP0kUdbl9RWGN7OZng%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:00 CBA常规赛第14轮 辽宁本钢 vs 天津先行者 寇逸豪
+https://api.livednow.org/migu/942915179?sign=gAAAAABnVF9ERa5M75F71vViO8J_WstIIRTXJam13k4KaEknK2CKoRUqlYCvYZ4enhNA49r3oo86rHPY5eMw3Uurp9YhiOkRxDGgotaCbEqJgpJnBuSJ902tSMVmmXSAFHHesVI7axN89fK8PWDjqojl-eS00tGLyZ823g1YOt_WiYQP8OmSsjTCzWv27_6wTnxasZnlvT3sJuDJl2WEKRQ6C_Jv2LFo0g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:00 CBA常规赛第14轮 辽宁本钢 vs 天津先行者 宁波vs吉林
+https://api.livednow.org/migu/942914491?sign=gAAAAABnVF9ER1vEInhQxlsv3097wBA0_d3yObVp6uPEviiuRYY8u0ykHTiDikL1fEu8WdUD-qKEH24olp8YtOpUrR1aVRgpcA4Xx6Jcz2Uk7buvGZ7Po56mfcH_Kvxgtp5C167faRtIubKvMz2zEzxZXpWHvktGM_80ZQsRZP2X68hqRMgyTNwSbhhMLmLfwYEVX5qUt6jBeW0a0IJRhZdtXRwytWDvNQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:00 CBA常规赛第14轮 辽宁本钢 vs 天津先行者 哈秋
+https://api.livednow.org/migu/942915484?sign=gAAAAABnVF9EE4KA4KmQfCrhX8V9YyE0YGulqWAgopR7U63ak888gKc4EBYUKjZSsAP3W1FpZVyv3SanHnkYNif6zoZTXAqD-sxEk_kGVu5X2pLVBXV3kfky6DPjq1mPP_4j_8U85vNC4DuTFKuidPvH6v9Z9BZNHKL9c4Gqo5igcC5sPiFxPdNPLYQwUIsqxXjlNBAB59G2jwZXMYRR9deXTiDJYvE1YA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:00 CBA常规赛第14轮 辽宁本钢 vs 天津先行者 荣浩达
+https://api.livednow.org/migu/942915569?sign=gAAAAABnVF9EXlChdi7afJDGeP9qzbRQ-1wbl2Gd7U8R9qHwbnL0TsLCGzVeGcAPn7w5v7nJFyCdb2_J_kZjuJPIfDOvTGN-X5M63QY6_ct64T3YHoW6uoTqhw38cOlT4FP97ksyJzA49zBaNEvkDEPA_vT1pWVImtpCc-Hh94gegNYu4EpatFC8552vLGIvBw8UJsquhU4CeS6ntvhoHMYuZWGPILES4A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:00 CBA常规赛第14轮 辽宁本钢 vs 天津先行者 清流播出4
+https://api.livednow.org/migu/942915679?sign=gAAAAABnVF9EJzeQgupofF4tSZgv-7O5qwVLHVcHHZYkztJRYt7J5fUUEALx7EX7AuSCmo7v-DHzr_3-soQ-i7dObbT14bb_yLnFkJ9L-d2no9-wM3vspkC1ifdvGcnnXEMzU6spxLlNnmxn2xEMWc28odPjtLJw1ngn_EfusGDrlKjaW5MqCeR1qBG1KTgHc6PBMblMuTRBvxxS_Jtx27Ego57GjqwO0A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/8/23/100000001006106f37b5.png" group-title="和平精英全球总决赛",12/06 19:15 总决赛第一天 官方解说
+https://api.livednow.org/migu/942878202?sign=gAAAAABnVF9E6j4Jk0UZ19BH0cbBsl_m1UQekQIol12j2q7nllNDuhVBH9PO-xbOL8SNVl5yTv29ufK6yFaD1wLJOuBCzWV5l-TKNEMARr4BZe9YJdWMuQJcIqFCDfQxsgmKnBZr_K2GkiJvWUYXcV24SvVey7SN3-Z-lQpHN4WyHjcCQXSIRp_eL8BSraNq6FBSpJJTgOjCjUtyfIZdPUb-7ctUNrv0tQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/8/23/100000001006106f37b5.png" group-title="和平精英全球总决赛",12/06 19:15 总决赛第一天 地图流
+https://api.livednow.org/migu/942878052?sign=gAAAAABnVF9EIjOu2yMeQZ2gLLM1sO-2jjF5rIjMhmVRg4gFwrjbtyehQ9Kgy1lNwbseTzcW4QMhgoE5z5P5-ZQMxXETm2qcoVbmUaAZpiATK3UjN6eR-eo7Ge284ed7RRE-Z4JxhZC02wySycIKgv3O5AmFxwqkLsU6cvuotEl9xGe--cEJXpQikoiIO-8-e2iZ1VgNigzDYfcieVEU6VXvvLAAKmQw5A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA",12/06 19:20 WCBA常规赛B组 武汉盛帆黄鹤 vs 合肥文旅 解说
+https://api.livednow.org/migu/943463717?sign=gAAAAABnVF9E2mTCE09MsKObj6pcTEsPd5gE6RElSxu6Cgruzwns0DSkQBKWcjrXXV9TnesutJu3KyHioy_92cDTaV_g95jLtWbFJqidAzMdu_L7aLdTJnzfV3PnV6o9JaerXDFGiMd1BT69xjR2tUiut-BgDbKlOICiJGAFHlGyXdQ0aAOpiZptqU1k8ZnPSERF4mvVaEm_MNZR5TgE7533mokojg3fwg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA",12/06 19:20 WCBA常规赛B组 武汉盛帆黄鹤 vs 合肥文旅 解说
+https://api.livednow.org/migu/942843873?sign=gAAAAABnVF9ElzwGV7RQofX4OHjRV23VnwNugbWncH2EnwdzJ1I3aJZGEXZ5D6cQDaUZkLcxW3aLk30lDBp9RFc9Rp2Fn6vxpllB6m0Pl-R_2hOFfafXn6HNfj1XEQSJXDyTIGJWYbAN1Cf4V1Lu3zi2OLnrpJOlxQfehod1LJRukakq4nVi9Cpgcppo-fdA3vaYfwvi1Ma1S8hKVnO3sixslIKZIiTF1w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA",12/06 19:20 WCBA常规赛A组 江苏南钢 vs 石家庄英励 解说
+https://api.livednow.org/migu/942843539?sign=gAAAAABnVF9EB3DpQLZVJYbCknIrmJzSaGRysiDf5CjxNyksNwQJ-zaEJuVU15QcY3AsWhUY0ihLeLdm15IZi8poE2PKHuFchQrUhEIuSt6401wZKlExi0gfPu94bb7hHmvNEP4qpnYfSyoexdbYXl0zEEK3u5kFq2eIb7oq-tLsen38EsP4oeSB1shYLzpknTMzqJiLNcTFZ2fqej-l3x2W7LjjEKEdMQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA",12/06 19:20 WCBA常规赛A组 北京首钢园 vs 浙江稠州银行 解说
+https://api.livednow.org/migu/942845628?sign=gAAAAABnVF9EwThshkLEMqHo0KOhKjYaw6TmgkF2MiF3qF-lpXf2w3_TXs7_dzQXM_Hx1e2d9Ge4cS_-8DFZxWZipMtlHkIXNkxqXBZ1NRAo9sY_up6SrYihsHyjhgit0z4V1YMHTJpJxTN8hxGfKWMypm4cLe2JbDWCfcpH8TaCc79HG8AIQeBTYK4DugsYmiMjj0caNdFPMLS_KEaVUf2u4xFRYX6Qdg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA",12/06 19:20 WCBA常规赛A组 上海浦发银行 vs 内蒙古农信 解说
+https://api.livednow.org/migu/942845868?sign=gAAAAABnVF9EbP03COX4fiNPPCpaVuZ62FKUqIz5OfSv0mGmhyisXIqJzIkjnCp7sn92-7Sn7ew8s4Pd9__ksttgUdjIEzl3k_a7mtrZL_FRyAbxLoYvA-jswyXtsydnYOijKD6qhWysigxTV7y76__eVjZQfVptzHYkhdXIoii-Bp6IsY08_a-mWOCWLqYvW67DlrbCbPxijiP3cIjAxSvp0Zjr_RJ7Og%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:20 CBA常规赛第14轮 上海久事 vs 浙江稠州金租 李天宇 陈正昊
+https://api.livednow.org/migu/943198004?sign=gAAAAABnVF9EWG57aZzNqxOIBPTjDhUBa5RBiFiAXJB5IPRQ5kCyk8wCUQwMhCwesA-qyrmMJ_7fe9ZoZ9Fl-6aPD3rxpU0hHFptJQUipzEpledWiJVy1JBFkFdfXNXqkR2blgMGPCEoOUE1nogc1lLuUy6o3M-CrOzINZhLruNs00i35AJdnDqAkRNWEuk_84e4Az8Ziei3zeUD7aOhXNkxG8C5KpQw4w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:20 CBA常规赛第14轮 上海久事 vs 浙江稠州金租 福建vs广厦
+https://api.livednow.org/migu/942914751?sign=gAAAAABnVF9EeQL_VxSrfc0KfxKWpa3Dn7lt5dcx0tFiYWCibJwWkGP4LWynarNBqU3d0Cfd1vTiA0X9dakyiv5qkzsjZfvzSaPol-2IgWEbNchxbATb82mBUV14TIEyM7CKhAPGTyAcZAED-sRY4H4fqKOEF7sno6nUWXg4_4OHbEPDDlMPc6Ui-TnikaOiF-a1lSx-dCGSiG7pKHKeiQXbAPyQL70Cvg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:20 CBA常规赛第14轮 上海久事 vs 浙江稠州金租 张俊卿
+https://api.livednow.org/migu/942916026?sign=gAAAAABnVF9EXB8pLu6Gh15P1sDiwDpwSm_dvJ6m3EOyvGylFleBSAkw-IwhplSGSa9-cHuYZpEK-m4Ryon_AUZwarTfWkXbiZBpGjtKv6GKFzDjxZ5IlLBdTuS8nN3jgfNp8OFiMzdTfV-KXYIGFGg91Uf7KfWKSkIXmDUOArivtGmMamp9KVBVA8A5XF_-z5GlpvC4GBQwwEgxc40bKQjxcfIHQ92kpw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:20 CBA常规赛第14轮 上海久事 vs 浙江稠州金租 金哲豪
+https://api.livednow.org/migu/942916086?sign=gAAAAABnVF9E34nToP61Fiyihg3-zfxXqSrTn27QHiNfGkfN-z4xSWSnuKbPCxURuqmJqbShQrs57TWF5jX4MQMpb6oscV-GXLkgFm2q9RUQaj2Z89MlbJE4oyNylws_gQN4lcU1nVAzq-QxAfzgEdodAClMUke1QvhtiWvfzqiR7_n910a1sDOL6-EPR-DfOpB5tmVacNa8ZlwsQm6FjcMQgaaF2D4R2g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/06 19:20 CBA常规赛第14轮 上海久事 vs 浙江稠州金租 清流播出5
+https://api.livednow.org/migu/942916177?sign=gAAAAABnVF9Ewu1INMcvFfcurO23dCSSIUmZTIO1Cv1X13dKJSG74uQOGpcJ9nCxtl9rAAit4oTR1fihK2W7CcP_pPnNyZoo0hU50mdKKPA_17c7KDU2EKaSizYgNG_8T42548W_EEd2VqeVUSXSNma9fqYpVO3_NSkGC1XY6EDL3rUa2nrn4_OFMpKoNDUI7mK82jsQ0S5t-Z8gdjC1VzgWTIjTEfpuTg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA",12/06 19:25 WCBA常规赛B组 陕西天泽 vs 辽宁大连体产 解说
+https://api.livednow.org/migu/942844114?sign=gAAAAABnVF9EeA9ldGvEI44masgGJcvTA6SQHh3Wzlv-22TZC79WeIsCiZjjuOUBUq-Uo8imPrZAF4hjnvXxNb1-OjKzraPQ76vtN0p8K-dq7PHu-mVhAjlRQemsulsNConU5dfuJxeVH5pAa8LgNvMgJAS5Zfo7DOJWKxEb8R3Py1Gr-B5Z88wusPugD6jrP2v7ZOnkWx_XboBNl0IeSZG9swUbCTitqA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA",12/06 19:25 WCBA常规赛B组 厦门环东文旅 vs 江西赣星 解说
+https://api.livednow.org/migu/942847333?sign=gAAAAABnVF9E0Kqo-TQwEuhflFOUw4RIoH7tQVq3WmbBfTfQwTPnEXe8nLW0S0XzSjl2kWNNvI1E7OhK89_lM-HrBpv5iDJbCw41wDZXsXAs-fN_8FaWMJz-XheMDX-wH-hotiOKWE_R_mf6-qT696KBgkMC-gAUiwl6DnyJw2nZqzeVcwWn5Q42WPMTSKFxv4waJEJx_e20jKXHXhNVVmCnvxYI0qOPdw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲",12/07 01:15 意甲联赛 国际米兰 vs 帕尔马 刘腾 黄健翔
+https://api.livednow.org/migu/943329301?sign=gAAAAABnVF9EunCxyDG5yNq4VJSpgWrH3YpjOELI1CdfQs1qr8gCxaodB2j9tjjs62mQRF95aA1dUnkHJznUHeY5hoKhALEkbK-StM5mHrQtgsxFH99I1hwtLlUBd0HstaR3HWVj62wcdc9OXmffdT4jn6vnU0AZJJU6bQKym9G2mwNnznux-enNhFtQGclg_KGaIC2PU7lulVhNRdhCpddoGTsQseSOMw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲",12/07 01:50 法甲联赛 里尔 vs 布雷斯特 邵煊
+https://api.livednow.org/migu/943326750?sign=gAAAAABnVF9Esom3IMi-hGhKoyjdJVbFT1Btg2X09XcM1zTq7XvFy8G9QHwYAaAYAFHcM6XtyM1O0fKhXjJqbeG-QK9eC3e41eu0nYME_zgYd_VVGSX-ANUR2aAff6Onnrx_57r1082vha3SmHz27qKu4xE85WQfWZlFPOW_sbSoMRfSTxkghMt_cMF7-DEkCkZSclPjpjDeof_ODy_792tKbgWYCaLw6A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲",12/07 03:20 德甲联赛 斯图加特 vs 柏林联 吴子越
+https://api.livednow.org/migu/943325916?sign=gAAAAABnVF9EkAnMSnT-iIA10PjjTHeoVpCC2O_Jx2YBx4Y3NPHo8l4G0NVWJl8r6c7j-8yCsiHauya-vFjxIydoyrs4XT59tr6nCo-wuwyWeBr4lE9J9htZQZgPLiUEgzS_w0o5kKF38hdZMdlF2bp1VIG2p9JOgf78mhUU-mdq7ZFaciva93dQyhnu1hN888aCwMY04XVrBNfqJu7RKl14DUY29aAwxg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲",12/07 03:30 意甲联赛 亚特兰大 vs AC米兰 石庆圣 李彦
+https://api.livednow.org/migu/943328486?sign=gAAAAABnVF9EmHS4MX7AsTuZSNLey7jrEsp-pd3hu9v4VspOcTnueoc8r-DT4JCM5lif00u-zBNI-uMFgxixCCBGZrRdhx5gRFUU8J5c6FaNU307krq3k9N22PuzdznobR8L1c0iIbKg2ZTfGCONtdldRLrfzTswo-zg0s76Q4cKZL52aHsFXToGyghMWh-xVMEke6-yQCsOSYrp7p1Bl9BF8ltOFCuqoQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲",12/07 03:45 法甲联赛 欧塞尔 vs 巴黎圣日耳曼 鹿中原 王宇
+https://api.livednow.org/migu/943327667?sign=gAAAAABnVF9EraO-V4YLY2cnKuLwerLn-P83Cewl0-YVctvX_PNC1URLtOnjB_U8yloRowm__q3B4nyOBDEWDlhSYnje8G6LdQQNVcMQmFZXvsoVH2xtnSI3qbW87CzTDiRL07_z4F7T1Oj3rkks6It-MItYPSNjQLu0ls4O57qutBBZ_FeLY1cQz1VXxQBACbnQX6Kxwm_P0AWZOwKF9h5V3uwFiuQ7Tw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲",12/07 03:45 法甲联赛 欧塞尔 vs 巴黎圣日耳曼 AVS3
+https://api.livednow.org/migu/943327304?sign=gAAAAABnVF9EH239w4-fqDRddVyLfb0YZyvZ8KXTF50XT6RrO8lsTzt5ZJ9oPK-5PjcpBurOdXvax5u1Q352ttEr9oOg3QWBYHZENxk1dLmQ9BkM2Ld7YZDBEOyp1knSEDTfYq_z29XCczsuzc9faxXRJkx7d_Ywogjw77x2N2hlehoIaofiS1zdWc4Fyef0HKPkQUK004ZmrgteKVk4v_Ujz6B__ucW_w%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",12/07 03:50 西甲联赛 塞尔塔 vs 马略卡 张天翼
+https://api.livednow.org/migu/943326004?sign=gAAAAABnVF9E34riQy5rvU30xtTEsKwpz8Da-zYxFnUBZyeJbgco91IWi58l2KMaAqfIPB3cY1BeQmw01p8PdWJWRkjjUQuqsJuA4a5UZ4HD3JU2HvMjMFUHsP-l_2haUcBurq6ILBvMpMyWCKOH_ejx7cli2UcLO2qUVW5u4XUXonHwHSaVXb1qez-auxLQuD1a7wa4yWuAv-BMlqPXA24Emb3OLMD2zQ%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/10/07/6D5JMLSKNO59.jpg" group-title="逐马计划",12/07 13:45 逐马计划大咖分享会广州站 清流播出
+https://api.livednow.org/migu/943363171?sign=gAAAAABnVF9EWPr5eFWyJMa6yHuojMU5oKwnB8Bkt0Q7mRiC1NRX6C4-p7xwt2MFTLZNP9dJgnspSDyTPBAoCfgonpMNZCLOEES--sqPmrr-K5yQ0mFu3gYnFrkWHtqhaYcUsSiejn30rH0siW33ACAxgpEHvkPDabyvh1dZcqc0HHoQGosh9JZGaDyPUMbWYTxfMVhsXiKh0w2X80ZoEM3ookWSDNtWng%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/11/19/6M50HG0PS0PK.jpg" group-title="挑战者杯",12/07 13:45 王者荣耀挑战者杯 第一周第一日 官方解说
+https://api.livednow.org/migu/943436352?sign=gAAAAABnVF9EMRgTOMAqIyHC8iC46Iakn6OUITEo3O51MypeGZTHVrdSpcY4jALLDi-8XEZ61iasS-LJRFI1ahPZIFP0gPEcLtHeGldNSWreNxjqepcuSCGQn_ZHy_WQco6Vb24tBY0da7yQjztMRntkwV7OpU2Ansq4TrZE5EiOQRtB1cRCxSRe1nhu0NJLh7jaeqrSs4jZYAWzNZOpn7VKttb2dkcR-g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/11/28/1000000011391061f56a.jpeg" group-title="国际滑联世界巡回赛",12/07 14:00 国际滑联短道速滑世界巡回赛（北京站）第二比赛日 第二比赛日
+https://api.livednow.org/migu/942812121?sign=gAAAAABnVF9EaZbyyv-G94aSUW3h8Qu9FIQeOWWayr0R2UCL11nHu1qK2pSzWX9jMocfs0PPAZVHpERGkqStf1CfXKGiOUQrMxg9ROQD8lhaxLQivxfu91FVKBvEmflI8zl3EjYyPZVVPBDaVjqCwe01OkgLCGioOZHaRRoE95Xl77vTddZGE_SHU_b8O0sbTcbtewNMfYcOtglhcD9ZnzD1Seoht2s-kw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/10/21/100000000989106e285d.png" group-title="中国足协U21联赛",12/07 14:50 中国足协U21联赛 天津津门虎 vs 深圳新鹏城 解说
+https://api.livednow.org/migu/943306929?sign=gAAAAABnVF9EcUjM8NVorBDCIjioqqWkgv7OVNJU-b9WXxhECEVbmUavYynji0Fs1M9IUC88XvXpzhJwPnW9BiKG9Cspn-zP62vTzHQHNngNKUaGaGraFnt06Q492htNdyBqzDW9FYElM5QpZ5CsTFSTWeCO8uwT8Uq9Pm_n9iHeBhN8ZV3nuMOUdZlitSnZe_4U757cJXeZiRgluZsEGuJcIfaQulk5Ng%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/10/21/100000000989106e285d.png" group-title="中国足协U21联赛",12/07 14:50 中国足协U21联赛 南通支云 vs 北京国安 解说
+https://api.livednow.org/migu/943306814?sign=gAAAAABnVF9EFKZ1zX2TV0_Ns632G-ja1ZC1XibKWgYjgo_9BbZKviPZ83s6Bms0KliQoDuaWXTk0NpHKMEZfDXzUHcJ4XS7ogyA-ZAlmeqvj5isKalW7nmcjCZcUcfifXNDX-E3axDh02xjiHt4C0BWf6-rkeVJoVTOnyffuHQeDW9H81r0ydZZJ72W07W69wKvbr4LpnN8P8WiiOW-usf0OwlisljJEA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜",12/07 17:00 聚焦八角笼第15期：UFC310前瞻 众名嘴角逐预测之王 陈瑞阳 郑文祺
+https://api.livednow.org/migu/943484290?sign=gAAAAABnVF9ERlHhnYm8Ceklqbopj5Ja9-uLXZtBIHhbsSh75g5-Hlyq1eRipGXryIdEDK8q5-2Gaxdzwg8ikvuVJU4jduZwWKx1czDe0IpVvYlvomgf0MRWlL90rWeLQ_UI5R2yrMGpoC1Qdn8nENn-BTWJix2h7qenlaoGlG4EBtRbJ0cbUf6GX7XGDTuj3-gn1ZYn51EbnyISc0sjXG2zkiYjDuOLXw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/3/24/100000001031106ef313.png" group-title="JCK",12/07 18:55 JCK战觉城次中量级百万赏金归属夜 解说
+https://api.livednow.org/migu/943294955?sign=gAAAAABnVF9EKXaiW1mBNX9Gc8BfYa4GRRMT4tWWbdhr_gIXS_5v9xUXUgABoE92dta2ickfEp-LRR4_OQ8KHStsdtf9F7dqr6Cyk2AMiUn1rvlZMo02YTek97xv7GrD52Ihs6bsMQJFIa6ghCmIXeFVs9ivb16DpZppj7ktE0Lb8qqx-jWquvO0sIiSsYQqgYbzNQDCSBAOqpQf11lgydgnxhV_GTArIA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/07 19:00 CBA常规赛第14轮 广州朗肽海本 vs 山西汾酒 解说
+https://api.livednow.org/migu/942916576?sign=gAAAAABnVF9Ez0RnnFnNyEE5IzKBWle2NZYXnb3VAu3y24ZNh_i5tEQhyQ_C5b03RPX_YYNNk23ZLwXdvZJRz_sVkWpkgP0oHsf3erGAPB8_4V4gbfiRCxYyigs-OFKmVvrJL77zJ5qYc8mHr4zl6CJQbc2gSS_2rIOKs14yKWadosZY77RP1u5wOKt7MV2p-iF0a2mHT46VHBbS1KC0tUfy3ZjBZjpxjw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/07 19:00 CBA常规赛第14轮 广州朗肽海本 vs 山西汾酒 张泽欣
+https://api.livednow.org/migu/942916817?sign=gAAAAABnVF9Es58JuiMhsMezuVFzWLvCe5FGbrZe5VXovbJcTo5K9FUsYWznITzL8uCdb0BPtZxrKUlCoqsbn3Sz64WBkrRQ7RfAk6RtrzzQDj8H3wRbIaVQ5mgIE1ds8N5cNvyYK1DhJ4Y35MbD7bKMxnKwLnO4Pnfvir290XuplqtlrI2X4wNwBOM3LxnuuMJTLM5sPjdQAIn_LL2H4bqwJqH4bXEDwA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/07 19:00 CBA常规赛第14轮 广州朗肽海本 vs 山西汾酒 石楷文
+https://api.livednow.org/migu/942916874?sign=gAAAAABnVF9E9gyq1iDZXJ9OysaBQJnXKfo2mWNep-HRcHxSW233k1ALZe0hzd6zm6969e6jqKjI-nkoAp0rqdauZ_U2gDPb7M5JSp3T5mIZWsbO6NxCBTp7Ismt0sZwqVaIlwZ3kBSdcAp4hb0QokZOIGgG6iheKgusDUR-z-4IiER16PeSB5SpC89VFVn62wKqIzkaC29vMC8mdJ9MfIuU75oNmNVivg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/07 19:00 CBA常规赛第14轮 广州朗肽海本 vs 山西汾酒 清流播出1
+https://api.livednow.org/migu/942916943?sign=gAAAAABnVF9E5tjTiQcN8w_-IMjDz9MwWUcCVCKJ-9xHbERww5HBKZ9SVyljqimd4QNtuO6gt5vVPqRN580es-5t2S7MyDNb4nbt_kfvwKHyl88ozIZyX83f-VaV4PUlWw3ByvoHza1MKIp1zaFuWDS8Hzc4PlUE8Q2MDgvVqznrYlYlg-1y2PbHVUJ74QmGJ607vvLn-TAr78nCb1RYYtGLq4CsB_k-kw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/07 19:00 CBA常规赛第14轮 青岛国信制药 vs 山东高速 解说
+https://api.livednow.org/migu/942917608?sign=gAAAAABnVF9ECGG0lOait2MwK-y29DAFYl9VLhDN2R8EI1vy2HaxP6xufAN6xxnfTSHNVUiI593CACrCd-kvNNQ2Mjrpf_-9F1WZBIH-qpUdF2zsJr7mgR22rA6GpZiw-LtktVNJXUxi5s81IfbvHT-3K6LHksHC9s5aSR5aq3olEmgdHV_uJWnnEK2Br-1HWtTW4dYYkJtqPWpvTnM_uXeK1tax1mqv-g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/07 19:00 CBA常规赛第14轮 青岛国信制药 vs 山东高速 刘沛元
+https://api.livednow.org/migu/942917744?sign=gAAAAABnVF9ECwsYLMMFw8JkWx6vXz9J6gSgacTiVHPuWqAB1xVuFFApEil7DW3k_sVVrWIs-dfB4OhwgthISP8-jX6QL3chyO0f2GvBKxSHhq084KG8sxQMv7VvNIK-WJeDT2EbL0Q28Q9B-EsiMSj1nsY0m10sooOVQfq50SdTrghDBneVJevY-dZWVkxKIXfAp2Cv7lpMmYuxPHEU4CaqSgLqS1L-jQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/07 19:00 CBA常规赛第14轮 青岛国信制药 vs 山东高速 罗森
+https://api.livednow.org/migu/942917825?sign=gAAAAABnVF9ENo_z5BQu_bBDKXz7Riv8W8spvAIFB1kB77zKLK6WSIpJ_SAQw7mes1ieaI7xjSFFmLKvx0ss2XcSKyVLsAVkhH75tnRHp6UhS3Y1GxRgAS9g1eXWRdj_j30DJKkBdsjbxkiqRvqKisuvY2bxy9vtt5fuNbDES__e4oPjQj-yvTs3s4iIt8CzcpKffjDihNKeXs_YtNcoCdVNzHjfxhOs4Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA",12/07 19:00 CBA常规赛第14轮 青岛国信制药 vs 山东高速 清流播出2
+https://api.livednow.org/migu/942917907?sign=gAAAAABnVF9E3kEvCXvlFlQQff3eVtuxLYOkfDXihlFMaAFHdNaczr4xI5qDhjU0xrDwMvQPm5-uPfKFp4KcKXMbwlvphB-lFUeikJHhOmIi5My2eb0gXZE5Pgi_19etHBtO3ubbmVoLU_XCus6GRAN6UNwA9P4X0ru_KOxKxOBs_pFHuHUS4rEZS6fGB6cZeHEGQi8_4lRa2ru5-HDNdZp5fJqMMsF3zQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/8/23/100000001006106f37b5.png" group-title="和平精英全球总决赛",12/07 19:20 总决赛第二天 官方解说
+https://api.livednow.org/migu/942877967?sign=gAAAAABnVF9EXzXWRSPmALKEngnEGHkwvYbTmXBa1k-ccWKg91gjTSEkklbjv7ijhg17Cxm3QysbP4vRw1-o1uEJ3U3WK_dw2-HVy2BXPdXd_l4a-NkOiqbU5GELb7bAvwV_bIYdM996YkRfcQPRQD6bfinH0nCTDhbnZm5E-v1ywdmYg09AZ7QNRqTUdaaxGDtcT8S0HxNTaRkoBFBt4Kc1Oo67ssAwIw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/8/23/100000001006106f37b5.png" group-title="和平精英全球总决赛",12/07 19:20 总决赛第二天 地图流
+https://api.livednow.org/migu/942877754?sign=gAAAAABnVF9E0ICALmE0u5S9MhP4RZJFKQ_NIGNGtqG8_I4hjDgKOBcztlU36ElP4lgVgfPvkbY2M7ft1qhE5IXz6fsOGdRRO65AfhnhzyArUgzDl5evFOB61K0bWT9W8zUzjKjHNEiIW3y9nd4Eu44S6HsdjGylNZqX9jhnsebKYOxXDx4p2gWM8NylhB4KE2LcBaMx3i-zXmoRjhfKtLcX0ZAUpBV03w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA",12/07 19:20 WCBA常规赛B组 黑龙江上东 vs 河南豫光金铅 解说
+https://api.livednow.org/migu/942844442?sign=gAAAAABnVF9Ek6T6vhEAxdb0ilhqYsYvORJvMDvMowL9Lx6cMGp_NFNeLrxxPWNAiFpi6qpHDozTSbjuXKDjwO7GIklx2lY6Yu-F8HL-IcaOm1RXAmpbOSGKBK0xRuRgrS_ahrNz_Y0xqtqg5ilfk9clTnsQukbDamYVgqSun0wzsMxyeV_Xm71z37s5jN7GxhHrRFhqTGkfuGfrmCmGGHTNa2ZS5EaTHQ%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",12/07 20:50 西甲联赛 拉斯帕尔马斯 vs 巴拉多利德 李霄
+https://api.livednow.org/migu/943326528?sign=gAAAAABnVF9ETroVhy_GiL156aj7agFamMgTLqm1fMlcpqLliXnDmElCZz0fuNNVqDkjqE-GeXbD-xFqlLavEtuYRkVodv4SbxQ_5EJNaiUvspSXc-7RFuwOp_C9MGSodlrKHL164U7ohM0MRts9MvU-H1awV8Uv1DnblQrz8X_t4XMENh2blENLO7QUBOhs9QQKYCALyABiCORjfMBs-l8y1vbDHH6x0w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲",12/07 21:50 意甲联赛 热那亚 vs 都灵 刘焕
+https://api.livednow.org/migu/943328145?sign=gAAAAABnVF9EJGwEe2KWpSiGlnJkE8uNjDj7iPu4xib-WED5wSdm3ZaRNq0cTfwyhbTWsJqjrVwaT0Qxnu69ULNF-b9IWqP5LpWQnmws_Y4NJf5RziHOgiDMvG6Kedk-xPUWYGfpHD-XSGiv7EXmgYNaOK3rcbvdSYcKipdwQtEXz6uZMGY1xYvO2NunBG2515wZTLd63C7G_gs-j50KBOojljxk3POD9A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲",12/07 22:15 德甲联赛 拜仁慕尼黑 vs 海登海姆 胡小凡 张力
+https://api.livednow.org/migu/943326942?sign=gAAAAABnVF9EMCcuih5HglqSqrjQH8jwQmQhk2fe-bEAYaXttD0QDLPnrkYF1b8TnkqJjpPegT4gDR_e0pN1bBrJ-2KJUDlKOFEG9r74IeOcv1mxWwybSIPeaFvw6TDAS_r9JTBUi1d-uqTOFucT_yU0xJVBOqJXkUcv719HkvbWT76XoR8zUpOpkmyR5vzr3RbVoRtXSTBC2AsebttnSHM6F-B08Nxv4Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲",12/07 22:20 德甲联赛 荷尔斯泰因基尔 vs RB莱比锡 刘洋
+https://api.livednow.org/migu/943327783?sign=gAAAAABnVF9Eyum5EdRbPMF6Bk3Owl3Y9ghTMERDq_g1nfAcayGlthDeyAcc-f6UZx5MuWWKpSMbxzDzC55kB4bcCRQnjYucIKBmzHbSprO5rvq0ITxkqfMtVXFmYRQuEXa94-k_UtO9bnjiMBCVThW50VaJsIZI6IJ9UjEwrFwfl6RAQE0FWMSunx9jAJTphtcwl14IXWgKtrerXgG6yRkYHZEHNrCypw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲",12/07 22:20 德甲联赛 波鸿 vs 云达不莱梅 王子睿
+https://api.livednow.org/migu/943327579?sign=gAAAAABnVF9EQRZSCf5Q_i3s_Pps7qZB4osp9HRJpRFnmcXhFf5dB7-qv9WfMs1ryHBPmvsnITzKtOG_ZzOnlvzWIACmG5pDhyLx-A_65itz12m3BWI_9tQvFV8DCAbkZVH-u-2CFF2YaLdL7ddrLq3BGuNkBI41R6wxu2NQBw4Sy-t_S-M4xW9CjMP8B4_LDZQjOh9_i76jAtLVxjVTWbAyOozE1qdmkw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲",12/07 22:20 德甲联赛 勒沃库森 vs 圣保利 涂远 马延峰
+https://api.livednow.org/migu/943326460?sign=gAAAAABnVF9EbxKkEFP8eIeTWzo4Nq77-v9ExCxRkUCEB_7kYPAZzn7nnpmtP7ofiuuc_qtOGT_nfgxtugEIYG9_JzbberibxL_RhuQCrEauyrQU8rdP3jOdPk7w_RP2dERqnRdGDiZt69ZNw3iFpjN9o1Acrx5_DHg4O1oxNW6R-Mq3rLpQPGNU2z6S-Lmv5Ax6hDh7-7LApAnm76fC4iHTce8oDbqJng%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲",12/07 22:20 德甲联赛 法兰克福 vs 奥格斯堡 刘洪新
+https://api.livednow.org/migu/943327407?sign=gAAAAABnVF9ETjj3K30nXF8UwoE3dR9pDbtlhMcr2tGOsl2YcHpI2dj_SEiISTmmSOB9Nml1CxueqJTJ1_TgkU9Tm1q-mjYh1-gjw_CB-VoP5Jud-UPalEbCS7aFNhvZmvjdfNNBxgC4Zq3F4A6hHfRc7rQ-IZqUs8ESIvKt9LFO2s7ZgB8Sq7k375ebJYkcNmoWHtCld6gHSZz1ucndDcG3g4-h75C3Ag%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",12/07 22:45 英超联赛 水晶宫 vs 曼城 刘畅 颜强
+https://api.livednow.org/migu/943327670?sign=gAAAAABnVF9Eh6DY6RXcQ_B8KFCFigRX5eTo1tXtp49PbnhXHxaTRAoBoeAR-bi__08Thm7UZ9rAhsANbOJotZvEyIsnyO6b96OpJzXuOD8saT2FzkX0g3nMo6ud7djxaPP7twepUIoQjKeqehlZeQR5i70e8Yiemop3d1RXnb7xCh3CI3a56mnyLP22PbrCXYzIzNck07BUZxxPo0U8W0p49p7QOtsGdw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",12/07 22:50 英超联赛 阿斯顿维拉 vs 南安普顿 黄航
+https://api.livednow.org/migu/943324962?sign=gAAAAABnVF9EkWtbouH28C1CrmGEDihnPsUOsoxSemK5QbQw4Z7EumxB3hmQQ2lmrVKoFzCCALyOkdMTd43SxFPZmHfLfaGwk7BXlQ8XdgVce5H_uLxTiCMXdGw2FFevVcsdIJhGuu-_NouuAIEzyG3E-e8oRW5YWugCxk-MI1SXcc54daJFVQri6NgfL5XSW0c5-IY5t1RjY0QATqyz_bCsOGzwUGkkFQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",12/07 22:50 英超联赛 布伦特福德 vs 纽卡斯尔联 郭灿亮
+https://api.livednow.org/migu/943325151?sign=gAAAAABnVF9EmXXLa6qgrv1DTtIfEtQ5Bspb3NdSIa9AANXytMhwICJ74zV0kg17Vrla8SDpXDt7yP-PyKrgm5p2QLsMNtWZaTphKx4NZlAKXw5TdbefA3PMdYOtWMs33HeVoSI8CNlmaqrdIysPdTza_oyQJpXD9CMf55QCWG882mhkN6Img6VZnjmzWd2FJUT56tv2G0o7tP0Fwr-DJ09XYH6gpRrrhw%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",12/07 23:00 西甲联赛 皇家贝蒂斯 vs 巴塞罗那 张昊泽 李欣
+https://api.livednow.org/migu/943326711?sign=gAAAAABnVF9EehcklNwfjd84VKJNto6oqT_Vx5BNwirLKINJpLjfglpAAp7UZJz1Xn8ZKveujRHxO_23tHd02GKc3BQV9ZYFEkOp6bCTMgG0-Mip3iYpIzjVhYVwsZ9i-i5TNMbutvQgmAhyxaei2WguOeWYDGZ7tB331Q9Hrm0QKH2_4-moqixhvndfZjSwaTdQ-xnTkYYGSdOk65Pd-iHkZjS1Da7y7g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲",12/07 23:50 法甲联赛 摩纳哥 vs 图卢兹 李秉昊
+https://api.livednow.org/migu/943327975?sign=gAAAAABnVF9EOrz3ZejRt5PMDTvrRwnPDuWDGrEPAlOnBV7jtsCfodRaQliuWjFairtIxRLSN2KOi7CH_sVy1lJWq8rRrjPlgDLdhegZeKkfyRYLq2DJMUagSd5GT0P_mN7nhH7XxBqrXyVIoj-3ZVvaLpg4_xtFFUEbznxJN0Zf0RTm-MQ_4a2eddzCTZkI0mDUk6u-oy6wkb_Wd80G-G0YC5EoAbGBxg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲",12/08 00:45 意甲联赛 尤文图斯 vs 博洛尼亚 吴桐 贺宇
+https://api.livednow.org/migu/943327915?sign=gAAAAABnVF9EApJZHOc1OVLfkrLF7XUU5eIwTu1D2BZS2fBTmNHDQ6y1DKBKKIrOLzpv6IEf3LkMDhlnx5XL-2A_VIzJfOFmPhdp0ouskAsnfSgdDAto91CriYFc9KD4ZRBjA1dBCeeC7Hl-iTtuRjADO77PvA31Krpjcm6jM4yjrvlyfT6Hk7_xeL6gABXJurHZRd1NzPaN5LqXbgdIycBY7eQwbMWTZA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",12/08 01:15 英超联赛 曼联 vs 诺丁汉森林 苏东 徐阳 李子琪
+https://api.livednow.org/migu/943325535?sign=gAAAAABnVF9E3xwEytK1QUeq3FdFVUn3hfcHU6Ujb0k2AoiaAo_q_bLanZG_L4uzIQoxjaYUEfenpeyv8qN1ocpGxDRpE-i3jxb14DzvObFWahkUKNbnFoT2AYDBLL1ZkaVzseSykgxqCCtZfUjugTKLMRwOeq_7QQz0kCnlfcCA_klo-iI8l48HOL7LBp2qOhn6oMyn_UH2ti6ct3kkIPnVHIh3CMqAiQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲",12/08 01:15 德甲联赛 门兴格拉德巴赫 vs 多特蒙德 沈云怡 秦游夏
+https://api.livednow.org/migu/943329479?sign=gAAAAABnVF9EpN0UNUeIfrb5W_aMTxVNotMMt9q8amY-ZrSlmC4WPP0imhFXqcKMFjiqJczT6bBLFejqjnj-72Jk31BVyJFbgvl01S_UtOrjzXhrZYKG_9X5ZRneCmEZaXjFBghgbuNfq_NcHEj-mr00DojwVsoSeXaV6mxDRrDwXGU9jDViX1rhdyqsoK1UY6a62LZ-jRE9AMvt2QZ2b4Mt6K4GNg6Zow%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",12/08 01:20 西甲联赛 瓦伦西亚 vs 巴列卡诺 梁祥宇
+https://api.livednow.org/migu/943328240?sign=gAAAAABnVF9EVSEtZqyztGb-ADO1JqZvLZymHFK7rBtBB9mQ5t5RB2hYTs3SlwkRhYBATQsKojjLuTcPU-SCuPz-hfqtZ6MRwTsC0dHBsL114PzpseFJ7JNKFJgeGRihPQOdq5IZl3KUtCHYsL-R1Upg2oX4xKaJ9wmE6SU4ANbQBbu1HanO5Z3_DuX3wgtFrERcucxJ_GfW1KZTCO30PlY0ivvHyjTJrw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲",12/08 01:50 法甲联赛 尼斯 vs 勒阿弗尔 李永熙
+https://api.livednow.org/migu/943328245?sign=gAAAAABnVF9EtoIHm9hGrWtPQA7jB6_A7R-meCbCz9iRpXvL5T2CfMJ_nJRIgujC3z9_3gbcJGabmgkn4G9noAhcNartvTdDxr75Jj16ZOrGHBTgRWubFOruhNaIHXLTuypQMCZbdOm9BByHkFuXAwHTbgj6bjreb1PTwc8GbJBDAZ3AYf5zJnTdFwPx2_r50wfGl75YaxZxBDC4mFuVyDnPlmnv_u9t3g%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA",12/08 01:55 NBA常规赛 黄蜂 vs 骑士 刘沛元
+https://api.livednow.org/migu/942913069?sign=gAAAAABnVF9EjQy6wvka1RdvTu520_EtJg_Ji6p1vrNZ2Qixce1TUN87hxOHuUEO2mVhONn5e1VRk3FPQI6Gu759SbMra7NE7IZWDVeyd7FAFGmFt1Y34xjd1kJEOoVloFBhY1brchhfd8uOmmZf7rWEoWTTPhq_SBkr2R9WIuon5_OKo4-vREN9IlDLVtjtPIsAXsLUJJ2xp6BbOXMk262NUompeBRtwA%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA",12/08 01:55 NBA常规赛 黄蜂 vs 骑士 英文原声
+https://api.livednow.org/migu/942913023?sign=gAAAAABnVF9EPEMiHtW8M1JwA8o8RkiOaxuABGy0qs47RUyzwqIYwY7qKn1A9yC8vP04S6wDOifYFqZNTJzV8ZINRbPuWCshQPLu-nEfrK27pRGBV-t0EhIzAt4Rpg4MdepI8Flc5LUcSvZjdrdnFvn5qaA1aKWYwOBIVQbGjSdo3mVBdDaXrK1rnyiHvBlqMLem0e_hlPbIn14P8GGuzVkAAlmQr6hEzw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲",12/08 03:35 意甲联赛 罗马 vs 莱切 刘腾
+https://api.livednow.org/migu/943327705?sign=gAAAAABnVF9E3Lx2xJIVM_7VOHptEESh0c6UASbN8iMeOEC6ZrBrNkfecKswc8y0HXQepK8IxVsBSRHnjcQN4LLZmX1h9jJWc9vrexXoL9H4QUVkz1wngKF9aH0uKgnGiDBMnLREJMGhS6M_8cq92w6MmlzODKzKCSgOwLwJC5j6QCRIVrKU8qV_GvD-YYDqE8hXtn0S7WeNC9Hc_VlbUHQaO0wTeGrtiA%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",12/08 03:45 西甲联赛 吉罗纳 vs 皇家马德里 刘畅 孙雷
+https://api.livednow.org/migu/943329202?sign=gAAAAABnVF9Ev_FelPYpuG43GqhY-YkLbbZT1Pxa8oBQUKIcXSzal5xmRSWfDqaIOpGi1cov6ooczo0-hVk96bgnasaIrsNvYKALYzl7tzdNKWwoU4CoMVExBAwJY_VYBaCBW8FLbSvdFNxsfgVbi27hxJfs_Us5AcXG2PrGGsEoLSYOacIZjx4MLClrFIKh_I9tNCfUHCbNb92qqD0J04fSoCfiB_i21w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲",12/08 03:50 法甲联赛 昂热 vs 里昂 乔迁
+https://api.livednow.org/migu/943328432?sign=gAAAAABnVF9E_qmwdxkM4GBdzEpfN3tEPe8HxoX7oLyKNlRqWn_G0tV5BMM3NYUIlE-lqzyMDvxTV8yHtOJan7KHS5Uj5XLN6P_45h66IgS6_ubPvdrsGD0BDCB7AJehqXFlgPSxkrAMS3VG8KAVgOjfgVOw4cg5IsDVy_JUpKXnv6LIM-I4I-2oJAt9W046izNmu0NTkFZoo4i9SrPCmZhJQ8BxHK0VYg%3D%3D
