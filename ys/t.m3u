@@ -1,164 +1,173 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1 综合" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视",CCTV1 综合
-https://api.livednow.org/migu/608807420?sign=gAAAAABnUJfxnyPTjjUAN5fbY2bPO_ARdfHc4y1o0nxZO6CoGCH5IK3-MVrkB26Ps4DjWr2MtYWRImbymx6w7gdky5LKZC6Ad3_G5RAQtEb04TW_xbe5pqlhlvXvuf85Xi_X3tRL9vn7DDQom3IWCIHFyEzgbJ9dWNXEk3d8KwrnR2qXqtbhzW99WZd-tPQj_kEmx7MWjRApHwnyZmXo54COBQTpNJSgtg%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2 财经" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视",CCTV2 财经
-https://api.livednow.org/migu/631780532?sign=gAAAAABnUJfxQDMT6nchTR4mOW1sve-Mv7KyI8TPbRE_OfhtJNufP8DKMwiX5voH_pEmiTMJYRBgBgaIoQfXAfD9yjvmz7vrYsKynhyrFsf8TsPF6K8BrxW8Q5juOzSpdLKfyZRy-r0PtNx5os2-hpTRNmoRjnl0yL31h0mQwz-WlgsurGkCUXoCNeiDTkPoYdzj981ytm-0d2xTsaNe1jh2g0WjlH2ezw%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3 综艺" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视",CCTV3 综艺
-https://api.livednow.org/migu/624878271?sign=gAAAAABnUJfxD7O_BydVN1tXlBQBon7tCQBiZvbn5WI4slQAOjIv3zPvut0NXw4jb_VQXQeolcgGcnyJMPVCs50TmcZ2RZxq9zWlGCKP97vE8IosxIFAR-VpU9yElXwQNJm6fBZtT_N0SMhg0PsXaybzZyoCKcqOVGdZm_CqoDA7LANzfDHBj33kSg17gAqOWsurA12Qhj3JmA_p2ks7qHxY-gJcJ119fA%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4 中文国际" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视",CCTV4 中文国际
-https://api.livednow.org/migu/631780421?sign=gAAAAABnUJfx1jn0iKnquYwfTjl23gD3W-1az2F7UyZNBVQ2bCZEDzZrEhCrwbcbuCUIBu6eDxao3zei9IHsCJe5dv1vqxkdlW2lh-nPWs1EBTfWr2I5LmI2crIIJyYCbbboElhM22FUymH4xKWh8qx9q2z8j-_JoC1B5osnyt02pbyw5hAR7sF05WesPnH2V8Rb1G6RnaKKPYXlTqb5D4e2yDt6SL40mA%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5 体育" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视",CCTV5 体育
-https://api.livednow.org/migu/641886683?sign=gAAAAABnUJfxd994zfsY1N546rjeGYTdtp6duD4FbM0cMaCY5pIWoPxNPyxTIPCW7N8RRD_tWxtQ-KEuXba8tsrs64pqIAdDkWd-saSEbt4zWmgVN5NPJZI7qfIlz66CUYSn52rYR2oj6VVAj3AWek-lerO73caxOGGi7VQK3JfFBXl7nRG9VkBBasAUdwHDP9IUB0SW8SNVfJ6AAis0FsU9Z79oxfnyLw%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+ 体育赛事" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视",CCTV5+ 体育赛事
-https://api.livednow.org/migu/641886773?sign=gAAAAABnUJfxGapfs7wVBDMy7FjDN95TkGSRXbEt0fExvGxQT3CPvdekvBO8bePTxD1hDh9W0FKJvcH91RSYkTe9yv6cEoCf5EYodgq4w2abbia25RuQfj6HaI8RUeVON40KXwpnTwM6nbmqiEF82N_ObPDUF1b9bRoAj2Ba07fJMtdgZ_Bmrl6EcsRuuKSY12Fj2d7rSYDIKw9do6YahO9-OD_IkwsVXg%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6 电影" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视",CCTV6 电影
-https://api.livednow.org/migu/624878396?sign=gAAAAABnUJfx1AUlQgrt0kWyL4Vnn7ioOyQff-FCp8w7ANyQsWntqntiD-JcWGYXTFMA1ExxF6ruzxSZ3VqVMoa_Zm8Dk6rVubiozQJqmr4Bv54QS_jSB6o4AYp0fZzjklPY8MCLmsAyclGQdqiRbOoefSU_Ytwg5crgywHapEcIyPRQz6khXWwgzkyRjnD01EbkevCVEQJ8v-RYz9o8qUYtApuu9zgAdw%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7 国防军事" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视",CCTV7 国防军事
-https://api.livednow.org/migu/673168121?sign=gAAAAABnUJfxR2J5S-vUxcfrQqIR7m_0bscir6QS1AIEHKhzsWS8SLRHsIGu3_bM1tiPq42uPo4xeG4kE1kXu6SKfkeWcF6Sfgs-TtpwCtjj1SWnEtuzIYmkGGViS9TJ9O6WxuWiE_nhVy0NeepUz3LXk-boA_GEYodTg_ILmCw4laeBpcc_ttW4xfoWwvuc7F9s1QBPX7BfTv2ZjECYVkXEgzUx1JAzVg%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8 电视剧" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视",CCTV8 电视剧
-https://api.livednow.org/migu/624878356?sign=gAAAAABnUJfx4dbWrr1F7zNL_uo9YKRJ9bJT1JBJ0rXaFTBeoqmXYIfvEs0osmjCpxaePRKoEFrsKS2Y0msOwrmRq7wT1muxeNSn6T-vo5Z9V4wksyvG6QQa8txC-s-GG2HhqyMEM5vgJqYSmV3s55KPSDf7n3xfwmUgpp2MuKGM6wjn9pBLlcWPuapRBnS9xACQj7Rl2TWnBQklqKsrmyjmYp8bNQ8vcA%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9 纪录" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视",CCTV9 纪录
-https://api.livednow.org/migu/673168140?sign=gAAAAABnUJfxBkt2DnTOdlnuWufg-TOeM8ySpfyB1i2YdBO2al_WAsPW6nO5xEzklxEN6hz7Flp-iDiKdVLsb3ZiqtiJ2l-l2SB6Wk9cGZEOwJeYzYNEfJQCcP-2vqQA6DoMfaS595mNKLY3cOoQAUfpoIp0VLKgjVwknwXy3D3044ICGcY8U9MZPM8jD97fYz-mwUGCpOIdfQIqJzNI45Z4OiSeZrnozw%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10 科教" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视",CCTV10 科教
-https://api.livednow.org/migu/624878405?sign=gAAAAABnUJfxyazSGrAvIb6G5wa_7Tc5f1w_UwnUKC-pAebe8ubSP2uLYajHVl8w6P9ZvNU3wb8w7IlVIpw5Kqh0SxCtheoGeVaTRKu5ePfmw9ot9u3zgrPJk0nVrnZPpPbQEKByz2DrOkZk60PZJEgVdd5ZoqqC223MbF8dDN14igkYi6ZXjyjPPK2cdtGenKRhBhvVoaHqaK6vd-M8eyDrcIbsCduDQQ%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11 戏曲" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视",CCTV11 戏曲
-https://api.livednow.org/migu/667987558?sign=gAAAAABnUJfxQ74WUo3a8mv7uoWVFOr29Gy-sWJnTAanG3l9CQMLFzg4mpTkgPvyb2UoCYDrfjn1Slp4HfssaL4qixsxDW9rQ-_gKW9RAZRiCLlfoXmNZgnOxFSm5qvHZUXQCU1lQqijMD52tYAOH-jjuWcCO0fxkej_16ErT-HTtzS_ho76WnCbkS384ojN0pociFfMznx6tqRzeBJ7pXSLmP-0NEGtKg%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12 社会与法" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视",CCTV12 社会与法
-https://api.livednow.org/migu/673168185?sign=gAAAAABnUJfxq4C62O3EphsBaCOTuzUnilxYhxuN7afpBWaC0EuS4X-IWM6n-LG0ML1Z0mBtWTpWJDhBg704YWs0NEmlXI3O_9TYVmdTElPnaFVQem17IdYNG78HXXBlQO-i1UghxAn2uqRpppcU2Agm5Pjcpw8yu81MwpMZORpkR88gtDKMgG7JcQd2cG0Ld9p2PJ8h77p0U-RTGWM4mFolNmtxnz1BvA%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13 新闻" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV13 新闻
-https://api.livednow.org/migu/608807423?sign=gAAAAABnUJfxJoEnA7zg7q7riH-C1C-qWOg_F8u2yE0P1NjUg2C4-32G36gjR_bcDKxW1l5oZwDGRZhyLBSUcEgR2QaqWwBuoqaGqp5Xy37BNBUp3tg6AKoFED8fVSOtbyJ7bKYu9ZisTbQRX5mUsu57mSj1NGEXnjyFkHrTtxomO8EX515qdKj8kQNouBLm_bn-e2Ev-T3unT2WNhl0ySfuLWMFAj2nBQ%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14 少儿" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视",CCTV14 少儿
-https://api.livednow.org/migu/624878440?sign=gAAAAABnUJfxda0mbzKRBr9iF3L5u6lA8kQE9WbzEChApg_ab3TlPCMpzAJsSkPqmW_Wdl_9QpKWjxbTnpU6ddM5g0WuqGgFCjYTy5aiq7xqetKsI2NQb1mPJ5HOMlFOfXsl6chp6jo2LFIjGdnD7BtYNueiGYMFwsnqu7hKsElhN1E-vR96Flno2_RkdxEx5F76NDnANEvaXvvHEXiRR4xIZHpdLQwEFg%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15 音乐" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视",CCTV15 音乐
-https://api.livednow.org/migu/673168223?sign=gAAAAABnUJfxP-DTG1WEjJT5Qb_GcGOUBkrAcX3NVYy5COO8uHxLeDI17PCfT81QuByLaXjjPsFk9GbPkwI7LN-QgunGJyRY0zKfgnYAjfdmXWpQN7jmSlf7DoJ4M_PxnWYOHicTib7cU72d94W4BlQ4g5l3GHuAONBTwqqzz6-KTtK4q__Me-wVFb9Uitq3FGuE6T4gVHzK5b7DjJoKQZReOEm_Zqg6yA%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17 农业农村" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视",CCTV17 农业农村
-https://api.livednow.org/migu/673168256?sign=gAAAAABnUJfxcIxwmXH4UyRIz0nVtgaZe2sM8ttLZVM6Wh5NwRoTRgYfg8jDUNvWtBk1y1ZTcj5yEggCqMUfj2XcQuQ0By4oNVqYrNU5lVsbVSCNgZEvfj5caY3we96fCEU2QCKz6LAmWaEF5LW6o0tL7465h0i6y8myqiI2-AVeOFytQKPYt1hy64jQ1NHUL9GMoreQI3M7HOESv28tvDr1L92Ida7cCQ%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV4-欧洲" tvg-name="CCTV4 欧洲" tvg-logo="https://assets.livednow.com/logo/CCTV4-欧洲.png" group-title="央视",CCTV4 欧洲
-https://api.livednow.org/migu/608807419?sign=gAAAAABnUJfxScUNVqc45RnYSe0Ky7mlcFvwlEmcElAtILnVSPf8y6eka53V3_7oe64EtPkAgNAqTxkVKn9poh1B-7T6j_5mXTQkfol_ZyZY4j_nAqRkmm3uZ_AI7Q0znzNRUa-ihuFS5VsxkUEaaC2_He6Rg8acaP3r1zW0CQcM0a4M9JFrYS6eOok7NXsEonpPU9MtcVspWorBInKSdVLkbksovNHJZQ%3D%3D
-
-#EXTINF:-1 tvg-id="CCTV4-美洲" tvg-name="CCTV4 美洲" tvg-logo="https://assets.livednow.com/logo/CCTV4-美洲.png" group-title="央视",CCTV4 美洲
-https://api.livednow.org/migu/608807416?sign=gAAAAABnUJfxrrwlpozrlcWe2RDCW3nodl5IQjUUGC4rqLb2JMUthHQ5oPvMzFeM7_wxZ3PJHbO281u8uhz_jCILwWxHe4Ve1gJX7Jd5L9qrbynyxg0jfNnyCRCdyGEylUe3-avxj9yFhiCSI1wGcXPdJcDpnsTBwYAvH1n24uvALiBO8svxT0iUKbBrztoWKU7CpM7m_Vcrb3ubyaC5C0HWfJgmomN_dA%3D%3D
-
-#EXTINF:-1 tvg-id="中国教育电视台-1" tvg-name="中国教育电视台 1" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-1.png" group-title="央视",中国教育电视台 1
-https://api.livednow.org/migu/923287154?sign=gAAAAABnUJfxJ3LTKVFIUXqs3N2GZK0I1u9SBSGTFsrubdbYXGO85Iot4D916r3ng3BvzfOcof6_ZE_cEdEPxFBTtWcS_YSjrjz0WqhkLpwFlhGXlRw-8-FvYOgUJkj_H7Sg2bxSVO1luO9wV3HkUzf5uBst0o9KBlOZbpkLFw4UZG6a9yCC7CeayRxprb83DdsNcgTA6yB1gqb64wb1m1fu4tL_eejP8Q%3D%3D
-
-#EXTINF:-1 tvg-id="中国教育电视台-2" tvg-name="中国教育电视台 2" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-2.png" group-title="央视",中国教育电视台 2
-https://api.livednow.org/migu/923287211?sign=gAAAAABnUJfxtVk4zv7gxmujIPY3ir_S8hGhRzH1kUNRp70ow8Mfzd_Ah525gBAtidmOntlxctbrm7h_9h0OMBm8pCzS3ZRM2RexsKDTOs8rBOYFVSnIj8QWLAhV8C3_Ciw2zVHH0xgF-b0KofOXuDufpypnpttOuRR9Q9fnhAh35F1zVf_iGk6Urv0qWea2rwmf2za6CKY2t4ORV71gvml3ewziX-rg7A%3D%3D
-
-#EXTINF:-1 tvg-id="中国教育电视台-4" tvg-name="中国教育电视台 4" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-4.png" group-title="央视",中国教育电视台 4
-https://api.livednow.org/migu/923287339?sign=gAAAAABnUJfxlUHuTbq3r9EAdLP5n__pEW2ld5SG4gvNTJjNX3006Xzbozh6MF4eAx-pcDY3sOoBeNJeVNnZT-CDT7_-JyKtxv8qejzSKzO7CgaqeX5Cxh6I_8YHxXt_BOLXM8Elmmxbvdc5g1yA6-BkCxhNdWWy5-9YgV0rMSJje1qSt40AkhcnDUCrXdamBj5UZpeypSvoMcEo2Htahnf9VgMuBkaqEA%3D%3D
-
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" group-title="卫视",东方卫视
-https://api.livednow.org/migu/651632648?sign=gAAAAABnUJfx04hWJL23LAvPXjIrOHLIGyfbEpENdSxqpjOWcj9prziQmzzLADjEqo7BMiHsuu5P9nGYQacoc8l1kGsxRl3Gn5CepPK1nmNO_qyKM4XahCsxN2YGLbNsIDHzFtJJo2JahJXmGwmyZPI8VYTpY64K8BGenlaKVjjfjIGEbgpsxHQzt92X_VH2_EhTWFUB8cEBl4bfxXMPTKs18QA4pn7UtA%3D%3D
-
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视",江苏卫视
-https://api.livednow.org/migu/623899368?sign=gAAAAABnUJfxqJd6TiCXMAfSssCKG8U5YFYC6spFgvflQB2WPMRaKrkCqZe5nhNUyNJCd1v_Tk4JT0mJG9oAUACcuc74f8eVP1wBhOgVye0ydsuRX7_H6lAlj9aSXl24W6r4JcqC__uFa-me_g7wYeEl14gcLr7LKLH4DmcQO0E9MzruaJO617ZDS85VGhHv9dmGd50qOXO9SxqYu0Fa0wf9AV-f49U2mg%3D%3D
-
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title="卫视",广东卫视
-https://api.livednow.org/migu/608831231?sign=gAAAAABnUJfxh9HbfpUprRRusJshEU1UH0Jt_4gRkaSIKzcDnWRi7FZVVqtiUOAHPS3Q7clqxUkH3z2IukJSdTx1mGFlRfUAjcYGSLPbconIXQKTTlLFQ4og9a8MPmDgxGet-zWhd7K7Iu7wBKrsHKuZFJ80USA4cukW7R2VGrSJFqjUUM6EK1_f1ZHfuXpEZw-zPFz1YKQPIyoYp02-A9LPhFly-8leWw%3D%3D
-
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://assets.livednow.com/logo/江西卫视.png" group-title="卫视",江西卫视
-https://api.livednow.org/migu/783847495?sign=gAAAAABnUJfxZ_QOWmvapkMujdFahR4ZW3v-7DspJB5UlnVNsm6RmjF1o8HE9hfiASwQaJyo7ZdUJqAnll8JTNtUYgYZMBF98E7sl68uoRXHxMp9pG7QQt0z80eEy0DF9i_quiI2OOX-QdfsC-_Wvz3ARHAKKTkpSr-2mxrH9mz1rzGeRn9dlkC2QDmTLROPIeAJUCaReDW5id7q3I8oEHsXoTFuV59Baw%3D%3D
-
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://assets.livednow.com/logo/陕西卫视.png" group-title="卫视",陕西卫视
-https://api.livednow.org/migu/738910838?sign=gAAAAABnUJfx56Oyr_tHXxotcHsn0UY-45rXu0Cs6N2hDydwsUD1s_MDzMQzLYaF8M4hv1PARzGgC8aL28FhXCeZ3APM7mcAD8n1vGvJZe-iAqpbjqnsWAHLYdOe9h_0G3xlF5LYs9bVt0PrFiLjCBL-K5cxBgfSDavIOeI9gSXKUMStu1rJoMU8FkU218y1Va1R0V21ntFYOs_OH_Me9-qQMOEEX6yu0Q%3D%3D
-
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://assets.livednow.com/logo/湖北卫视.png" group-title="卫视",湖北卫视
-https://api.livednow.org/migu/738906825?sign=gAAAAABnUJfxkUnffluHsckH5KzqlXD8bjK0Mq_qb5yara96UCdpx6smK0pL6yZnsPW07yfgMZwqG3jOfrIUDDECn7sflUg8hruuS-3mVWGsI3HYRDleAlXJPj3MwaQ5x0pqGN1OOJCZCV7kfftqKex7km7IZtNzpYyjjEiz5V1xPEWiOw4Y-4_FUb2zBTWge8ukyj3aMYxcg2ETmGAB0V1s5aY9MzigQA%3D%3D
-
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://assets.livednow.com/logo/上海新闻综合.png" group-title="地方",上海新闻综合
-https://api.livednow.org/migu/651632657?sign=gAAAAABnUJfx12Nkpu3KOY5w7EZIV4yxJNv6KIG08YdssV5a8JWSgEbwvIh-xpvf6xh6ntSFuaIE6Az2LgBJfS-XrARizZOXkYugjrCrDnGhSr3PrFFjMxUCz5oWwF1-lfMGR2kDwGbzCbifLLZtTyCRZLBhnNzlmUdLOAASUQc433FQuKpESU5wWNe_A77lMrI4bEW13asMNcGFSgHYithUr4yVy2ichg%3D%3D
-
-#EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://assets.livednow.com/logo/上海东方影视.png" group-title="地方",上海东方影视
-https://api.livednow.org/migu/617290047?sign=gAAAAABnUJfxMGZyVU_p_Yjr_ebVsd-898fUkT9o5ZOfTRVsOhqKo9Gn7QceBQH8vvV8AhEK6lQQoaNJFf4mJ9b02HRWngvyNhuODMU0fHkIlCHY79feW-8_6oHRGZoQfdu3B_Fa-qbjsBB-BKKHL-wHnI8gunSF0WvOBqDqFHRJQj4ZZULZSsnAPwx13TTXdIqDuIcduufrKboGguXXHUS3bPLb-4UUgw%3D%3D
-
-#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://assets.livednow.com/logo/上海纪实人文.png" group-title="地方",上海纪实人文
-https://api.livednow.org/migu/617289997?sign=gAAAAABnUJfxZIhnB9N8GV78PRmuwK9qLdyQZuBnlN-vyPWL4m6DI2Iiz5Xg1ajaqLRPgFoh_fqp9A-14JICMLSKei83fNJXJhWbJqDD486d-bbLBPQJcNT-8nQW5hlDhlXQBugxT5piz0PuPOGGSfhcvcVyCi56B1exlJ5ThEUGG33R36IJMFntCghOfK97eVOahK0yFEqRYNmBOcwc3MBnQTijST550w%3D%3D
-
-#EXTINF:-1 tvg-id="SiTV-七彩戏剧" tvg-name="SiTV 七彩戏剧" tvg-logo="https://assets.livednow.com/logo/SiTV-七彩戏剧.png" group-title="SiTV",SiTV 七彩戏剧
-https://api.livednow.org/migu/796071456?sign=gAAAAABnUJfxJRbJtdl7k2msgPucTOcdHT_Wx4UK3odxpW7tVr7GXCc5LmySpkD3z_3a8Y9RDC_cM1bZl5mHNcppDi2BgFrxHO9WaK1Uy1PuJyF0p19xG0jAEPgB9_J6b5-0Rk-RfnGmGpWFkv5OK6BblxAn2C8uL4WCB5wipKPfmxBvMOUo3w99s0KBdok3NOoSS81bq3ttebv3-Q73iRW8kAh3WVrNCQ%3D%3D
-
-#EXTINF:-1 tvg-id="SiTV-劲爆体育" tvg-name="SiTV 劲爆体育" tvg-logo="https://assets.livednow.com/logo/SiTV-劲爆体育.png" group-title="SiTV",SiTV 劲爆体育
-https://api.livednow.org/migu/796071336?sign=gAAAAABnUJfxPL3yxDuxdCynRt0r1prIIOmqJC8mONa2KFXUPWzQebnsy1r2UlKT3I0LDCkJkPEdHe-chv8lHpxuZ3xEgaYvfpoB4W9DQaLQilcHdH92H92h-nNojYHz7fpBGPBs4eAB4ENFMR1PHWKdzjmFR9FIn1u4ZvvHFtAzLqjfEalrIgRYG5aSRTsJKVtulfEf_j0mRdtA2EHPpnHqHt6BhdN_CQ%3D%3D
-
-#EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://assets.livednow.com/logo/SiTV-魅力足球.png" group-title="SiTV",SiTV 魅力足球
-https://api.livednow.org/migu/796070308?sign=gAAAAABnUJfxOeCNnKQvZHv0ZY02Bsrq5RijlIVuBWLC2IkC_8DzazccRE2OmFqr4mUPWYnEBOvBr4TrjDKTkdArMBtBewkeguGw3lVOM19Av9pJzqKk2i_U80j57AlGLjMZ5gLuNppdFJGQPx8pKqdVcby3KGqIc2PHaHnXs7cXQCF1VsnznQAi1ghI2BrWUhZ7i0RQxNTdtlHFD4h7t7pdvsc7RkAUqg%3D%3D
-
-#EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://assets.livednow.com/logo/SiTV-法治天地.png" group-title="SiTV",SiTV 法治天地
-https://api.livednow.org/migu/790188943?sign=gAAAAABnUJfx9w66jFM1fYPa68PUqM-fMIwtsr3SR8FYiSXPlENbX1_C4nQaoGDa3g1kTUwsxDzpOzpfPpje7OjK5Kd7hvfidTmyaF8p78a3wLBX3dG7gn06Cktp1peJGuEh2m1dkGCxt1jddfRSIfCOAJF04SSJ5B07KRxlCpVRhbEwbrO4_B8v_eKtrhICC1_Fr7N7OYzTMNR_uxRBXc72cF-Jnjrl6w%3D%3D
-
-#EXTINF:-1 tvg-id="SiTV-乐游" tvg-name="SiTV 乐游" tvg-logo="https://assets.livednow.com/logo/SiTV-乐游.png" group-title="SiTV",SiTV 乐游
-https://api.livednow.org/migu/796070452?sign=gAAAAABnUJfxfVJM7M8XDKsPwBZMy32P7YDzwo3IxLr_FJO6SeIkXQzaK56EgV9u4jz5i5iayMONAuZ0NzDqNxOM1pJOOIA6IQW1Y6-8ukaSnQqw5p5zRUfbE4Gub5UDmk7kkv_iPqUudIIFGJWzNelJgNYN9qdmjqiBFiJd6hGp1r_3W_ZiLwKNyncl64eNYf9kKq1OSS4n1rSJuxPGxgGpleiAfqMhmQ%3D%3D
-
-#EXTINF:-1 tvg-id="SiTV-游戏风云" tvg-name="SiTV 游戏风云" tvg-logo="https://assets.livednow.com/logo/SiTV-游戏风云.png" group-title="SiTV",SiTV 游戏风云
-https://api.livednow.org/migu/790188417?sign=gAAAAABnUJfxWFA3EZ2oPOvWMigVmKkByJ8V7TIXtfWuxV57f99wWa-_IGBgOyVVTMuetzpqNb6BDkVwFfNXBWFwBg3Jvowaf9En8ZHYeuxZSShQKxT23RitbcLq4apZLCfzkAgks_UnAW7I10FkavBzJkBeZSDR7ylqgwaZhUisHQk_0eS9QshihYl6uBiD90y6fWx2zpD7Zgc8pmgJvogdZoSr6VsT3A%3D%3D
-
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://assets.livednow.com/logo/四海钓鱼.png" group-title="体育",四海钓鱼
-https://api.livednow.org/migu/895358641?sign=gAAAAABnUJfxuzg0muXUC9483jUWELkJ8QMY7VqwHqwlOHOtf4Z_b38qaF2QHNMPQmyivBZOWj9qde6hJcUaQI4tPNWgLh7stDFoei1lXM8ZcqtgjPxf-3FfBcaEvdm_-wmAaLe9AU88QJWfo6KizZrYydRQkq--TkJ6aanDkAXsA5tKZSLShfyEuyOzRwhbGyyzb82NO0TPqTWy8jv-HWWlgAFmvSBY3A%3D%3D
-
-#EXTINF:-1 tvg-id="CHC-家庭影院" tvg-name="CHC 家庭影院" tvg-logo="https://assets.livednow.com/logo/CHC-家庭影院.png" group-title="影视",CHC 家庭影院
-https://api.livednow.org/migu/644368373?sign=gAAAAABnUJfxz35rhcrPnkaC7Wc5hPMoDcy-SRXw--_cof3JGeT2DJhddNIRNBd9-BTfNxbQ9s43mbu5F7NlOcPpx434wYfbwgquIBz4AwzMR2erw9HIflu1lAWBrdLP4XhNExkJFabkbG_xWSLA7nM2w1h3vBQVwZwiCKdJbGgRCYch1LPtcUl_7cafJ-oQfnTBD84jfFdtgzPtU7IKejxnw1lNatvWGg%3D%3D
-
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://assets.livednow.com/logo/欢笑剧场.png" group-title="影视",欢笑剧场
-https://api.livednow.org/migu/790187880?sign=gAAAAABnUJfx0XNzcj2ONw9yifP9VyU1Ob33XvexGIn-U4t4lV-WHGRduZgsoJVQC6nbu_D3vM5SCaEvPrB_fkbVviTdCA7Q1shzss53f9A23WCoU_W6Us9Wi4UuziIcgmVovipQKy87HhMObzxIt9rvinFvOA1uTIZ20Vb2QaIq0Dok3BmX4S6i5zuf1UmRqWqj7rZvdyxK_pzX_rwYoXFlFJ63GQkl1A%3D%3D
-
-#EXTINF:-1 tvg-id="NBA经典" tvg-name="NBA 经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="体育",NBA 经典
-https://api.livednow.org/migu/788815380?sign=gAAAAABnUJfxDnycHvWepcK4MYiy7Gw0k_EjHbuVv5UFWW6UEsS8WJryANSTYy-DLGACkTgSJsQiSbEX4QltuUu-HzDnKIx6FZTgBUkxQuaO-03Z540Gl2ABLOw1VUjSsE220_yL3OaWx5eShYpsTlRyb1nj3nJQqqf7IZSsgv_CGTLXReNBwdWPLU-muHwB1pC4J80zlbiYqZChriUQ89nYY2vpdtLVtw%3D%3D
-
-#EXTINF:-1 tvg-id="五大联赛经典" tvg-name="五大联赛经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/338/202304201403_1681970538994_H169_1080.jpg" group-title="体育",五大联赛经典
-https://api.livednow.org/migu/780288994?sign=gAAAAABnUJfxf82GA_2MlWHvg18ldVAiUQ2E3jHK-5RSVTbwRbwMRafUVsv9cNHrIePCFBpXQi2neRsTlKArEIYUhsISWR-PNbJ1hj60lj1YF1KNp7JC4nOi4-fTO0wmZd2EkXOvKmLxut3vN0qO_IHD3gamGf0qoJjaCfQGzy9PujZHqwUAPpzMgYP3_U-6RVgtiv6Kk8eZTYW3FmQ4mycJZ42e6QZLxw%3D%3D
-
-#EXTINF:-1 tvg-id="CBA经典" tvg-name="CBA 经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/526/202304201400_1681962688794_H169_1080.jpg" group-title="体育",CBA 经典
-https://api.livednow.org/migu/788813182?sign=gAAAAABnUJfxL9JXqHtDLbi6BfAFz5_lRdXDAuSTtFrqUmcL8n549TGFRlmABwe6ckcZpIfiVtkrAxzUT5km5wN7fzgdRLxJ7JliJTOhBqPd2q9IwH3wPZLTIhhI7AXLOuj9IwgVsbzBRtH2vrFBYpUTnwrV-yGO2BZSGMZiqcU6rQQucYDbM_Qs_cJh40G58hdHCLTqAP17lUTaG7WA2LF65Gu5SbCxdg%3D%3D
-
-#EXTINF:-1 tvg-id="中国足球风云" tvg-name="中国足球风云" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/530/202404091152_1712634646523_H169_1080.jpg" group-title="体育",中国足球风云
-https://api.livednow.org/migu/788816794?sign=gAAAAABnUJfxz5g0So3ObK2Upepu1EzREXzaMI3wpWc3t7--NSdpjiwCsEwHksw4ESzbJXqRSBqhXZ1MXAvX8LaC1dtNDLiGNhcKaWrQDK-ITCo5qjDLdZL_oybXvZtCHi6U0CDX4cUaid8mOskw26hezgu3j74zs-EpC_HXxhMevNVqkDaZ52bEkhiqm1-YNGd1IZJZSxgPQaDboUD4gVqQhBa_SSS8GQ%3D%3D
-
-#EXTINF:-1 tvg-id="UFC格斗精选" tvg-name="UFC 格斗精选" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/534/202304201406_1681970735785_H169_1080.jpg" group-title="体育",UFC 格斗精选
-https://api.livednow.org/migu/788818804?sign=gAAAAABnUJfxSMiLY8TSRNdtiQyKaFCnrpq8ZGiHgUQr0PzZrjdVTrv3huOBk8FKAQoY5146sREbEK2X2fMWdo8oyVY9_Z0icHtix2k5CYfEDY_tWNCjw3jk9-SmsOnEMehYf6PJtOHpjAeNBV_aHsebOx86Jwoj2wfkySNiPFQyGA6wzMafusX4H6zIE5vZrW-N5Q6gVuahQccQJ-AU0k5Mk_tM-qU8WQ%3D%3D
-
-#EXTINF:-1 tvg-id="掼蛋精英赛" tvg-name="掼蛋精英赛" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="体育",掼蛋精英赛
-https://api.livednow.org/migu/631354620?sign=gAAAAABnUJfx9e8vxWvQskWf-z3TUB69Jb2Ntqgg0wXgrQYjJ4eGw4yG8n6Cujodz95QlN1yL4mb9RNBpGq2U4UFcHJdNr3juP6RL37kV2j0HpC8V9xPhy-4THTBWH_wcre0AbFQ6Lw9K1PTQRf9inrwxlmA4w8S2fC3PMH538dp3eS2_uXHSRq0aktaN4urGgewowUDIHAjhBzMNuBT990m5ZCxNStqoA%3D%3D
-
-#EXTINF:-1 tvg-id="全民乒乓" tvg-name="全民乒乓" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/532/202304201408_1681970854549_H169_1080.jpg" group-title="体育",全民乒乓
-https://api.livednow.org/migu/788818045?sign=gAAAAABnUJfxuhxr57_s98iwC0HmbRRtZFUzE9a23yjPqoqQsWxzOOtyrkGDfcCDlfyFh0P_VELvsA7LVIy6DzYKUTfM9hNqL1sqR7KRpyyzezi4b4fJ2_hfg8HacNvpEJnrBuR944OVGDzeHJ-eu68l8SrCSxjO-1X2EZm-lE81E7I6szhGQg6FgYp0On2ypWvCA4bWNQBw9__CqcqcTtYocFyfGS-hLw%3D%3D
-
-#EXTINF:-1 tvg-id="咪咕24小时体育台" tvg-name="咪咕24小时体育台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/751/211/202106111236_5102223687_201903181136295010914_HSJ720H.jpg" group-title="体育",咪咕24小时体育台
-https://api.livednow.org/migu/654102378?sign=gAAAAABnUJfxkQ45lRQSQNHh2zLKdEBVpkkrbMG4OPnig6IDxnHY9NKIoIaHs85mUVmscB0I-bARw-wrQ1tzWvPudEKIfZIPFbSzTdUaC3xkT3zuAfuEcEuM_WQ8FmTWXPl-0j4eAusyXXPFvQeg8g3DuSlG1vJvAgwpx6tpkbG7JQ0-AqQJuK2dLFTpCezR5P-bMxYGiggNe8Mg3R3dSRtgDnT8aiigmQ%3D%3D
-
-#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/242/089/202308221005_1692669894186_H169_1080.jpg" group-title="影视",经典香港电影
-https://api.livednow.org/migu/625703337?sign=gAAAAABnUJfxsPwcLUMgUzv0es9z6wJG57OaWoKUTJ61bkX8TJ-_ZsbGScWeiSl4LBE-imw0xZqm4Af8oA8-U9rmnA5Yx75XIIZo_x1nmPooIrD3RYX4EjCyCDYLqqDLpvpqI1l4IEENyOPb49OLe84QjvXvvyh8T7i3dJgwz6sII84An2v68TcK97ZRt_ld-bn2yBBytM_frwDbD7ldH0Fr3CeLerlKBg%3D%3D
-
-#EXTINF:-1 tvg-id="军事迷必看大片" tvg-name="军事迷必看大片" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/717/202406101432_1718000751139_H169_1080.jpg" group-title="影视",军事迷必看大片
-https://api.livednow.org/migu/617432318?sign=gAAAAABnUJfxCsPUsI4h7uYtWN084h-nl6IW53KY0Wmv1t107u6_fejXq4k_lm5GnMf--y4X3y82O12Kx_ZCP3NhZQ7hgcWJ-qoPq5IWSd8JpfVMlxBfpdtzzq5HmufEN80T1LsG334yD8d5H7QIhUStegF67dx96y8TjliqApg9rLbyUgCex0kwQiUiZOCR8Q1t-4QRNue7Xv5SYpImUBzPHcfmZoLFkg%3D%3D
-
-#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202308220954_1692669269895_H169_1080.jpg" group-title="影视",新片放映厅
-https://api.livednow.org/migu/619495952?sign=gAAAAABnUJfx4uqiofsCnVomXhvQroeGThZGqwAKmOju2SUKQZEUYrHowepvYW9opeCiw7vgqz6uZZjjFDThKKjSkuM05fR2xEm26LpqdQjbq-T-fnhy7dpMnR0XRVCXTAI18epLpLvYBpXqQTyIdC6DCaZNxgGSMQZfVCHAwRnnEVNc4zqPXuCoJV9FV-_Uxa9n0c9oi-pGtm7tWhMADYKtjhJ-RpYu6Q%3D%3D
-
-#EXTINF:-1 tvg-id="红色轮播台" tvg-name="红色轮播台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/527/202407181250_1721278183765_H169_1080.jpg" group-title="影视",红色轮播台
-https://api.livednow.org/migu/713600957?sign=gAAAAABnUJfxk0D4zslnvfLsqSJ8vBT1koMSmbaHqzs9HyDM8wx8gcRNIabGzj4TM590JvSic7syCoaMR-CBMp_OkPCf-De4KJVj4DBST3hQqZ3CyStzgukT6t0uww72SwJnfU30WeR9EuwBbjeS4t5WiGTuP2HYqeOR2ItDb_o_b9m2qF6_XDYVO1XtYuDgLOBPXyRZyg3fPuEBGqCOK6W-n_-GAuM0fQ%3D%3D
-
-#EXTINF:-1 tvg-id="金色剧场" tvg-name="金色剧场" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/525/202406092239_1717943712461_H169_1080.jpg" group-title="影视",金色剧场
-https://api.livednow.org/migu/713591450?sign=gAAAAABnUJfxthiDu-rG7QYUG5k1n-dRYjGjNUIC8_DbT3TCd4CH0LHTI8bNh4yibK5DZLgmEROsNdWlDAHgBJygwtaYEdFjG80gA348sZ8OXR3PuI2r8DUL_hm80PeHUMYPTwnNI-_ehnBr1iS45ktw2YQ98AIRY6qeKWuHRvB3FcowsqGHp15kSwUAZ0PO77IlckuDYoWrChip_MdWJVu-zt-Sn3eeXA%3D%3D
-
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="咪咕路线3",CCTV1
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="咪咕路线3",CCTV2
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="咪咕路线3",CCTV3
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="咪咕路线3",CCTV4
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="咪咕路线3",CCTV4欧洲
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4o
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="咪咕路线3",CCTV4美洲
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4a
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="咪咕路线3",CCTV5
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="咪咕路线3",CCTV5+
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5p
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="咪咕路线3",CCTV6
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="咪咕路线3",CCTV7
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="咪咕路线3",CCTV7
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="咪咕路线3",CCTV8
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="咪咕路线3",CCTV9
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="咪咕路线3",CCTV10
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="咪咕路线3",CCTV11
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="咪咕路线3",CCTV12
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="咪咕路线3",CCTV13
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="咪咕路线3",CCTV14
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="咪咕路线3",CCTV15
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv15
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="咪咕路线3",CCTV17
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv17
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="咪咕路线3",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="咪咕路线3",兵团卫视
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
+#EXTINF:-1 tvg-name="中国教育" tvg-logo="https://live.fanmingming.com/tv/中国教育.png" group-title="咪咕路线3",中国教育
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="咪咕路线3",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="咪咕路线3",东方卫视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dfws
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="咪咕路线3",吉林卫视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jlws
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="咪咕路线3",青海卫视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=qhws
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="咪咕路线3",陕西卫视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=sxws
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="咪咕路线3",湖北卫视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hubws
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="咪咕路线3",江西卫视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jxws
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="咪咕路线3",江苏卫视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jsws
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="咪咕路线3",广东卫视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gdws
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="咪咕路线3",大湾区卫视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dwqws
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="咪咕路线3",海南卫视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hinws
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="咪咕路线3",CGTN
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cgtn
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="咪咕路线3",CGTN纪录
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cgtnjl
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿拉伯语.png" group-title="咪咕路线3",CGTN阿拉伯语
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cgtna
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="咪咕路线3",CGTN法语
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cgtnf
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.com/tv/CGTN西班牙语.png" group-title="咪咕路线3",CGTN西班牙语
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cgtne
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="咪咕路线3",CGTN俄语
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cgtnr
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="咪咕路线3",东方影视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dfys
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上海新闻综合.png" group-title="咪咕路线3",上海新闻综合
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=shxwzh
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="咪咕路线3",第一财经
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=dycj
+#EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="咪咕路线3",上海纪实人文
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=shjsrw
+#EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="咪咕路线3",上海外语
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=shics
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="咪咕路线3",法治天地
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=fztd
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="咪咕路线3",欢笑剧场
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hxjc
+#EXTINF:-1 tvg-name="乐游HD" tvg-logo="https://live.fanmingming.com/tv/乐游HD.png" group-title="咪咕路线3",乐游HD
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=ly
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="咪咕路线3",魅力足球
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=mlzq
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="咪咕路线3",劲爆体育
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jbty
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="咪咕路线3",游戏风云
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=yxfy
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="咪咕路线3",七彩戏剧
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=qcxj
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="咪咕路线3",江苏城市
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jscs
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="咪咕路线3",江苏影视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jsys
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="咪咕路线3",江苏综艺
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jszy
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.fanmingming.com/tv/江苏教育.png" group-title="咪咕路线3",江苏教育
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jsjy
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.fanmingming.com/tv/江苏国际.png" group-title="咪咕路线3",江苏国际
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jsgj
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏体育休闲.png" group-title="咪咕路线3",江苏体育休闲
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jstyxx
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="咪咕路线3",优漫卡通
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=ymkt
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="咪咕路线3",南京新闻综合
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=njxwzh
+#EXTINF:-1 tvg-name="南京十八" tvg-logo="https://live.fanmingming.com/tv/南京十八.png" group-title="咪咕路线3",南京十八
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=njsb
+#EXTINF:-1 tvg-name="淮安新闻综合" tvg-logo="https://live.fanmingming.com/tv/淮安新闻综合.png" group-title="咪咕路线3",淮安新闻综合
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=haxwzh
+#EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://live.fanmingming.com/tv/连云港新闻综合.png" group-title="咪咕路线3",连云港新闻综合
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=lygxwzh
+#EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://live.fanmingming.com/tv/徐州新闻综合.png" group-title="咪咕路线3",徐州新闻综合
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=xzxwzh
+#EXTINF:-1 tvg-name="宿迁新闻综合" tvg-logo="https://live.fanmingming.com/tv/宿迁新闻综合.png" group-title="咪咕路线3",宿迁新闻综合
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=sqxwzh
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="咪咕路线3",广东影视
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gdys
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="咪咕路线3",嘉佳卡通
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jjkt
+#EXTINF:-1 tvg-name="中央新影-老故事" tvg-logo="https://live.fanmingming.com/tv/中央新影-老故事.png" group-title="咪咕路线3",中央新影-老故事
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=lgs
+#EXTINF:-1 tvg-name="中央新影-发现之旅" tvg-logo="https://live.fanmingming.com/tv/中央新影-发现之旅.png" group-title="咪咕路线3",中央新影-发现之旅
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=fxzl
+#EXTINF:-1 tvg-name="中央新影-中学生" tvg-logo="https://live.fanmingming.com/tv/中央新影-中学生.png" group-title="咪咕路线3",中央新影-中学生
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=zxs
+#EXTINF:-1 tvg-name="红色轮播台" tvg-logo="https://live.fanmingming.com/tv/红色轮播台.png" group-title="咪咕路线3",红色轮播台
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hslbt
+#EXTINF:-1 tvg-name="高清大片" tvg-logo="https://live.fanmingming.com/tv/高清大片.png" group-title="咪咕路线3",高清大片
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gqdp
+#EXTINF:-1 tvg-name="军事迷必看大片" tvg-logo="https://live.fanmingming.com/tv/军事迷必看大片.png" group-title="咪咕路线3",军事迷必看大片
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=jsdp
+#EXTINF:-1 tvg-name="周杰伦现场" tvg-logo="https://live.fanmingming.com/tv/周杰伦现场.png" group-title="咪咕路线3",周杰伦现场
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=zjlxc
+#EXTINF:-1 tvg-name="最强综艺趴" tvg-logo="https://live.fanmingming.com/tv/最强综艺趴.png" group-title="咪咕路线3",最强综艺趴
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=zqzyp
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="咪咕路线3",四海钓鱼
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=shdy
+#EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://live.fanmingming.com/tv/掼蛋精英赛.png" group-title="咪咕路线3",掼蛋精英赛
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=gdjys
+#EXTINF:-1 tvg-name="CBA经典" tvg-logo="https://live.fanmingming.com/tv/CBA经典.png" group-title="咪咕路线3",CBA经典
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cbajd
+#EXTINF:-1 tvg-name="NBA经典" tvg-logo="https://live.fanmingming.com/tv/NBA经典.png" group-title="咪咕路线3",NBA经典
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=nbajd
+#EXTINF:-1 tvg-name="UFC格斗精选" tvg-logo="https://live.fanmingming.com/tv/UFC格斗精选.png" group-title="咪咕路线3",UFC格斗精选
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=ufcgdjx
+#EXTINF:-1 tvg-name="和平精英赛事" tvg-logo="https://live.fanmingming.com/tv/和平精英赛事.png" group-title="咪咕路线3",和平精英赛事
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=hpjxss
+#EXTINF:-1 tvg-name="英雄联盟赛事" tvg-logo="https://live.fanmingming.com/tv/英雄联盟赛事.png" group-title="咪咕路线3",英雄联盟赛事
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=yxlmss
+#EXTINF:-1 tvg-name="全民乒乓" tvg-logo="https://live.fanmingming.com/tv/全民乒乓.png" group-title="咪咕路线3",全民乒乓
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=qmpp
+#EXTINF:-1 tvg-name="五大联赛经典" tvg-logo="https://live.fanmingming.com/tv/五大联赛经典.png" group-title="咪咕路线3",五大联赛经典
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=wdlsjd
 
 
 
