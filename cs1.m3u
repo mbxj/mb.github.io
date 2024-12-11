@@ -1,0 +1,17 @@
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视卫视",CCTV1
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视卫视",CCTV2
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视卫视",CCTV3
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视卫视",CCTV4
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视卫视",CCTV4欧洲
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4o
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视卫视",CCTV4美洲
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4a
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视卫视",CCTV5
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视卫视",CCTV5+
+http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5p
