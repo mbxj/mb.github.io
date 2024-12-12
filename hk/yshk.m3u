@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视卫视",CCTV1
 http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv1
