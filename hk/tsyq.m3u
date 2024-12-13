@@ -3,3 +3,5 @@
 http://119.32.12.31:2901/udp/224.1.100.121:11111
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://119.32.12.31:2901/udp/224.1.100.122:11111
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png" group-title="港澳台",无线新闻
+http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
