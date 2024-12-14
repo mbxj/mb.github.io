@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="2024-12-14 16:48:20" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="列表更新时间",2024-12-14 16:48:20
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/07/13/6CT8AUV795RS.png" group-title="乒超", 12/13 19:00_豪取3连胜！黄石基地·华新横扫获胜_豪取3连胜！黄石基地·华新横扫获胜_周冠达
 http://119.29.119.185:35454/migu/944079221.m3u8?migutoken=d41aac5e4e1e102757649fdb2be3106b6be107d55ea6e745221f3cde48677aff94141e873f4519f2eae1456d2d59a497a9f2b1ce0ff5ce742b639cdb7c97873cfa058705552e7a3cd2cb5cf708
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/07/13/6CT8AUV795RS.png" group-title="乒超", 12/13 19:00_豪取3连胜！黄石基地·华新横扫获胜_豪取3连胜！黄石基地·华新横扫获胜_清流
