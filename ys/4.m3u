@@ -222,7 +222,38 @@ http://119.29.119.185:35454/migu/609169226.m3u8?migutoken=7fe2313f89b4241e7357b7
 #EXTINF:-1,tvg-id="熊猫频道10" tvg-name="熊猫频道10" tvg-logo="https://epg.v1.mk/logo/熊猫频道10.png" group-title="熊猫",熊猫频道10
 http://119.29.119.185:35454/migu/609169285.m3u8?migutoken=3f78fdd257024523af9c8192630d690e10851303cbfbc9736efb527ed64a0f29350cdbd07cde4bec6b5a77ce13986d481b3136fcdaae5bfc65f5bf22a2bcb632670558f6835cae405c0d0f543f
 
-
+#EXTINF:-1 group-title="四川频道",四川科教
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+#EXTINF:-1 group-title="四川频道",德阳新闻综合
+http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",甘孜综合
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
+#EXTINF:-1 group-title="四川频道",金川新闻综合
+http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",乐至综合
+http://175.155.106.72:89/live1/live1.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",利州综合
+http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
+#EXTINF:-1 group-title="四川频道",利州综合
+http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",泸县新闻综合
+http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",马尔康综合
+http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",蓬安新闻综合
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",青神综合
+http://lmt.scqstv.com/live1/live1.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",松潘新闻综合
+http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",万源新闻综合
+http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",汶川新闻综合
+http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",营山电视台
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="四川频道",长宁综合
+http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 
 #EXTINF:-1 group-title="浙江频道",浙江丽水龙泉综合
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
