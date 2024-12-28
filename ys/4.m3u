@@ -255,6 +255,17 @@ http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zs
 #EXTINF:-1 group-title="四川频道",长宁综合
 http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 
+#EXTINF:-1 tvg-name="长春综合" tvg-logo="https://live.fanmingming.com/tv/长春综合.png" group-title="吉林频道",长春综合
+http://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
+#EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://live.fanmingming.com/tv/长春文旅体育.png" group-title="吉林频道",长春文旅体育
+http://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
+#EXTINF:-1 tvg-name="长春市民生活" tvg-logo="https://live.fanmingming.com/tv/长春市民生活.png" group-title="吉林频道",长春市民生活
+http://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8
+#EXTINF:-1 tvg-name="长春经济" tvg-logo="https://live.fanmingming.com/tv/长春经济.png" group-title="吉林频道",长春经济
+http://p2bj.vzan.com/slowlive/349780930188572439/live.m3u8
+#EXTINF:-1 tvg-name="长春汽车" tvg-logo="https://live.fanmingming.com/tv/长春汽车.png" group-title="吉林频道",长春汽车
+http://p2bj.vzan.com/slowlive/978419341085239014/live.m3u8
+
 #EXTINF:-1 group-title="浙江频道",浙江丽水龙泉综合
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江宁波象山综合
