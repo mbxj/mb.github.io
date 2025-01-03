@@ -1,0 +1,221 @@
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://epg.v1.mk/logo/CCTV1综合.png" group-title="央视",cctv1综合
+http://119.29.119.185:35454/migu/608807420.m3u8?migutoken=0d76fcad18681fb0a36a11893f1f363b78e6f3f319fadcbcedfe1934c77e9fddee6b5d95a7a4506b8ad6dd85971fd7539d6a5c0ea55990d8e09d1b5864441af09fd525a2f55d998cf302ab0202
+#EXTINF:-1,tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://epg.v1.mk/logo/CCTV2财经.png" group-title="央视",cctv2财经
+http://119.29.119.185:35454/migu/631780532.m3u8?migutoken=a37009a09e002c001042f7a9b9571ed22dafba3e719358c218d8bec353516d900d907659bf0fd2b32699626bfbb78bd27f818a501576dbb296363bc694010e566a751b3e357ef43eb8e6f71449
+#EXTINF:-1,tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://epg.v1.mk/logo/CCTV3综艺.png" group-title="央视",cctv3综艺
+http://119.29.119.185:35454/migu/624878271.m3u8?migutoken=7df56c223644aed3dc457c669dbba9091739d1a50564f6a01e2d837f05b009084c0b837da0b800a4d31f50620eb47da10ee1042a016bec9e6caff422a03a0aa8c61de5ff9c850a2d95d6da3dc4
+#EXTINF:-1,tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://epg.v1.mk/logo/CCTV4中文国际.png" group-title="央视",cctv4中文国际
+http://119.29.119.185:35454/migu/631780421.m3u8?migutoken=5ef495259c545517782de9d5dcd30e4d174474011e25d0bd68673a8e252c47f5d45085c16220c968b5fb97f4664f08fa92e1a410b02664b504c1f5c738dcb9e506498977c85dddc0fbbe87dec3
+#EXTINF:-1,tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://epg.v1.mk/logo/CCTV5体育.png" group-title="央视",cctv5体育
+http://119.29.119.185:35454/migu/641886683.m3u8?migutoken=a0a9dfd57fd6b611a30643f4276d284cb8b6a962e86a3e1af3c9d3121b155bfb892c57abc306309e0f3708e9a1a7fd98aa6efbc21a3a8a1ac5f639a2bfceb8ead170d82758077d516ce117c836
+#EXTINF:-1,tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://epg.v1.mk/logo/CCTV5+体育赛事.png" group-title="央视",cctv5+体育赛事
+http://119.29.119.185:35454/migu/641886773.m3u8?migutoken=de8b40d67a21f843cafdab1fcf5f9a46f24d2964c8b314174093730cb324a830d2c740490029fed369be11ae3a06ed8ac52c94a7add7626913566e0e25e8488b254243c40dd9715fcc0df38482
+#EXTINF:-1,tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://epg.v1.mk/logo/CCTV6电影.png" group-title="央视",cctv6电影
+http://119.29.119.185:35454/migu/624878396.m3u8?migutoken=8204b06317c44a5803a1e48076441db20a03cfbecec649eb50f051258cbe2c78f1d9a1bd90e99b7e1b8e1b2b94d97fecfe5b9528b3a53b18dc5149bac712e8585af7cd81cf9eedd1909d531f49
+#EXTINF:-1,tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://epg.v1.mk/logo/CCTV7国防军事.png" group-title="央视",cctv7国防军事
+http://119.29.119.185:35454/migu/673168121.m3u8?migutoken=6e85c5d91829be8f8412a14a3ad8c652af10df72ed9b449977f122f64c8b54fc38a5c11c1a2a0ccd1f0775b7595d245e68d99a324e1d94d078216062332e192df7f748bb37e83c163e6eb1eef8
+#EXTINF:-1,tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://epg.v1.mk/logo/CCTV8电视剧.png" group-title="央视",cctv8电视剧
+http://119.29.119.185:35454/migu/624878356.m3u8?migutoken=15cdd96254184ee1d23127e494779f982bf7066e1d9f735aabd3e6996167beb87887fe6562626af88a63845bddb9a3c7335ec2d896bee986bd521d9a495078c4a28f47491c5509f11609cc954b
+#EXTINF:-1,tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://epg.v1.mk/logo/CCTV9纪录.png" group-title="央视",cctv9纪录
+http://119.29.119.185:35454/migu/673168140.m3u8?migutoken=a6f45705cc2f1e776704451ec6879ff6183ff481dcfcf8c488cc9da5da62661892570617a35d45765be7bef3bb381e969cab5e08c88ad43c4136182993e0a806b4e0656e9ffa0331cae2c51d7c
+#EXTINF:-1,tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://epg.v1.mk/logo/CCTV10科教.png" group-title="央视",cctv10科教
+http://119.29.119.185:35454/migu/624878405.m3u8?migutoken=af23cfe1bea29227e5f039080c1ce5931a352c7bd92b01a78aff6376a2b1b3f5ed50de9a4efc668937b0d18dec85a2760ae18e616715f0d172c83842fa76ced5c6c911edbbb8c1c6eb29fc1292
+#EXTINF:-1,tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://epg.v1.mk/logo/CCTV11戏曲.png" group-title="央视",cctv11戏曲
+http://119.29.119.185:35454/migu/667987558.m3u8?migutoken=c0f033efcf52d6f952a82a9d30212534ca16c322d1176ca615e60c9fe4b777f0a74fad5660f549d6225bd5fb4ac075ff1827654fa3fbcf8a017a5fb8b8a6e1e8df6e9bd25cf767090f3d824f45
+#EXTINF:-1,tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://epg.v1.mk/logo/CCTV12社会与法.png" group-title="央视",cctv12社会与法
+http://119.29.119.185:35454/migu/673168185.m3u8?migutoken=bc3133c5a1f3e2b92c1f17cd75256f63602c6dfb970fad1b10f15248a14788af801a2b2f367638d11fa76c91e13c8923c0a6ec6e233021dda4d4a89d4c7f6cf0a600ab7a66eefd05e896af56e3
+#EXTINF:-1,tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://epg.v1.mk/logo/CCTV13新闻.png" group-title="央视",cctv13新闻
+http://119.29.119.185:35454/migu/608807423.m3u8?migutoken=a67bf9eff866a972a9846d5150000d13e1a8cdc217b3e3013f851b5d21b58886922b5ea2551492916674d9c93827c7607e2a4d09f4d9f4a4e109e45d3baf8940f8d9bf453419c3ec3039062863
+#EXTINF:-1,tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://epg.v1.mk/logo/CCTV14少儿.png" group-title="央视",cctv14少儿
+http://119.29.119.185:35454/migu/624878440.m3u8?migutoken=d5e6b0d8ca9e05fe447ef69a27f6b5655be8b967ac86a73ea5500ffa8f076007a93be94b143224806f477e7c8511fa8fe83520eb893ef941f67d78cb7392c90de0b456da2bb7453e2a71594991
+#EXTINF:-1,tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://epg.v1.mk/logo/CCTV15音乐.png" group-title="央视",cctv15音乐
+http://119.29.119.185:35454/migu/673168223.m3u8?migutoken=b7f8d973957dfaa7fe861f43e1a864c0eef43850677c160eb262f07272943fd4dfb3841f4250307d34948b35ba0e6abc374204080334fc7a166920abec41d0cd7cc3bfd497001c6dd6c6bd35ed
+#EXTINF:-1,tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://epg.v1.mk/logo/CCTV17农业农村.png" group-title="央视",cctv17农业农村
+http://119.29.119.185:35454/migu/673168256.m3u8?migutoken=0797adb56f6ca1ae40ecb1c0803f496cbbe72c700d5c7b31208da42daa5cb934addb06cb32c16e5f51a726abf8a93676de4e00899f0fa323ce75c3a261948c578f8b410e73f01ffb03d60058ef
+#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://epg.v1.mk/logo/CCTV4欧洲.png" group-title="央视",cctv4欧洲
+http://119.29.119.185:35454/migu/608807419.m3u8?migutoken=d09af18573835897a01a16f135f40d6ea0b56079c6fdb6b7ad17d6fd0c6e6a770bb14af77012fd09dbacf3d611242dd3efa54e26032c10ae69ea74a29fdaea2452e155f46658c9edf5ab9a43c1
+#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://epg.v1.mk/logo/CCTV4美洲.png" group-title="央视",cctv4美洲
+http://119.29.119.185:35454/migu/608807416.m3u8?migutoken=8a76b852a3d95a0e0d004862b28d089a4cf563991fb05711e0f3ed9b7450591a6f925fbe37f1b6ef90481225ca18fffef80cc09e96b28dc14a3589d05660c45a505cfef185fe9e304c97d7b5f3
+#EXTINF:-1,tvg-id="CCTV9Documentary" tvg-name="CCTV9Documentary" tvg-logo="https://epg.v1.mk/logo/CCTV9Documentary.png" group-title="央视",cctv9documentary
+http://119.29.119.185:35454/migu/609006487.m3u8?migutoken=d61138b7a112668ec1f867d4b27b35ac41ac6b0029cfaac0bdb7a018be014031745fd797f65b837c6f10f08b23657f69e751e2295cc9154daf6ae4165e13c31ec256d076def82866b8e789a635
+#EXTINF:-1,tvg-id="CCTV阿拉伯语" tvg-name="CCTV阿拉伯语" tvg-logo="https://epg.v1.mk/logo/CCTV阿拉伯语.png" group-title="央视",cctv阿拉伯语
+http://119.29.119.185:35454/migu/609154345.m3u8?migutoken=44e4f0b0f65e8c49bb8a2a7724d0fa394360faa18b8db0ca218a50eaf14bbaed79600aaddbf8459a737442a186af4ed2d4e9d7f747f41f0701c9db0fa513c492b952e9e228c72c60d1ff2157b9
+#EXTINF:-1,tvg-id="CCTV西班牙语" tvg-name="CCTV西班牙语" tvg-logo="https://epg.v1.mk/logo/CCTV西班牙语.png" group-title="央视",cctv西班牙语
+http://119.29.119.185:35454/migu/609006450.m3u8?migutoken=26842f7c6ad8d6e43fa0224d799e0e85cbc072b1b18040c4d4647ba0079fd2e4171e9c5d40ba4d29423dea9ab46bd24c37c6d93c8b21a56469f7ea37a9dcdc4792a5c52c2ab2f69c67d3cb973d
+#EXTINF:-1,tvg-id="CCTV法语" tvg-name="CCTV法语" tvg-logo="https://epg.v1.mk/logo/CCTV法语.png" group-title="央视",cctv法语
+http://119.29.119.185:35454/migu/609006476.m3u8?migutoken=f3e9526d33d4e92fdb32140286aa5c80db35bada8b25d46f30c12b7ae0c2a38232e21ebf4d6942ce4db5159b3c35e44d6521dfa9f77795cbf19473f4bfc2757d5487b98b7270f25c7855ef95d0
+#EXTINF:-1,tvg-id="CCTV俄语" tvg-name="CCTV俄语" tvg-logo="https://epg.v1.mk/logo/CCTV俄语.png" group-title="央视",cctv俄语
+http://119.29.119.185:35454/migu/609006446.m3u8?migutoken=51580190f1756a0ed898a48ea856ba466cbd2f58d1140c2fb0d424b37073d09f92344da021fe75354eadf18f55d53d9516cc0365d995c60d68b8b82570aa019c2f110896ee3ff75ec20d73e015
+#EXTINF:-1,tvg-id="CCTV发现之旅" tvg-name="CCTV发现之旅" tvg-logo="https://epg.v1.mk/logo/CCTV发现之旅.png" group-title="央视",cctv发现之旅
+http://119.29.119.185:35454/migu/624878970.m3u8?migutoken=009d93802a1cc95ba44b171a1cde8aeff8de4f16d1d1271869b61af8f2deb6ed1481bd3faa306cfeb517c3ebf1ec51482b1899af2fc7d2a4a38fd62580f6cf53887438438f5efb72c56ae23b16
+#EXTINF:-1,tvg-id="中学生" tvg-name="中学生" tvg-logo="https://epg.v1.mk/logo/中学生.png" group-title="教育",中学生
+http://119.29.119.185:35454/migu/708869532.m3u8?migutoken=92cf38b53c9e266ea6e7cc4c98368dc33346f47547e41cc76b8320a8c9596ed086f0052c547d9b8228c13935b93b27d1cf2e1fd277691ad343dd57441983a8233ad697e97c3e1839afeecc7371
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="央视",cgtn
+http://119.29.119.185:35454/migu/609017205.m3u8?migutoken=c47684028137fe5b3dbd09647977595913f95b791d536f708cbb380407b047916888c3b9ea91c01f490686ca6bb4507a30877ac64e529cb826dda886d47b19a9322809aaa7be318bb946c2b8aa
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视
+http://119.29.119.185:35454/migu/651632648.m3u8?migutoken=7778bce0ec91cb1fe1440d248255d04be55efe5b950c7eb875e6c1213c9a54d5c40f26d8c50a9734f330804c70796ff3cdeb691a6bb32fa7a1bcdf3bc809c86c3ed3786d623c86d291326fe495
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
+http://119.29.119.185:35454/migu/608831231.m3u8?migutoken=e8492fe5e5f1dd80b16de61e4c84d8fa8af3406c138235df8fc70e920c549f598241b167ecc704b35dd6bc97c651d30976d22d985d5755115c64334eb0445ea292016bec3d7e872ed79190b8a9
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://119.29.119.185:35454/migu/623899368.m3u8?migutoken=95faf9c20fb4cbb3def08f6f96fb11f40e3476fde0863dce861576c1c28ca56dcf8124a099069601a50d46107747a9efb4daa4f8862971485b26e8df6b83fa6da2b1e10ba343f7e577919ea0f4
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视
+http://119.29.119.185:35454/migu/783847495.m3u8?migutoken=62ac8d774a95e8e6d3eae3f5366fdca6e2665b9d2a5bef1c412eefcc09b1999179beca6622f30bee9384b9d78d799b315cc0abe8182cd06ab402756716db4fa1efa090c9820e73a53fd8184a09
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
+http://119.29.119.185:35454/migu/790187291.m3u8?migutoken=e8dc321989b58cbca8bd02fcff3e4224abb9b0addef25278cf0e678f39364032c5de30d40ba8f10ef5db883870df4a01a680724502f568c1e940e2273fe669e7464fd120f4d82035942488cc23
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://119.29.119.185:35454/migu/738910838.m3u8?migutoken=68027d59b8a3403b7ad921e9ad21def55f3eabfa98f2cab214e9f5e298831ba983982830f0fdd81b5d1bad763dbec81c8ec1a94ba647978ceb3035d8db956f2328048055d00d08da2ce658bd61
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="卫视",海南卫视
+http://119.29.119.185:35454/migu/738906860.m3u8?migutoken=571f716e60893e1ea1e6ea450676bd98f449fbcec763e95bea220d9717604b97872ebf3a6c888450d282847fa1c62373c346e38d30a1cad35f7448a039818bec1a9e6264028080d25e83f9bb7a
+#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://119.29.119.185:35454/migu/608917627.m3u8?migutoken=e66925b20f8cb2d09259ff5f31515f833e4a6098b05bbb973c80cd77a2888aae3d5b5a69c986f08efa7e74ba025b21de64c5be86050dba69f97fc5141bf5e514ba6409d76a4f7c2a215ae252a4
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://119.29.119.185:35454/migu/738906825.m3u8?migutoken=f3b50e8bc769323d21abccfe77581c370df2acc674f9fdbf80740668e2440b0d507892a5e8e44fd6db160b0b7300b79e51b90e55ab3949503e2883a6f93982a18d7e4948d632c07e7afdd44b39
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
+http://119.29.119.185:35454/migu/738898486.m3u8?migutoken=d282eb85eea8ac10fc85c865d2e484a3d69dd84343b8b671a880355a8a91195a229994ba5229b435bce76a7c8b396dd1d9f00f5ded2243b89bd4683276f456a1814a5e026754390e3809513146
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://119.29.119.185:35454/migu/738906889.m3u8?migutoken=1507200f7b6324cf6f1980696fc250318286c9cdd3a20d8f2fc5443269e366e1148313f5e2631de38bc53771998adc99ea3a2c7f66d14911fdacbc24e39e72d6603bf28be19bad833d95e983ea
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
+http://119.29.119.185:35454/migu/849116810.m3u8?migutoken=cd5dd7684fc43029397cf85f32f1a5da024bbdc5a8fc845e944b9912f2666758ddbcced04ae7d7e1a053e60b1261654766010ba96e8d0fdaeecf83b1c5ce8fc90905fe1331f24c8baf54a25817
+#EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.v1.mk/logo/海峡卫视.png" group-title="卫视",海峡卫视
+http://119.29.119.185:35454/migu/849119120.m3u8?migutoken=aa5a4d9753ffd355008396f596291016a8a035539dfd455c15077cbc410d30b3c07c692a407927488aac42f8f734a60c5355c8b546ee92d3bdeb5c2014e4c93aa3526b7fb562df34a8ead77af0
+#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="新闻",上海新闻综合
+http://119.29.119.185:35454/migu/651632657.m3u8?migutoken=f209b191465caff4dc5a52f951350a7d3c666cc02c4518ccef83ac2c4734ed845cb09e94e9e7525a87798abb29983f46782a00a2d37e65fff501439ad68718addfc41a480d54849e0ec7af2208
+#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.v1.mk/logo/上视东方影视.png" group-title="上海",上视东方影视
+http://119.29.119.185:35454/migu/617290047.m3u8?migutoken=1e581e2a0a5bd819ff2d619c86c527407b4ab61899d029a289f2e874911496f5477be0e8ee8b18fd820ba60b20e1a5daf5352fd15dd4416192e5b37b99d5de8cdbbcc7718cea45d93645e590de
+#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.v1.mk/logo/上视纪实人文.png" group-title="上海",上视纪实人文
+http://119.29.119.185:35454/migu/617289997.m3u8?migutoken=386dd5d22eea68720ed04e9cc212c13b886d72783ba4f54426ed70a02b38c18cd3d05699ae1d6e4dd75131a5431038d1fc91247a66969f6c6a40ac82e971e16c3d0fd0812b796aa5e5a7ecf5ff
+#EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.v1.mk/logo/上海外语.png" group-title="上海",上海外语
+http://119.29.119.185:35454/migu/618954688.m3u8?migutoken=b6df2c328f38e7927fbd573ff36895cb995dbff8ff2797fbd94433f3441e3f73aba28b483775673f1803b2fed26efaa906eacacfb5b338804398bfec775ce183545713a73a81cadf2d7faa6260
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.v1.mk/logo/上海第一财经.png" group-title="上海",上海第一财经
+http://119.29.119.185:35454/migu/608780988.m3u8?migutoken=0572eed10382e896fa73d3de523d66dee4e9b2cfe7fd1891e86f5a22a50eac7cd5c361fc9176c9173937f8bcf92b9d6c7e1dbc687e70dd02d650e62b540d145c97e12144458b3d976892aa4a31
+#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.v1.mk/logo/七彩戏剧.png" group-title="卫视",七彩戏剧
+http://119.29.119.185:35454/migu/796071456.m3u8?migutoken=f8fe2bdf953aa45f22b6446b2937e29692144623212c10f98deaaa97991a643e017162327de86c165b7d8910897c8ebfba83695bbe0d2f780f177ae40afb0a340b356643dfaec783e8f4f6ed52
+#EXTINF:-1,tvg-id="南京新闻综合频道" tvg-name="南京新闻综合频道" tvg-logo="https://epg.v1.mk/logo/南京新闻综合频道.png" group-title="新闻",南京新闻综合频道
+http://119.29.119.185:35454/migu/838109047.m3u8?migutoken=a2a7846aab954b2edafb6902ff0609375e2a19a0a16e64eadf54d3fa248cfca5b30acd8cd77521f131b6dde75333b930cabbf660585589a0c47fd573fb4c9eacba02a297443a31eb46c11bbb96
+#EXTINF:-1,tvg-id="南京教科频道" tvg-name="南京教科频道" tvg-logo="https://epg.v1.mk/logo/南京教科频道.png" group-title="南京",南京教科频道
+http://119.29.119.185:35454/migu/838153729.m3u8?migutoken=0ecfe5bfc3f9a18cece4d6cfab91973bc8192f8c0c63eec078b2cb4708ec51250e917b3213e622f98199114a74914bb0d66845d57ee1262826f7d067a4aef6b18e9630205c9347392ad956215a
+#EXTINF:-1,tvg-id="南京十八频道" tvg-name="南京十八频道" tvg-logo="https://epg.v1.mk/logo/南京十八频道.png" group-title="南京",南京十八频道
+http://119.29.119.185:35454/migu/838151753.m3u8?migutoken=4694236be9bbfc23966773b050425686877d2ca7dc8e24178fd78aa605d50f4f0794df959169605b38fb962a7ff38cf81b4bccc57ec7ac7a2d9e6625f0144309e60d3f3cb27c91a49de8a602d4
+#EXTINF:-1,tvg-id="江苏城市频道" tvg-name="江苏城市频道" tvg-logo="https://epg.v1.mk/logo/江苏城市频道.png" group-title="江苏",江苏城市频道
+http://119.29.119.185:35454/migu/626064714.m3u8?migutoken=f394bb1f4614019036f601cb06e598a61fa04754a6f76c7e8fc8254daf24e91921a0024b8a70dbaa9943f7142ac2043a91ee8830587f073dd9a30401e12d80f80f0381bb5450c8285ce2558036
+#EXTINF:-1,tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://epg.v1.mk/logo/江苏国际.png" group-title="江苏",江苏国际
+http://119.29.119.185:35454/migu/626064674.m3u8?migutoken=e055949144f76c44c16cad219dda119abd98a6aeb01642d503a6177c1d351186fded3e4f224aa99df956881f2df8c84be4583703aea7d347418e83ff75bea7c86776fbe6cf2dbe38702e8cde24
+#EXTINF:-1,tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
+http://119.29.119.185:35454/migu/628008321.m3u8?migutoken=df889cf06adefe09848c12efccafec0973711392b068b12438cdd93441e675fa3b337c9f3f007085583434c0200cd65b8cca09c4d2ea0119e87bd0453a3ebc549bbfb8877933d6deee7d588504
+#EXTINF:-1,tvg-id="江苏影视频道" tvg-name="江苏影视频道" tvg-logo="https://epg.v1.mk/logo/江苏影视频道.png" group-title="江苏",江苏影视频道
+http://119.29.119.185:35454/migu/626064697.m3u8?migutoken=706c536ea827c45101ac3c1f43a27e99aba2241ac3fa84d5d210cc63696738f19012e84ed5d699ab5b7dcacd83a66209790438d293f5c636811589bc07702310d871e89ddc4d6ee470a11417c1
+#EXTINF:-1,tvg-id="江苏综艺频道" tvg-name="江苏综艺频道" tvg-logo="https://epg.v1.mk/logo/江苏综艺频道.png" group-title="江苏",江苏综艺频道
+http://119.29.119.185:35454/migu/626065193.m3u8?migutoken=9d9a65945b047877fe6ab05b5247cb440e7d6104ec1881ada7d5a0889f2954124300e74571111deb8077168db32898aad73aec453b9d1deb0ceba49e9d252506eb4e1870da571df615b506847b
+#EXTINF:-1,tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://epg.v1.mk/logo/连云港新闻综合.png" group-title="新闻",连云港新闻综合
+http://119.29.119.185:35454/migu/639731715.m3u8?migutoken=432ab0ff83d2e18a621eeff861d8dc0e01e715640d9081364b2bfc327b545ea37f12dfdcb805352d34128e120d0ce6aa0ed7df5603a5efe47a64774b4d2cb4b2b529fafb80c692f2f17234e5d5
+#EXTINF:-1,tvg-id="公共新闻频道" tvg-name="公共新闻频道" tvg-logo="https://epg.v1.mk/logo/公共新闻频道.png" group-title="新闻",公共新闻频道
+http://119.29.119.185:35454/migu/626064693.m3u8?migutoken=f3a3906dcd8c7e5df4fa5bad66d46b556407c07fa0ee609224800c05ee5d0692f6e846346390a56273afb109f452ba15bea456c09c2c9102554ca0c7bc4da0877dda98850f8a38209a0cbe9a93
+#EXTINF:-1,tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://epg.v1.mk/logo/淮安新闻综合.png" group-title="新闻",淮安新闻综合
+http://119.29.119.185:35454/migu/639731826.m3u8?migutoken=55419bd0e469e12a9ffe2b3d3577cc81b34a73855b74e0e5eb464e89ca80be39a64a85eac7a596bf054ef4779ffbf11c7007d79dce4137375ada0583a0a037307f1596cca5f3362796a9ff4774
+#EXTINF:-1,tvg-id="泰州新闻综合" tvg-name="泰州新闻综合" tvg-logo="https://epg.v1.mk/logo/泰州新闻综合.png" group-title="新闻",泰州新闻综合
+http://119.29.119.185:35454/migu/639731818.m3u8?migutoken=b2c6a2c6a691d60c05fc0e5d523df8bc361e9565156d9d738802a09ae684818930fd0bb1691ff6d7f680a9ddb224993e8235e69677bde680b73e5f8338683e771874c2e2be1d7cf49f961ea613
+#EXTINF:-1,tvg-id="体育休闲频道" tvg-name="体育休闲频道" tvg-logo="https://epg.v1.mk/logo/体育休闲频道.png" group-title="体育",体育休闲频道
+http://119.29.119.185:35454/migu/626064707.m3u8?migutoken=27eec44ef9453ba68a59d992933888529a2afde76ed9608013056291c8223cda14cff621df5da54d5d9c9e1dce3049a33fa5381d7d217118d5bd2ce30a716760220bc441d8e3b59d8b85540f5c
+#EXTINF:-1,tvg-id="宿迁新闻综合" tvg-name="宿迁新闻综合" tvg-logo="https://epg.v1.mk/logo/宿迁新闻综合.png" group-title="新闻",宿迁新闻综合
+http://119.29.119.185:35454/migu/639731832.m3u8?migutoken=4d18306901422fc1c05718cc574af08ff14a17635902053ceb3d8d0dfe297c712a76eaf39ad2c4640b55df59ecab5721809b2411e06abe668726892cc8323a161b8c5228b2e710622ba4dfb4ed
+#EXTINF:-1,tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://epg.v1.mk/logo/徐州新闻综合.png" group-title="新闻",徐州新闻综合
+http://119.29.119.185:35454/migu/639731747.m3u8?migutoken=9cad2d29aca71603470323500356a8ad573a41206074de4924e441d6d85a197d9f3bccbfa8541c8953addea232e9fb5e0e99ded3918e6337e7b2a014ab71f576aad8a318e05ade9e43002b7784
+#EXTINF:-1,tvg-id="优漫卡通频道" tvg-name="优漫卡通频道" tvg-logo="https://epg.v1.mk/logo/优漫卡通频道.png" group-title="卡通",优漫卡通频道
+http://119.29.119.185:35454/migu/626064703.m3u8?migutoken=8a63c53666061be8c36b39f7aca7fa9f94f53fcb2f30a0744f890438f9599e7fefff83a1273d67c5845dd831b7e931a24fc3f79c3b8eeca07fbe73050582e2fa69448c1725715b1048e391553b
+#EXTINF:-1,tvg-id="临洮电视台" tvg-name="临洮电视台" tvg-logo="https://epg.v1.mk/logo/临洮电视台.png" group-title="卫视",临洮电视台
+http://119.29.119.185:35454/migu/668225749.m3u8?migutoken=4d3710531e0d359e490789d145c7629851267b148188057c235c99b7347e4dc8afb913e768ca4e464779e88f6234b9e3997e409b8ba58da93e3b7672c471361653f3277d64f1775bb7ba7eaa50
+#EXTINF:-1,tvg-id="高清大片" tvg-name="高清大片" tvg-logo="https://epg.v1.mk/logo/高清大片.png" group-title="影视",高清大片
+http://119.29.119.185:35454/migu/629943678.m3u8?migutoken=30db9cd91c3120742942b35a6bf31adb906c163b5b9f00b64c03a19b62922a221399460e3ee59ea47b29fccc09d11a4d298ab078656ec67301cdd7e23e0b1ce2d4dd86b9a09966946beb7d2c87
+#EXTINF:-1,tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="https://epg.v1.mk/logo/经典香港电影.png" group-title="影视",经典香港电影
+http://119.29.119.185:35454/migu/625703337.m3u8?migutoken=92faa51caed36a048a193cbe7fc73779cb7c10132d9a37515d4400513043fd368ff47ac7f506456d86437d7a94d528de4bd3365afc85f298cdbf44c26ee2f50863e8834c991290bc1eb1cd8b8a
+#EXTINF:-1,tvg-id="军事迷必看大片" tvg-name="军事迷必看大片" tvg-logo="https://epg.v1.mk/logo/军事迷必看大片.png" group-title="教育",军事迷必看大片
+http://119.29.119.185:35454/migu/617432318.m3u8?migutoken=4d4c6197d2c3dc7e96eac93ebf2377919effe9b7a516307fe1300565eb6d4760e50e89ce883019b302658cad0facbb1a0f867ec21165dab3e1743b00c56dfc109d15f7ecf3cd25e1c5a8f7acee
+#EXTINF:-1,tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://epg.v1.mk/logo/新片放映厅.png" group-title="影视",新片放映厅
+http://119.29.119.185:35454/migu/619495952.m3u8?migutoken=64dabfdebb74de4fc234f45e931b0562412f7a936ee0aedd08d2061da54878da63c481f9d8b39e7ccafa5ac481fef5334ab3939e4f6fcc1453ddcf54dcafe68b7f2f621474ab56352903daa976
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="影视",chc动作电影
+http://119.29.119.185:35454/migu/644368714.m3u8?migutoken=e2280f8a74ba5d3d90aa495c042f23bfb41c315e85b1c25bf65c6248f8786b093d0a963ddfe15c1e2190f36a507450247444e555e6c469110dbf18798fbbf3ddf6e0e6e8826b5c516e2a2bd9c9
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="影视",chc家庭影院
+http://119.29.119.185:35454/migu/644368373.m3u8?migutoken=72f7b7999f7ce86b0a70e3a8512c5bf7211d22ed5ca1caa6cb3a8e6f289e27ed2e4d8e4bbde7532fb73b136de317e0398b64eddc32498f8e4cbc0615e484d32d5acb940b66e446608293f46fa0
+#EXTINF:-1,tvg-id="南方影视" tvg-name="南方影视" tvg-logo="https://epg.v1.mk/logo/南方影视.png" group-title="影视",南方影视
+http://119.29.119.185:35454/migu/614961829.m3u8?migutoken=c737eb80c77a1e4858a3ae1e1c00c89d7c8c5a040637c90bd6a55c118457ad26ef3763750ea4f785ac6059a613e82282d8d7e03c6a2ce3a3763ce5077a1e356be32dfb57c0b52557232e583fe4
+#EXTINF:-1,tvg-id="红色轮播台" tvg-name="红色轮播台" tvg-logo="https://epg.v1.mk/logo/红色轮播台.png" group-title="轮播",红色轮播台
+http://119.29.119.185:35454/migu/713600957.m3u8?migutoken=f45e4fbb70775991d8a32015e818cbc1bfc8ed523cb5f181daee9ed171a2c0e654d49c54ef8b50dacbcfdab7022b1a656e3061060c2e3095827b9c0db9a63eb774281ed8704589284af5441c78
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="卫视",欢笑剧场
+http://119.29.119.185:35454/migu/790187880.m3u8?migutoken=24d4ac4772a68af722d204ec493d5939eb9708b9161b3d330c7adfac6727370f9851abbea2cd6c7ab289dfd0424ade8c2ffc2378111a94854b7c693b3d2ccf741d88d0295ba9610b94d561de51
+#EXTINF:-1,tvg-id="金色剧场" tvg-name="金色剧场" tvg-logo="https://epg.v1.mk/logo/金色剧场.png" group-title="卫视",金色剧场
+http://119.29.119.185:35454/migu/713591450.m3u8?migutoken=78b8347d023e86c3cd060119d866996c5d04ad27b166bed914ddb453146f7027ac2543c0c38b4ed36aa8a779201977d53c88a2f788fde1867569aff3b85bbaddb65f41000b1d4010f2b9de373b
+#EXTINF:-1,tvg-id="NBA经典" tvg-name="NBA经典" tvg-logo="https://epg.v1.mk/logo/NBA经典.png" group-title="体育",nba经典
+http://119.29.119.185:35454/migu/788815380.m3u8?migutoken=110c4ab6d9d63dd1cdf8d4065b1b0f404b2cef17f059153a210ceb53a9b65c4d4646ac6a80a0adced7ec608ce28155a479d9f094951a568b66fc511db2f8288896ab6d81676c956746ece9a03f
+#EXTINF:-1,tvg-id="五大联赛经典" tvg-name="五大联赛经典" tvg-logo="https://epg.v1.mk/logo/五大联赛经典.png" group-title="体育",五大联赛经典
+http://119.29.119.185:35454/migu/780288994.m3u8?migutoken=d4f1ea9b869a23a0cff153b9c56295699f781670a1e2a999f1d1070e76fe8b507ff4428ea4111e40b06cfec5e8ac2a22b4ff8ad389fbbd2d40cf32943e38d857e981bd5271973dfb244c397d70
+#EXTINF:-1,tvg-id="中国足球风云" tvg-name="中国足球风云" tvg-logo="https://epg.v1.mk/logo/中国足球风云.png" group-title="体育",中国足球风云
+http://119.29.119.185:35454/migu/788816794.m3u8?migutoken=c26cdaa8212a06d79ac4b889373a810a8539dc658b735ab646bd9b3db210bd71d3526144198addd599bfd0613ee4db31951e9240f141131773a8233a309d77e7a5b2329f6865d5a2b1ca02cdeb
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="体育",劲爆体育
+http://119.29.119.185:35454/migu/796071336.m3u8?migutoken=5506638e18a6a41d55ab00f3b6ab383c452346f17ab7c8a7b84f221a2a9825d9ae835aceca8a50b74138048c009168c9310996f3c3ddbb867486d7c7031210e601ec1bbdf680ed9dbeb99420c1
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="体育",魅力足球
+http://119.29.119.185:35454/migu/796070308.m3u8?migutoken=42d6143fa976f925edc29ab5f666efad5d54ae71c2f94634ec3c230ef6b17380e300ad6eb328acce932f394d5955364c4f3ca9d4bfc58987e303852e4fada2d10cee76e938ab7f362c0d0e2d6f
+#EXTINF:-1,tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://epg.v1.mk/logo/赛事最经典.png" group-title="体育",赛事最经典
+http://119.29.119.185:35454/migu/646596895.m3u8?migutoken=98693a830da0a020b0d0ea75e93e98369e07ad045389112e57a075e6c74c65e991abfc5ceccff14dccfb689fedb79d16963ce56a362cb233473d45b4ab05b12a3cc0c0e23eea4d7beec7f00f77
+#EXTINF:-1,tvg-id="掼蛋精英赛" tvg-name="掼蛋精英赛" tvg-logo="https://epg.v1.mk/logo/掼蛋精英赛.png" group-title="轮播",掼蛋精英赛
+http://119.29.119.185:35454/migu/631354620.m3u8?migutoken=e754e4c6430cc473a22f4b61b4489856434778b2baf379e23a2e5f6ccf86a03547bf436b87858f7bba03eca241aabf99eabad328da852e7dd06cf6425a601f7aafdccce02bb71954ed2d277460
+#EXTINF:-1,tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://epg.v1.mk/logo/体坛名栏汇.png" group-title="体育",体坛名栏汇
+http://119.29.119.185:35454/migu/629943305.m3u8?migutoken=ed43d72ccc300411df7d6f00c3c29232d424a7bff1e8d46ba388e7213196287f69777bd772160066e836a2f54fbe0368b93c79f507d3aaf3e565538fbf80eec18c4601a0530fd6733fa7ed2e5a
+#EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://epg.v1.mk/logo/四海钓鱼.png" group-title="卫视",四海钓鱼
+http://119.29.119.185:35454/migu/895358641.m3u8?migutoken=df4c06e5f7b447c47e4a8c948a50b8a59ecf5bf6a6e039a5d867b83a6764ba0652c3844efd4e0c1accc120eaa74d08defa6b86b3c0537b5fb4c235d0a789f10f69f03041446b3b7643e5a091aa
+#EXTINF:-1,tvg-id="咪咕24小时体育台" tvg-name="咪咕24小时体育台" tvg-logo="https://epg.v1.mk/logo/咪咕24小时体育台.png" group-title="体育",咪咕24小时体育台
+http://119.29.119.185:35454/migu/654102378.m3u8?migutoken=23e3ed07cae98aca44879b9219082219f0277ab602867e780286378c20a422372c2d23e541f6303a8b9327a91f68f852f81e4a30e1cb567e4e6f4d64d58515c864929d6ae43ce390802fd067d5
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="卫视",游戏风云
+http://119.29.119.185:35454/migu/790188417.m3u8?migutoken=878bd45ac7a4d4006c720452b9f8a22c6f34b48fde54e4b7d8282a6dc6db82d300746b50a680beb53eccd9b073a2fb04d6e5d014e42a91c49b931c4d89b14c283c9c737109304d8ee5aa73867f
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="教育",cetv1
+http://119.29.119.185:35454/migu/923287154.m3u8?migutoken=d9eece977980488263929b77d093d214102dbdc28d4ca94595bee79eb32ec5476990d248366bf59fea77a2a3e94aa48d1c37d89f9cb5c6fdd171be73fed652bd170fe8a69575b9e421d9ca5207
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="教育",cetv2
+http://119.29.119.185:35454/migu/923287211.m3u8?migutoken=95af4caa5bc52f6b4b7b47f54d94134e4ac6bc0cf78a590a253c870cf7ca12d80d164426b3af1d06ba717f1648aa332758af2f9e9eae2b0018e721029ba363c2fc0491638a8d60c84e0ba06a08
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="教育",cetv4
+http://119.29.119.185:35454/migu/923287339.m3u8?migutoken=6a9c2692402af7e910becb3ea11ba5a6d01cec1b4ca7e97a5096e3c2ac51c172a46509ae343811f07f3f6c14e7fbfb99559cc43ae27e478ccad5d0b321d7ae1f1b20331e5f5a46c953baacef2b
+#EXTINF:-1,tvg-id="咪咕汇盛典轮播" tvg-name="咪咕汇盛典轮播" tvg-logo="https://epg.v1.mk/logo/咪咕汇盛典轮播.png" group-title="轮播",咪咕汇盛典轮播
+http://119.29.119.185:35454/migu/939773601.m3u8?migutoken=9c34a32c9e29ec635fea779439ab47dbffd6ee05365c91dd9ae415fa18529e0b9daa8b70bc233bdf1b29503e68af5d597804c1eaaf5add8f34c6424cdcc5d2b01d5d713a1e81893bb7f5960531
+#EXTINF:-1,tvg-id="华语乐坛最强音" tvg-name="华语乐坛最强音" tvg-logo="https://epg.v1.mk/logo/华语乐坛最强音.png" group-title="轮播",华语乐坛最强音
+http://119.29.119.185:35454/migu/707671890.m3u8?migutoken=777ec21df35c7496a7639375015778f27618e8358b820cb7c08a53934a19769ea5815fa70bcb5378a0423eec4773159027993de2e07e86f2c6827cdc6e58b46d10229171e88d8d70a0bd73324c
+#EXTINF:-1,tvg-id="周杰伦现场" tvg-name="周杰伦现场" tvg-logo="https://epg.v1.mk/logo/周杰伦现场.png" group-title="轮播",周杰伦现场
+http://119.29.119.185:35454/migu/625133682.m3u8?migutoken=036b9815df3f13fd0191ad194125974e90ad286393c39008f4345db0d1506daefd95e7b1f19a009a54cf61152701076f05d27a9b2c6386ec9e8148f9bcee6ee00286f259c4bf86f4962b8f741a
+#EXTINF:-1,tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://epg.v1.mk/logo/最强综艺趴.png" group-title="轮播",最强综艺趴
+http://119.29.119.185:35454/migu/629942228.m3u8?migutoken=0084a85f30ed1b673821c7e7cfad25d35a252bc22314484fc8e0ed28854553b50dace119c7bc90c610d1caea85ccb87e64a74b3e35a2d4ecc19f516142cf25730f7771e8876ea63c6e022fb4d1
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="卡通",嘉佳卡通
+http://119.29.119.185:35454/migu/614952364.m3u8?migutoken=6f73f23138de292393884d86cdcb281e561363f6d54d8fecf21129309a402e283cc8f8df317f143db2a4ca78a722034ef72bc60c2ecc4636abca69218b08624c74e0d304b9f3d2dc366a29b522
+#EXTINF:-1,tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://epg.v1.mk/logo/经典动画大集合.png" group-title="卡通",经典动画大集合
+http://119.29.119.185:35454/migu/629942219.m3u8?migutoken=9d7eaadafa251500a3d906f8882ebb2d8659c0649167f438e01fa7f3e7dbf528bbb78590349dd92d2b6b36cfd3ea1921e6b6088c2df96e419227b702cf1f12bd85bdcfef1bc2d20ffea38220ac
+#EXTINF:-1,tvg-id="中国移动“新动力量”宣讲报告会" tvg-name="中国移动“新动力量”宣讲报告会" tvg-logo="https://epg.v1.mk/logo/中国移动“新动力量”宣讲报告会.png" group-title="教育",中国移动“新动力量”宣讲报告会
+http://119.29.119.185:35454/migu/713589837.m3u8?migutoken=d918245ae5363297cd95adcaaf8496f43249d1fbf6bf5cd2cea47a6abb714687832dff88b46d20a2f02b66402f4393ce5bf0d1bcbbf47156673c9701c0950c5b3eb40409c9011749dd59441b70
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="卫视",法治天地
+http://119.29.119.185:35454/migu/790188943.m3u8?migutoken=9f07d23af44b8fab1e7013e0caae7847a68cbccfca28c2629996e142de0226a78f90e12f819b428e7edfed75fc35d0ed930abc973bae01ce4fdf097d9475102267b7bb0a5f2c05d8ae057f15b7
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="卫视",乐游
+http://119.29.119.185:35454/migu/796070452.m3u8?migutoken=6b993b967c4af25e6122454ac587fde939d4f87cedfc66d59151e9b6a56896301f53c8a8559e29cad1b561b2fbfa6448da738e370294d1982d390a56004cef0df4ce8566775d63336b5200d5d8
+#EXTINF:-1,tvg-id="龙胜龙脊梯田" tvg-name="龙胜龙脊梯田" tvg-logo="https://epg.v1.mk/logo/龙胜龙脊梯田.png" group-title="户外",龙胜龙脊梯田
+http://119.29.119.185:35454/migu/671441336.m3u8?migutoken=bdfa23b8e421fb7be673fa5424d9fa9f791df9893c47a4a08479051c5258445bd826aa2bdf9a306cf798e6e6eeddd17895d1fe6cea2c3b6e4e6d44cd6fa6f360bfd0932e8d00b810485aea4162
+#EXTINF:-1,tvg-id="邕城" tvg-name="邕城" tvg-logo="https://epg.v1.mk/logo/邕城.png" group-title="户外",邕城
+http://119.29.119.185:35454/migu/671442018.m3u8?migutoken=a66b1ca032c3cf86b7125de4510cf4acfb339ef91ede2fa52735e34d24af528ad205d2614d762340cde9ab79c2acee2af211f5222921f708e8e611a41e802706a20f56c5e48b05bf415999defc
+#EXTINF:-1,tvg-id="遇龙河" tvg-name="遇龙河" tvg-logo="https://epg.v1.mk/logo/遇龙河.png" group-title="户外",遇龙河
+http://119.29.119.185:35454/migu/671653242.m3u8?migutoken=7787759c9315b3073d189df5092c8edfb3ae305afa0a54d71c7321fe1018cd50823c246684265494cbb9b69fecd25263523eacb43471e564ebd0fdd69a992c9d7769733bbaff640520dd6b1f32
+#EXTINF:-1,tvg-id="钱塘江" tvg-name="钱塘江" tvg-logo="https://epg.v1.mk/logo/钱塘江.png" group-title="户外",钱塘江
+http://119.29.119.185:35454/migu/647370520.m3u8?migutoken=2d45b75bc6052d3967e2fd0691ed7052f7e3501fa31f1c46d8279764b90e55c9420f1bce95fc7695a5c06f78b3f0432edbc6784b27cae773dae8dead01ddcc2ae735530af7f943c0892ae11c46
+#EXTINF:-1,tvg-id="熊猫频道1" tvg-name="熊猫频道1" tvg-logo="https://epg.v1.mk/logo/熊猫频道1.png" group-title="熊猫",熊猫频道1
+http://119.29.119.185:35454/migu/608933610.m3u8?migutoken=b40dc3f37fd8760a38bf02a3021fbd763064fa97ddf5e8924fe1476faf0e0bc19b7a65ee7bf3a71a7ea0557c5ebbb9b2a109051c8fb72c3985737319f9fea30f2aba2d91d48d3fe87b6ead01df
+#EXTINF:-1,tvg-id="熊猫频道2" tvg-name="熊猫频道2" tvg-logo="https://epg.v1.mk/logo/熊猫频道2.png" group-title="熊猫",熊猫频道2
+http://119.29.119.185:35454/migu/608933640.m3u8?migutoken=60d88a28ecb197496b6998e4915aecb70bb849901b65379e3dac38bc4d85cd3ba3bb9bf441006d32efbecf5e9bccef1a6c3bbedb4a3187b00af9959c8ed43ddbdcb29b33f5e3457c978a2f0483
+#EXTINF:-1,tvg-id="熊猫频道3" tvg-name="熊猫频道3" tvg-logo="https://epg.v1.mk/logo/熊猫频道3.png" group-title="熊猫",熊猫频道3
+http://119.29.119.185:35454/migu/608934619.m3u8?migutoken=004b06d1df2e2b7d3c65143bd19452d9fe1ae69cd01c75da383b1b5e4039441659133ae3b846c5e020c5233d68b7c5f89ac98ddc5a16eb4e94f80bd9caba6191425273e25d9f14477ea7ec6086
+#EXTINF:-1,tvg-id="熊猫频道4" tvg-name="熊猫频道4" tvg-logo="https://epg.v1.mk/logo/熊猫频道4.png" group-title="熊猫",熊猫频道4
+http://119.29.119.185:35454/migu/608934721.m3u8?migutoken=deb809a2435a52e7cb86054d8c1d74ace0686197c6678a6f5bb4ada629dc10aee3199162483ca3307da9f47fb0f9ae12f623d28c902fd9677347cc96cf474ed3889092a73cc52289f9714ac3c4
+#EXTINF:-1,tvg-id="熊猫频道5" tvg-name="熊猫频道5" tvg-logo="https://epg.v1.mk/logo/熊猫频道5.png" group-title="熊猫",熊猫频道5
+http://119.29.119.185:35454/migu/608935104.m3u8?migutoken=cce37696c13eed1acd7065489a41e337f5a8d6f8a4a4151b89f22d7e49f1cf547f9cc0be9146c682fc057a88c66f1e24a5897ec3b9ac5cfe138803e8cd8925a1ba915362dfe23a3130cdb3f941
+#EXTINF:-1,tvg-id="熊猫频道6" tvg-name="熊猫频道6" tvg-logo="https://epg.v1.mk/logo/熊猫频道6.png" group-title="熊猫",熊猫频道6
+http://119.29.119.185:35454/migu/608935797.m3u8?migutoken=7416cdf03f5edc99f350df347e9f720a0e5bf93f436cdf49ebacef1fec0290dfe0da6eb320891b6178bf709fe03e76e2fb6d5e73322c4dcfe2143a11fce69393e9f454548575c6d6ef5c3baf81
+#EXTINF:-1,tvg-id="熊猫频道7" tvg-name="熊猫频道7" tvg-logo="https://epg.v1.mk/logo/熊猫频道7.png" group-title="熊猫",熊猫频道7
+http://119.29.119.185:35454/migu/609169286.m3u8?migutoken=ee92fdde23a2418a1690e62294093891bbde9ba1247d870956f89ca2dcde81f254deeef08835918e4cec7f2203b446989a895a7077c01f15f50f03549f67f69de709daa4e09d129679f2e300da
+#EXTINF:-1,tvg-id="熊猫频道8" tvg-name="熊猫频道8" tvg-logo="https://epg.v1.mk/logo/熊猫频道8.png" group-title="熊猫",熊猫频道8
+http://119.29.119.185:35454/migu/609169287.m3u8?migutoken=e4f9f9f3b88d7f43eb2c20e8b6ff133abe74d90017efbf2263992c735f5b2719d88eb72cbb50ae06bd4b92e2d65e719e0c6808402e48a00820bf23d3f694f637e5fae885bb38b76cc9f5ad6309
+#EXTINF:-1,tvg-id="熊猫频道9" tvg-name="熊猫频道9" tvg-logo="https://epg.v1.mk/logo/熊猫频道9.png" group-title="熊猫",熊猫频道9
+http://119.29.119.185:35454/migu/609169226.m3u8?migutoken=3313e1b88fbce9dc1060cbcfd186d87079a5ba0b810ff4dafa8b93e1ca5fa1b2c010f567485b590954c3da00cee078807f657b038dc89c4a388285fbf4b491c48b05629702f4c946a462a16213
+#EXTINF:-1,tvg-id="熊猫频道10" tvg-name="熊猫频道10" tvg-logo="https://epg.v1.mk/logo/熊猫频道10.png" group-title="熊猫",熊猫频道10
+http://119.29.119.185:35454/migu/609169285.m3u8?migutoken=b9a3105771573bb7ff44491a6acb81d638b2965258a2484937db424cb3ce2c36c2e54b594da3eee9c680bf803381f4f58d37836cd18ae0bf47e41674766060df39b9d1060b12511785c35258bd
