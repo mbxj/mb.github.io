@@ -81,7 +81,7 @@ http://119.29.119.185:35454/migu/849116810.m3u8?migutoken=dd44bfe15144a0d2a9fc3f
 http://119.29.119.185:35454/migu/849119120.m3u8?migutoken=7f2d8308a9e27cc7c1a63ae30b99fa748ff4241f1e958463120d64242e06b0fd52258c969878f336804a091d3501122ff316b22450fc9469010d7507cd6c14e01e3d28337dd5f7cc82fe2af014
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://hms324nc1972679589.live.aikan.miguvideo.com/wh7f454c46tw2798117206_534625662/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208135757&ContentId=265669068&timezone=UTC&mtv_session=a7852be50c229d6c873701b558b6dfb0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a25dc6f8fd7b81457c78f0c5c1756e45
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="湖南卫视",湖南卫视
 http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1591995316_1587683132/wd-hunanhd-2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=265667721&timezone=UTC&mtv_session=7b07894c57472651304a93669cf87e9b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=617e25748c5f12b7864cc6fb758deaa7
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="新闻",上海新闻综合
 http://119.29.119.185:35454/migu/651632657.m3u8?migutoken=4f7846471926241d8b0e94ad23b61750a34d89e60fc4f7e660acd8b17a1333cb31199b33acf8bb28317d509f4a5be9f57cc0f8f9fae6d3b340cfaf8cb42a3e36c95d1530dffe22bb497e45b651
