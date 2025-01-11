@@ -65,16 +65,10 @@ http://119.29.119.185:35454/migu/783847495.m3u8?migutoken=dc9db28f2921726942d095
 http://119.29.119.185:35454/migu/790187291.m3u8?migutoken=8af9ba0b460083ac434aa14dd79e96f66bb385eaa4eb712c7b6ebaeccdadf217e975928a30b1b84e03afb2e1fd5c6012957f9be5a56c170e240081f7107db413a85f10ff21b4bd0051fbd8af42
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://119.29.119.185:35454/migu/738910838.m3u8?migutoken=1aed1e4b84502eadf516ff5df19ddb82714a124ef72ae4199a9a664971f159242ec89579543f2df9215b2e580d7949b5902b536dd8bcf616cedaa6288a53091829d81d8bafaca33bc5585511e3
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="卫视",海南卫视
-http://119.29.119.185:35454/migu/738906860.m3u8?migutoken=2a9d7095a0a9accea1a4784715ae18df9decdd6a45cd25fc8e6c4e1c06a5a53fd722d0333ba832fa844b709a6fb1af6663fd7060ed0d2c1d5fdef2d3cfdbf36e848fb43883cc995d8894dd85df
+
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://119.29.119.185:35454/migu/608917627.m3u8?migutoken=724b8eb3588d5b8b4ec2696c6cca7c8daf49ce2a48aae41a1a03c91e76d2524a5e23f9697bd01459d6a45d7a4d2d80f32e62034916a3e2b27581776e01b2d4fce9514b68c6ac8c9aa4e97020da
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://119.29.119.185:35454/migu/738906825.m3u8?migutoken=1845d3cdf92aae9f7ca81d9fb5f56a524763705ebe1460911273d69469fd5bd81332058d7dab9fde16edb08ec23c0a0a34b3c4229ebd8f872e43f7996e3b74844f5a3e97ba77fd00dd4d13357c
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
-http://119.29.119.185:35454/migu/738898486.m3u8?migutoken=37799809d6176466f734e31881e1c3b4c6fb44fd400f815ce9f2c5ece50f432ce351d22948237dbc4abebf351ce630bcc79559856c49c401ee319011226563e9d981e1ad58759bd6b63ec327c6
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://119.29.119.185:35454/migu/738906889.m3u8?migutoken=9fecda0eb7e7ba2fbb2421c67649b21bccb2a138daaa797e5f2330fc24c0728d170e757ac415dd600673e6d337663d60c0d22a4827e3fbdaef1f7719d561c034719bb3191e26c85a28156f343f
+
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
 http://119.29.119.185:35454/migu/849116810.m3u8?migutoken=88063b5ec5dd4f224532437f86d143ed59120f476041438e8e376952e30b8b2a05d9bff264cbcfd4d12ac09918f3960317d690f2b2151659b4e22bff8475319217e829b348b6a2d8df49053784
 #EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.v1.mk/logo/海峡卫视.png" group-title="卫视",海峡卫视
