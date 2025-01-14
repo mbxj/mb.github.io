@@ -71,6 +71,8 @@ http://119.29.119.185:35454/migu/608917627.m3u8?migutoken=fd1af9eaefb3715c8e66fa
 http://119.29.119.185:35454/migu/849116810.m3u8?migutoken=fe9fb2b826bf7981f83de6fe277882271d24fa94a9d4dcd12c0091fe6229fdccd5f2f1f443dafdbb003c42e7961e63d23d26c2f92806dd4a1d9acbd1821e3dda6c923264dce0b162dfc5ad9094
 #EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.v1.mk/logo/海峡卫视.png" group-title="卫视",海峡卫视
 http://119.29.119.185:35454/migu/849119120.m3u8?migutoken=03a4dc35e46713a4dfb2c024d51f3a1347dfbad9dd6b8ddcacf7afbe78262289a1f170dd0b0b15ec9b25b479660dacdf925f6cc1ebdf3b170bca8b0fff6870235f6f9fa26854213017b94c26bf
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=11355377224826061225
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="新闻",上海新闻综合
 http://119.29.119.185:35454/migu/651632657.m3u8?migutoken=62bfb5303dbbc84bf73e04d84426271ac6e171e3597f06bdb0e0f5408fca30848e7e1f2847f65a6ab26524ca5a8a1a210f444e0cb2a6b16e0bf34fb19c5434f35d8bad03d604a8f467f3591760
 #EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.v1.mk/logo/上视东方影视.png" group-title="上海",上视东方影视
