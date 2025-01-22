@@ -573,6 +573,9 @@ https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 
 
 
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",北京卫视
+http://cqshushu.us.kg:2086/bjtv.php?id=bjws
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京频道",北京文艺
 http://cqshushu.us.kg:2086/bjtv.php?id=bjwy
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京频道",北京纪实科教
@@ -581,8 +584,6 @@ http://cqshushu.us.kg:2086/bjtv.php?id=bjjs
 http://cqshushu.us.kg:2086/bjtv.php?id=bjys
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="北京频道",北京财经
 http://cqshushu.us.kg:2086/bjtv.php?id=bjcj
-#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="北京频道",北京体育休闲
-http://cqshushu.us.kg:2086/bjtv.php?id=bjty
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="北京频道",北京生活
 http://cqshushu.us.kg:2086/bjtv.php?id=bjsh
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京频道",北京新闻
