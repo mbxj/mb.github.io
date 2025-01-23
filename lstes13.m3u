@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 01/22 19:25_WCBA常规赛B组_江西赣星 VS 厦门环东文旅_清流播出
+http://119.29.119.185:35454/migu/947048951.m3u8?migutoken=e90607352abbc8b17df7ece47458f043dacd7875a4ac1b8ed88aeef168055923bae97830657b9bc818b852a923aa910bf4309cf4281f9fe8b75ba54de07bcd9c14447c8212c686171424125c48
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 01/22 19:20_WCBA常规赛B组_合肥文旅 VS 武汉盛帆黄鹤_现场解说
+http://119.29.119.185:35454/migu/947049090.m3u8?migutoken=654de406e858201771dc76d6b38786936689a95ea24c135c0bf170b4a7fa050158356934882b6f840191b86164923a1c4418079f4426e2a0ce320095f2ad70026d6dfc1b9ed8cdb05f6931cd85
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 01/22 19:20_WCBA常规赛B组_河南豫光金铅 VS 黑龙江上东_现场解说
+http://119.29.119.185:35454/migu/947049407.m3u8?migutoken=5bad50abcc7b9ce6d8c02453fafc1dcd98b81cf27e8674f66f12bf9f3d89d15f7720bc205b6577066dedd1305a19b5a3a7d4ce764bc5ca86f1467f8968cc56cafc37c712923ae87adb41fd649e
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 01/22 19:25_WCBA常规赛B组_辽宁大连体产 VS 陕西天泽_清流播出
+http://119.29.119.185:35454/migu/947048855.m3u8?migutoken=8e68e55056501b140a1dca3a33bac0416a110001a7b96740e6c40b4390f2b4ac3265748e3bbbeef3219fc627e27d87fdff649493dd2b417a95d3e89dc01515f5605b18bd0758f31c85f1a528f5
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:20_CBA常规赛第34轮_北京北汽vs深圳马可波罗_孙博 丁伟
+http://119.29.119.185:35454/migu/947106849.m3u8?migutoken=44be996991774d737cc053e665b2a498217e8373433a3e3cc582cd0d1008c6ec8af52907ba54aec759b769baf6254702c6a7cb8b0bd92533bc4001d94063a393d5a14170e95398079fbc4b4560
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:00_CBA常规赛第34轮_北京北汽vs深圳马可波罗_浙江vs福建
+http://119.29.119.185:35454/migu/947107632.m3u8?migutoken=90c09afb12ec122c453bd6bb51f9c48b6930d9e78031cf2a313f767ac33ae20fe0a0b54d82f2615c9e52c2afe3b3970a169f1d978bbcd2bd43ac828d35d2164ae94ae5f112b5970e03378bd156
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:25_CBA常规赛第34轮_北京北汽vs深圳马可波罗_现场原声
+http://119.29.119.185:35454/migu/947106801.m3u8?migutoken=ec57571ea9b1557332831ff7df2f7b3cc8762af6541de308ada19d773430b3ff8838776ea9b080cbdb11cf5776092e079b127638cb1e47dafe70ee2b87a727993f2bd513838ea1e4207d94f851
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:00_CBA常规赛第34轮_南京头排苏酒vs山西汾酒_吕程 季孟年
+http://119.29.119.185:35454/migu/947107834.m3u8?migutoken=68f76d1f9f15d78ace7449e13c9da4cd2e1724685fb2ac4fdeb8fb5572236ff00133481783b3a2c365ca3fad3849be7e549e1fe4b5aada61ae6b3146f928685ff79b032ae1e1b86c35040c5cc1
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:25_CBA常规赛第34轮_南京头排苏酒vs山西汾酒_王港
+http://119.29.119.185:35454/migu/947107760.m3u8?migutoken=12fabbbe1ed1f57d259b1f760a28ef5cf6fe503712ae24934c2037720c918f9fbd421293494736168c800c8415a7c1a1b24efcd66b2fd86e76f57a77a4af2b4863b0a16189c65e40df16d792ed
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:25_CBA常规赛第34轮_南京头排苏酒vs山西汾酒_石楷文
+http://119.29.119.185:35454/migu/947107718.m3u8?migutoken=2bd9d14b0da6107ea6b66f32907e6e677b159f1a359a4c2b0019895a0077919a4098daaac785f062ccc0ee96d1e8d28afe9fe03b5c72d4eee86e5e7919a73dbc29a418f5875f2fd03968f26cc6
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:25_CBA常规赛第34轮_南京头排苏酒vs山西汾酒_现场原声
+http://119.29.119.185:35454/migu/947107703.m3u8?migutoken=9c67dae35f924c12343ce6d440cc0c1e844e08299ca61411ca0594f93eb5014abe71113f1a5cce700c84b4d4b43f1a9c48da162589b0155671738e9101bde2d400e1cdbd43fd5c464bba5f1e68
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:25_CBA常规赛第34轮_浙江稠州金租vs福建晋江文旅_现场原声
+http://119.29.119.185:35454/migu/947107592.m3u8?migutoken=f8913dcabedc9e7ad06e8e5716e1b7e61a2f79f34e8e8c8d7285ff6f393cda530f37acba74c6e6ebc19e82ff4a87d26fe0823001f008716b001248052f35f70db9f95eca0d8b64d944eae57bb0
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:20_CBA常规赛第34轮_上海久事vs广东东阳光_李天宇 陈正昊
+http://119.29.119.185:35454/migu/947107499.m3u8?migutoken=6f606aa3d841823521ce79c8e2f60e6f43110b7c0350c423c985bc08a9c8dff9432b56f4163128fc67efdc1f1882ec53fd7c8e427f6ab7c5c20f4d913d3239314627e75cb2b57e55aaa7cdd5ba
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:25_CBA常规赛第34轮_上海久事vs广东东阳光_张俊卿
+http://119.29.119.185:35454/migu/947107383.m3u8?migutoken=23657fc2c2544999d33fce558972da8219277cc50822eb40d939438a1a5f2811d6435ddc2ea6d205d989c283116bae0bef733e1f42d0f7925802518d5fa68d8c15a85035bfdb62b6423f134635
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:25_CBA常规赛第34轮_上海久事vs广东东阳光_翻译小余
+http://119.29.119.185:35454/migu/947107343.m3u8?migutoken=18db8b1b25ac9db47d1a1961378df6cd56a4268729324a883a1de0925fad98ae7337c16a37a8486d526c19a0de1a4e12731c114aba640e5f06d087cc1fbffd1cdc60e16b7b3e9ea67797f83d26
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:25_CBA常规赛第34轮_上海久事vs广东东阳光_现场原声
+http://119.29.119.185:35454/migu/947107063.m3u8?migutoken=bc63e744b14eb5a6c52e990be27240a105eb930c27a782271628d2d9741bf2bbeda3479ba3976e640230fa3035c719372eaece11b2c6d45ab80fa1c9ed51b77b55050b71c99771547c8ae9562c
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:00_CBA常规赛第34轮_广州朗肽海本vs北京控股_刘圳展
+http://119.29.119.185:35454/migu/947106914.m3u8?migutoken=ecf2065f329125dc4efc5273e99af365bd32dd09572ce0cb8a269f087982d45f8fe6fbdd5d6f808c00fa572258ac4d0262080dd83d06264727dacdf620f6d9d8eea7316d1d3653406c328f6bac
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:25_CBA常规赛第34轮_广州朗肽海本vs北京控股_张泽欣
+http://119.29.119.185:35454/migu/947107017.m3u8?migutoken=d8ec8514f73f704680c4924dd5def22c10362304ea16f7a8ba0c8762fa15cf7a1e06948e65bfac813d6207b6a240be10b2915bd1881bc69600ee41a5c5b9ff374873b89f63ed5cd7644171fe1e
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:25_CBA常规赛第34轮_广州朗肽海本vs北京控股_周赫
+http://119.29.119.185:35454/migu/947106970.m3u8?migutoken=4f8f5ef1cb518a110ae80e4a47e3058430833077b0208bd25aa7da456895a384dabec335793c990c10157be78de55d0e50aaaca4ea5954daa1bc4157c7cb8daef51901b8482c1615eae1da70a3
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/22 19:25_CBA常规赛第34轮_广州朗肽海本vs北京控股_现场原声
+http://119.29.119.185:35454/migu/947106945.m3u8?migutoken=bab95c5b6a92f4ee50b783dc9ebcb4e1f4a22181913d960d188e29fa48157a6694d8b40b752488909b4c23807be783b560803c1d0470bb94f88a971635f889cad00a3f6de907cf5b0b9ce610e7
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 01/23 16:30_JDG vs OMG_JDG vs OMG_官方解说
+http://119.29.119.185:35454/migu/946355500.m3u8?migutoken=a4385cac3be8e4b016b7e0ccfcf72c75ae3e3e270242573b646304540b479a451ae33e93324cca27109464266343d1efb20d5f1e1df6a8c5e308953b10e604814e9adc1d88ebcebb3645399372
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 01/23 19:20_WCBA常规赛A组_内蒙古农信 VS 江苏南钢_解说
+http://119.29.119.185:35454/migu/947045060.m3u8?migutoken=8cf5b5dae7bce1bbc9719fb6badef0030825556b041e66c024c9192c6aff42b9ded5f9b515bbecaf66bb1ecef0efa0d58e1705115b09accf6ccdf8104dfa42b91540aee79080a6ee44790e1582
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 01/23 19:25_WCBA常规赛A组_石家庄英励 VS 山东赤水河酒_清流播出
+http://119.29.119.185:35454/migu/947044825.m3u8?migutoken=3903d7405ef8d5ee08211e6cbaeeb5902e2a131a3bff890934ed20a2e0e1ac4cfadafae863e332c126845e0f7b2062dcc8e13de9723261f5764acea6cb8d85fd6d622d9c7ba059ce48721d8c2c
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 01/23 19:20_WCBA常规赛A组_东莞新彤盛 VS 上海浦发银行_解说
+http://119.29.119.185:35454/migu/947045466.m3u8?migutoken=7670c8480d226fa7f3c8c6e413eb3b8a6808edcc4cc1c85239eb3b2299e9fcb774721139967745818ca4643b9e4cd290c5fdab489404d9c87a539f414c974413ccf9f6c938c8d03c2677b7542a
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/23 19:00_CBA常规赛第34轮_九台农商银行vs新疆伊力特_庄宁宇 徐咏 王羽希
+http://119.29.119.185:35454/migu/947100819.m3u8?migutoken=260b894611e8b8b1e7c076fb60ceae2687bc7759ea82ff84589ee0fa56090fd93207576f6299dce83d8b5ba5c2e5701c8ee37df17e39bfa564c09125ae4820844b0c4c460dc79f6656cfc65299
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/23 19:25_CBA常规赛第34轮_九台农商银行vs新疆伊力特_房峰浩
+http://119.29.119.185:35454/migu/947100755.m3u8?migutoken=ce2a4cd08c6cb1464ec10904ad3291217b7fbbca1ca7d91f16835670ead390ed3ed66068cf822fc033c3685325f3b2c382a273be67458e56e6146ad5e6c058f3cd34eed7e2feb792722179146e
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/23 19:25_CBA常规赛第34轮_九台农商银行vs新疆伊力特_盛哲
+http://119.29.119.185:35454/migu/947100692.m3u8?migutoken=8f2b98360c1c15bc830b03bc29d1d92778d1b1cada3538762529ead4f5bb1c9fbdf449c01183aaf7fb534d3117d9165d6244faad67e13e6277b81d234f68f46abafd7be79388f750380246c562
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/23 19:25_CBA常规赛第34轮_九台农商银行vs新疆伊力特_现场原声
+http://119.29.119.185:35454/migu/947100613.m3u8?migutoken=79fd805d2ff529400d5ad85b5798c30021fca02b813c816a60d6a1864b83022dddea5bb5f283a8385eb3a2a55270c3eb6d6332742234b3112b5baf9488ca255c83ee95177f61aad8b098ececa7
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/23 19:00_CBA常规赛第34轮_浙江方兴渡vs辽宁本钢_杨健 曾令旭 拜月宁
+http://119.29.119.185:35454/migu/947100512.m3u8?migutoken=d7dc43e101cb74d7add2449cbb2195ab33c1fdfbea301c9136550e1f3428dabd99d0d0e5315669e02cda5049b16c9936a0c14ad81956de3334b05fd3d64b93d1d52823788cbb1c23a8880e4da0
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/23 19:25_CBA常规赛第34轮_浙江方兴渡vs辽宁本钢_郭知昊
+http://119.29.119.185:35454/migu/947100361.m3u8?migutoken=4ad555d8beed598de167058b7aba2644b4e3e63ad166125b12e36a8dd621e7f8843505b3a9e617dc8877c6678f7fab36f24ad5a5543b0ea25bb32666be24a199f82f6142ffea8f1bcec86c4550
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/23 19:25_CBA常规赛第34轮_浙江方兴渡vs辽宁本钢_哈秋
+http://119.29.119.185:35454/migu/947100306.m3u8?migutoken=209c16a20d758a2bb7bce7aed3bcef91917127c6e1bbb3c1b48ec64ebcec65d34b2a8349decc0dbcb40b2b9de1d4cb3f4d19eb1a2052c17b295688ca6bb6fabebc6a8644caeeffdb7d69d51c22
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/23 19:25_CBA常规赛第34轮_浙江方兴渡vs辽宁本钢_现场原声
+http://119.29.119.185:35454/migu/947100242.m3u8?migutoken=33418510b30c36f707ebe6cd8d13b0f7999ce079921b0e06fdfeb47549107a97f4b446ee40a0dd16c7ca6604a6e4cc13b7eefb2afa03344a6c9fe59261ba96684a3c96ef052b565f4a65191d6b
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/23 19:00_CBA常规赛第34轮_四川丰谷酒业vs青岛国信制药_蔡凯臣
+http://119.29.119.185:35454/migu/947100145.m3u8?migutoken=68b6a24116b313d99d58207a9b1c08129788486929087e40286df17b5f5d1bd03ebf803a42e9e1ebfacceae05fe4b4f4ecefe6972938d5d404991606d95982f2fe4cc65aeb1d44ae495a2b13ec
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 01/23 19:25_CBA常规赛第34轮_四川丰谷酒业vs青岛国信制药_现场原声
+http://119.29.119.185:35454/migu/947100012.m3u8?migutoken=635541136a62377d58252e53620fb82243503a893d032d14395bb9115da1e99ea0c09ec2d7763d780ffc70e50ef9a1bcc08d4fe694fd3edd1177f83a77be08a251417f41bab0c79e0cdde2d17a
