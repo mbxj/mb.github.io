@@ -740,7 +740,19 @@ http://49.232.131.30:99/dxxw.php?id=xy1
 http://49.232.131.30:99/dxxw.php?id=zk1
 #EXTINF:-1 tvg-name="济源新闻综合" tvg-logo="https://live.fanmingming.com/tv/济源新闻综合.png" group-title="河南频道",济源新闻综合
 http://49.232.131.30:99/dxxw.php?id=jy1
-
+#EXTINF:-1 group-title="河南频道",洛阳科教
+http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
+#EXTINF:-1 group-title="河南频道",洛阳文旅
+http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="河南频道",河南卫视
+http://49.232.131.30:99/dxxw.php?id=hnws
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="河南频道",河南都市
+http://49.232.131.30:99/dxxw.php?id=hnds
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://live.fanmingming.com/tv/河南民生.png" group-title="河南频道",河南民生
+http://49.232.131.30:99/dxxw.php?id=hnms
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://live.fanmingming.com/tv/河南法治.png" group-title="河南频道",河南法治
+http://49.232.131.30:99/dxxw.php?id=hmfz
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://live.fanmingming.com/tv/河南电视剧.png" group-title="河南频道",河南电视剧
 
 
 
