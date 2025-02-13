@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视", CCTV1综合
 http://119.29.119.185:35454/migu/608807420.m3u8?migutoken=2d169309435385b1250451ef4520c86e21d9a0094279eb412a66e7d83fd17a73ca95cdc343fb1e239b418c17269946fe169ea34e25569d4ead58377500ad9202891e5b723f1833f58ed3d09793
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="央视", CCTV2财经
