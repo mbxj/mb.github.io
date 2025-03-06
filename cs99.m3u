@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视1", CCTV1综合
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视2221", CCTV1综合
 http://119.29.119.185:35454/migu/608807420.m3u8?migutoken=d8b877a81ccbfb66d2a58162cf2a67e67681abdedbd0d2e68bba1e6b4d6beb3b51ce4f2a2093634a497f8ab26c20c40bbab7d3abdd2f8920c063847610a425f7f8432b0aa32462646e361f76dc
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="央视", CCTV2财经
 http://119.29.119.185:35454/migu/631780532.m3u8?migutoken=ace69711dcf04260928b7365ca3adec5f04e8c4f772a2463f4d9ac82e7a89abf4fafe4817af35d9a6f80b39d04bd8455c76ef14e2788aac1cb997c91bedaad504734c1ba7fce46c3ce00dc0c51
